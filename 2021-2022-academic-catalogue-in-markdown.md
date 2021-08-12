@@ -91,47 +91,47 @@ Table of Contents
 
 
 
-Who We Are
-Our Vision
+## Who We Are
+### Our Vision
 Our vision is to empower faithful Christian leaders for every generation, culture, and community.
-Our Mission
+### Our Mission
 Our mission is to re-imagine Christian discipleship by
-Delivering contextualized theological education
-Building faith, character, and competency in students
-Resourcing churches and agencies to advance their mission
-Developing sustainable partnerships for our shared vision
-A Ministry of The Canadian Baptists Of Western Canada
+- Delivering contextualized theological education
+- Building faith, character, and competency in students
+- Resourcing churches and agencies to advance their mission
+- Developing sustainable partnerships for our shared vision
+### A Ministry of The Canadian Baptists Of Western Canada
 Carey Theological College is a valued resource of the Canadian Baptists of Western Canada (https://cbwc.ca/). The influence of the College extends far beyond its denominational home, as it prepares persons for the role of professional ministry, and equips laypersons for effective leadership and service.
-History
+### History
 Carey Hall was established in 1959 by the Province of British Columbia under the Carey Hall Act. The Convention of Baptist Churches of BC is the organizing body of Carey Hall.  Carey began operations in the summer of 1960 as a Christian witness and residence for 42 undergraduate men on the UBC campus. In 1975, a foundation for a graduate school was initiated, which led to the establishment of a Baptist graduate college in June, 1980. The Carey residences became co-ed in 1985, and continue to provide a Christian community for UBC students on campus. The college offered graduate, doctoral, and continuing-education programs of study.
 
 In 1991 the residence and college were separated and renamed as Carey Theological College and Carey Centre. Carey Institute was established in 2006 to fill an educational gap for people wanting to further their theological education and leadership skills through non-traditional means. Carey Institute hosted workshops, seminars, dialogues, skill-building, mission experiences, and short media presentations. Carey Institute also used traditional course formats and culturally contextualized theological education to prepare and equip spiritually maturing persons to integrate theological commitment with life in professional and lay ministry.
  
 In 2017, Carey adopted a new strategic plan that brings together the passion, skills and expertise of our staff and faculty to be known as one entity; Carey Theological College.  As an accredited academic institution grounded in Christ-centred, biblically-faithful, and missions-focussed Christian leadership, Carey continues to be committed to offering world-class theological degrees and Christian discipleship training to the whole family of God.
-Accreditation & Affiliation
+### Accreditation & Affiliation
 Carey Theological College is evangelical and utterly committed to Jesus Christ and His gospel. Doctrinally, it takes its position in the mainstream of evangelical Protestantism. It is committed to the historic, orthodox teachings of Christianity as revealed in the Scriptures. This theological position allows for working relationships with various churches and para-church ministries, demonstrating openness while remaining true to the Baptist community.
 
 Carey is a graduate theological college and holds a charter from the Province of British Columbia to grant graduate theological degrees. Carey holds the Education Quality Assurance (EQA) designation, indicating that it meets or exceeds quality assurance standards set by the province of B.C. 
 
 Carey is also accredited by the Commission on Accrediting of the Association of Theological Schools in the United States and Canada (www.ats.edu). The following degree programs are ATS-approved: 
-Doctor of Ministry (D.Min.)
-Master of Divinity (M.Div.)
-Master of Pastoral Ministry (MPM)
-Master of Arts in Spiritual Formation (MASF)
-Master of Arts in Christian Ministry (MACM)
+- Doctor of Ministry (D.Min.)
+- Master of Divinity (M.Div.)
+- Master of Pastoral Ministry (MPM)
+- Master of Arts in Spiritual Formation (MASF)
+- Master of Arts in Christian Ministry (MACM)
 
 Carey Theological College is committed to credible academic scholarship and strives to maintain a high level of education in graduate ministry training. Carey is approved for a Comprehensive Distance Education Program, and is authorized to offer the MACM, MPM, and MDiv in a fully-online format.
 
 ATS Commission contact information is:
 
-Commission on Accrediting of the 
-Association of Theological Schools 
+> Commission on Accrediting of the  
+Association of Theological Schools  
 in the United States and Canada
 
-10 Summit Park Drive
+> 10 Summit Park Drive  
 Pittsburgh, PA 15275 USA
 
-Telephone: 412-788-6505
+> Telephone: 412-788-6505  
 Fax: 412-788-6510 www.ats.edu
 
 Carey is affiliated with the University of British Columbia (www.ubc.ca) and has access to many of UBC’s facilities. Affiliation with UBC means that certain criteria must be met by Carey Theological College, but it does not mandate any scrutiny or approval of course offerings by the UBC Senate. Carey’s programs are subject to continuous approval of the Carey Senate.
