@@ -180,157 +180,262 @@ For a list of our active faculty, please visit our website (https://carey-edu.ca
 # Carey Theological College Academic Programs
 ## Academic Programs
 Carey offers degree programs at the masters and doctoral level, as well as diploma programs for graduate students.
-
-<table>
- <tr>
-  <th>Program</th>
-  <th>Credit Hours</th>
-  <th>Degree Required</th>
- </tr>
- <tr><td>Doctoral Study</td></tr>
- <tr>
-  <td></td>
-  <td>Doctor of Ministry (D.Min.): an advanced degree for experienced pastoral leaders, designed to enhance leadership skills and theological reflection.</td>
-  <td>30</td>
-  <td>MDiv</td>
-  <td>(3.3 GPA)</td>
- </tr>
- </table>
  
-Advanced Diploma: a program of continuing education in a specialized area of study, for pastoral leaders who have completed an appropriate masters degree.
-18
-Master’s Degree
-(2.7 GPA)
-Master’s Level Study
+ <table>
+<tbody>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Program</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Credit Hours</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Degree Required</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Doctoral Study</span></p>
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Doctor of Ministry (D.Min.): an advanced degree for experienced pastoral leaders, designed to enhance leadership skills and theological reflection.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">30</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">MDiv </span></p>
+<p><span style="font-weight: 400;">(3.3 GPA)</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Advanced Diploma: a program of continuing education in a specialized area of study, for pastoral leaders who have completed an appropriate masters degree.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">18</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Master’s Degree</span></p>
+<p><span style="font-weight: 400;">(2.7 GPA)</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Master’s Level Study</span></p>
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Master of Divinity (M.Div.): the standard seminary program for preparing pastoral leaders, provides a thorough foundation of biblical, theological, and ministry studies for pastoral leadership.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">72</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Bachelor’s</span></p>
+<p><span style="font-weight: 400;">Degree</span></p>
+<p><span style="font-weight: 400;">(2.7 GPA)</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Master of Pastoral Ministry (MPM): a compressed pastoral training degree covers essential biblical, theological, ministry subjects, to make ministry training accessible.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">48</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Bachelor’s</span></p>
+<p><span style="font-weight: 400;">Degree</span></p>
+<p><span style="font-weight: 400;">(2.7 GPA)</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Master of Arts in Christian Ministry (MACM): a theological-integration degree for Christian leaders, offers theological training with a focus on integration for relevance in specific ministry contexts. Specializations are available for various ministry contexts and areas of focus.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">48</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Bachelor’s</span></p>
+<p><span style="font-weight: 400;">Degree</span></p>
+<p><span style="font-weight: 400;">(2.7 GPA)</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">MASF – Master of Arts in Spiritual Formation: a degree focusing on spiritual growth and leadership nurtures personal spiritual formation, provides skills and tools to lead others in spiritual formation.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">48</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Bachelor’s</span></p>
+<p><span style="font-weight: 400;">Degree</span></p>
+<p><span style="font-weight: 400;">(2.7 GPA)</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Diploma in Biblical Studies (DBS): a program that provides for a strong foundation in Biblical studies including exegesis, hermeneutics and languages as well as its practical applications.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">24</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Bachelor’s</span></p>
+<p><span style="font-weight: 400;">Degree</span></p>
+<p><span style="font-weight: 400;">(2.7 GPA)</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Diploma in Christian Ministry (DCM): a program of study for growth and development of ministry competencies. Nurtures personal and spiritual growth, theological understanding, skills for more effective ministry.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">24</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Bachelor’s</span></p>
+<p><span style="font-weight: 400;">Degree</span></p>
+<p><span style="font-weight: 400;">(2.7 GPA)</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Diploma in Spiritual Formation (DSF): a Biblically-based program that provides a variety of learning experiences that involves instruction and reflection, thoughtful practice and spiritual companionship, service and prayer. It is for all who want to move from simply wanting a life with God to learning to live it.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">24</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Bachelor’s</span></p>
+<p><span style="font-weight: 400;">Degree</span></p>
+<p><span style="font-weight: 400;">(2.7 GPA)</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Accelerated Bachelor’s and Master’s Degrees</span></p>
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Partnerships have been established for accelerated Bachelor’s and Master’s degree programs with Prairie Bible College (PBC).  </span></p>
 
+<br />
 
+<p><span style="font-weight: 400;">Bachelor’s programs include:</span></p>
+<p><span style="font-weight: 400;">Bachelor of Arts in Ministry (PBC)</span></p>
 
+<br />
 
+<p><span style="font-weight: 400;">Combined with Master’s programs at Carey:</span></p>
+<p><span style="font-weight: 400;">Master of Divinity</span></p>
+<p><span style="font-weight: 400;">Master of Arts in Pastoral Ministry</span></p>
+<p><span style="font-weight: 400;">Master of Arts in Christian Ministry</span></p>
+<p><span style="font-weight: 400;">Master of Arts in Spiritual Formation</span></p>
+</td>
+<td><br />
+<br />
+<br />
+<br />
 
+<p><span style="font-weight: 400;">96</span></p>
 
-Master of Divinity (M.Div.): the standard seminary program for preparing pastoral leaders, provides a thorough foundation of biblical, theological, and ministry studies for pastoral leadership.
-72
-Bachelor’s
-Degree
-(2.7 GPA)
+<br />
+<br />
 
+<p><span style="font-weight: 400;">48</span></p>
+<p><span style="font-weight: 400;">32</span></p>
+<p><span style="font-weight: 400;">32</span></p>
+<p><span style="font-weight: 400;">32</span></p>
+</td>
+<td><br />
+<br />
+<br />
 
-Master of Pastoral Ministry (MPM): a compressed pastoral training degree covers essential biblical, theological, ministry subjects, to make ministry training accessible.
-48
-Bachelor’s
-Degree
-(2.7 GPA)
+<p><span style="font-weight: 400;">Consult with individual institution</span></p>
 
+<br />
 
-Master of Arts in Christian Ministry (MACM): a theological-integration degree for Christian leaders, offers theological training with a focus on integration for relevance in specific ministry contexts. Specializations are available for various ministry contexts and areas of focus.
-48
-Bachelor’s
-Degree
-(2.7 GPA)
+<p><span style="font-weight: 400;">Three years of a Bachelor’s program</span></p>
+<p><span style="font-weight: 400;">(3.0 GPA)</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Occasional Student Program</span></p>
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Occasional Student Program allows potential students to be admitted into Carey through a streamlined process and take up to 9 credits of study.  </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Maximum 9</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Ability to keep up with the course work</span></p>
+</td>
+</tr>
+</tbody>
+</table>
 
-
-MASF – Master of Arts in Spiritual Formation: a degree focusing on spiritual growth and leadership nurtures personal spiritual formation, provides skills and tools to lead others in spiritual formation.
-48
-Bachelor’s
-Degree
-(2.7 GPA)
-
-
-Diploma in Biblical Studies (DBS): a program that provides for a strong foundation in Biblical studies including exegesis, hermeneutics and languages as well as its practical applications.
-24
-Bachelor’s
-Degree
-(2.7 GPA)
-
-
-Diploma in Christian Ministry (DCM): a program of study for growth and development of ministry competencies. Nurtures personal and spiritual growth, theological understanding, skills for more effective ministry.
-24
-Bachelor’s
-Degree
-(2.7 GPA)
-
-
-Diploma in Spiritual Formation (DSF): a Biblically-based program that provides a variety of learning experiences that involves instruction and reflection, thoughtful practice and spiritual companionship, service and prayer. It is for all who want to move from simply wanting a life with God to learning to live it.
-24
-Bachelor’s
-Degree
-(2.7 GPA)
-Accelerated Bachelor’s and Master’s Degrees
-
-
-
-
-
-
-Partnerships have been established for accelerated Bachelor’s and Master’s degree programs with Prairie Bible College (PBC).  
-
-Bachelor’s programs include:
-Bachelor of Arts in Ministry (PBC)
-
-Combined with Master’s programs at Carey:
-Master of Divinity
-Master of Arts in Pastoral Ministry
-Master of Arts in Christian Ministry
-Master of Arts in Spiritual Formation
-
-
-
-
-96
-
-
-48
-32
-32
-32
-
-
-
-Consult with individual institution
-
-Three years of a Bachelor’s program
-(3.0 GPA)
-Occasional Student Program
-
-
-
-
-
-
-Occasional Student Program allows potential students to be admitted into Carey through a streamlined process and take up to 9 credits of study.  
-Maximum 9
-Ability to keep up with the course work
-
-Learning Outcomes
+## Learning Outcomes
 Carey’s learning outcomes are common for all programs and degrees but the extent to which each degree or program meets these learning outcomes varies depending on the focus and academic rigour of the program or degree.
 
-The common learning outcomes include the following.
+The common learning outcomes include the following:
 
-Articulate the foundational biblical content of both Old and New Testaments, including their original cultural and historical context.
+1. Articulate the foundational biblical content of both Old and New Testaments, including their original cultural and historical context.
 
-Articulate the effective application of evangelical hermeneutical tools to the Old and New Testaments, producing effective preaching and teaching for the church in its multigenerational context and multicultural mission.
+2. Articulate the effective application of evangelical hermeneutical tools to the Old and New Testaments, producing effective preaching and teaching for the church in its multigenerational context and multicultural mission.
 
-Articulate the major doctrines of the Christian faith (content), including their biblical basis, historical context, denominational significance and cultural relevance today.
+3. Articulate the major doctrines of the Christian faith (content), including their biblical basis, historical context, denominational significance and cultural relevance today.
 
-Identify sustainable spiritual practices and character qualities for Christian ministry in areas such as spiritual formation, evangelism, administration, teaching, counselling and worship for service in the Canadian Baptist (or equivalent) tradition.
+4. Identify sustainable spiritual practices and character qualities for Christian ministry in areas such as spiritual formation, evangelism, administration, teaching, counselling and worship for service in the Canadian Baptist (or equivalent) tradition.
 
-Demonstrate ministry competency and their application through self understanding, interpersonal skills, community leadership, and an articulation of Christian leadership vocation and ethic in the Canadian Baptist (or equivalent) tradition.
+5. Demonstrate ministry competency and their application through self understanding, interpersonal skills, community leadership, and an articulation of Christian leadership vocation and ethic in the Canadian Baptist (or equivalent) tradition.
 
-Archiving Student Assignments for Assessment Purposes
+## Archiving Student Assignments for Assessment Purposes
 All ATS-accredited schools must perform an annual assessment of our educational effectiveness. This includes evaluating the success of our student body in accomplishing program learning outcomes, by reviewing a selection of assignments submitted by students.
 
 Schools are expected to keep an archive of sample materials as documentation for their findings. Student assignments used as assessment artifacts are: (a) used solely for internal assessment purposes; (b) reviewed only by faculty and/or authorized staff on the assessment team; (c) privately and securely stored; and (d) referenced anonymously as part of cumulative data gathered from multiple sources. They are not: (e) made public; (f) identified individually or by name in Carey’s assessment reports; or (g) used for purposes other than that of assessment without the express permission of the student.
 
 We recognize that some assignments contain information that is personal by nature, and we are careful to respect the dignity and privacy of students in any use of submitted materials, whether for grading or assessment. Students who have any questions or concerns about the evaluation or archiving of materials are welcome to discuss them with the Registrar's Office.
-Program Requirements
+## Program Requirements
 Carey’s programs are designed to enable students to enter as a diploma, master’s, or doctoral student and to easily continue their studies to the next program level.  For example, a student may enter Carey as a Diploma in Christian Ministry student then apply the courses they have taken and continue into the Master’s of Christian Ministry program and continue further into the Master’s of Divinity program and still further into an Advanced Diploma and finally a Doctor of Ministry program.  Each subsequent entry to the next program requires all admissions requirements to be fulfilled.  The following chart summarizes the program requirements for each degree and how a student may advance from one program to another.
 
-Program Requirements Chart
+### Program Requirements Chart
 
 
 
 
-Doctor of Ministry and Advanced Diploma Program Specific Requirements
+### Doctor of Ministry and Advanced Diploma Program Specific Requirements
 All students will begin their Doctor of Ministry program by enrolling in the Advanced Diploma program.  The Advanced Diploma program is composed of the coursework for the Doctor of Ministry program thereby enabling the student to opt to exit the program after their coursework and be awarded an Advanced Diploma.  Should the student wish to continue to complete the Doctor of Ministry of program, they will complete the 12 credits related to their thesis and defence.
 
 All Doctor of Ministry students will be assigned a Faculty Advisor who will walk with them throughout their program and give them advice, support and academic mentorship.  The Faculty Advisor will provide academic advising to the student while the Office of the Registrar will provide program administrative support.  Faculty Advisors may not necessarily become the Doctor of Ministry student’s thesis supervisor depending on the topic being proposed.
@@ -340,9 +445,9 @@ Students in the DMin Program are required to maintain a minimum B + average or b
 Clinical Pastoral Education: Doctoral students will be permitted to present one advanced unit from an accredited CPE program for six credits towards the D.Min. program. The units must not have been credited as part of an M.Div. program of studies. The unit may be taken as part of the D.Min. program.
 
 The normal completion timeline for the D.Min. program is 4-5 years. The limit for completion of all requirements for the degree shall be six (6) years. Any extension must be approved by vote of the faculty. Annually, the Faculty Advisor, shall require each student to report on his/her progress in the program. Students who enter with advanced standing will be expected to complete their studies in a shorter period of time. A written statement will be given to the student at the time of acceptance.
-Master’s Program Specific Requirements
+### Master’s Program Specific Requirements
 Students in all Master’s degree programs are required to maintain a minimum B- average or will be placed on Academic Probation.
-Affirmation of Ministry Review for MDiv Program
+#### Affirmation of Ministry Review for MDiv Program
 Theological schools are conscious that the completion of an M.Div. or other seminary degree does not, in itself, suffice to equip an individual for effective Christian ministry. Preparation to serve as a ministry leader involves a multi-dimensional mix of calling, gifting, equipping, affirming, collaborating, and other aspects of an individual’s life, encompassing the academic, spiritual, personal, social, and vocational. With this in mind, the Carey ministry-focused masters degrees include a process of discernment which engages faculty, students, and others of the course of a student’s degree program. The aim of this process is to identify and encourage the student’s gifts for ministry, to enrich his/her preparation for a lifetime of faithful and joyful ministry, and to formally express the school’s conviction that this student is truly called and equipped to move into the next stage of ministry in a way that extends beyond the mere completion of the academic degree. 
 
 The Affirmation for Ministry process begins in conjunction with admission, which includes an admission interview or video where attention focuses on the student’s call to and preparation for ministry. Both the student and the student’s referees are asked to identify areas of strength and weakness that will require attention during the student’s education. 
@@ -350,182 +455,615 @@ The Affirmation for Ministry process begins in conjunction with admission, which
 The Carey faculty recognize that ministry is empowered by grace and that readiness for ministry is different for each student, but this recognition accompanies the conviction that readiness for ministry also entails commitment, discipline and excellence. Suitability for ministry is also part of the discernment process and the faculty reserves the right to withhold affirmation if a student is considered to be unfit or unsuitable for ministry.
 
 The granting of the Affirmation for Ministry designation is not a formal requirement for graduation from the MDiv program; a student who completes the degree requirements will graduate even if Affirmation is withheld at this time. The review process, with its relevant reflection and feedback exercises, is a requirement of the program. Where granted, Affirmation for Ministry is noted in the graduating student’s records.
-Diploma Program Specific Requirements
+### Diploma Program Specific Requirements
 All courses need to be successfully completed with a minimum 2.70 GPA (B-) throughout the program of study. Students who fail to maintain the minimum GPA will be put on probation.
-Accelerated Bachelor’s and Master’s Program Specific Requirements
+### Accelerated Bachelor’s and Master’s Program Specific Requirements
 Students are required to complete the balance of the required courses as outlined in the respective Master’s program in the Program Requirements Chart that are not provided advanced standing with credit under the admission requirements and meet all Master’s program requirements. Depending on the partner institution offering the complementary Bachelor’s program, the student will be able to apply courses taken at the Master’s level with Carey to satisfy the requirements for the Bachelor’s program.  Please consult with the partner institution for their specific Bachelor’s degree requirements.  Students will receive their Bachelor’s and Master’s degree diplomas independently each from the partner institution and Carey.
-Occasional Student Program Specific Requirements
+### Occasional Student Program Specific Requirements
 The Occasional Student Program is intended for potential students to “test the waters” before committing to a formal program of study or to allow potential students to enter the term and begin their studies in anticipation for their formal program application to be reviewed and approved.  
 
 The Occasional Student Program enables a student to take up to three courses (maximum two courses per term).  Students must demonstrate the ability to maintain their academic performance by achieving a B- (2.7 GPA) during their status as an Occasional Student.
 
-Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Ministry
+### Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Ministry
 Students who wish to be placed with Canadian Baptists of Western Canada churches or its ministries, or who wish to apply to Canadian Baptist Ministries, should identify themselves on the application form. The Office of the Registrar will provide further and current information regarding the process toward recognition as a ‘Ministerial Candidate’ (as well as validation for assistance from student aid funds).
-Course Descriptions
-Proposed Course # and Name
-Description
-BIBL 501
-Old Testament I
-This course explores genres and literary features, socio-historical contexts, theological themes and purposes of the Torah and Former Prophets while considering how these Scriptures continue to speak to us today.
-BIBL 502
-Old Testament II
-This course situates ancient Israel’s Latter Prophets and Sacred Writings within the Old Testament canon, examines the importance of these texts in characterizing and responding to religious and political crises, discusses their multiple genres, highlights key theological themes and exegetical significance for ministry. 
-BIBL 511
-New Testament I
-This course introduces the four canonical Gospels and Acts, with particular attention to their social and historical contexts, distinct literary qualities, theological witness, and formative power for Christian faith and practice. 
-BIBL 512
-New Testament II
-This course introduces the letters of the New Testament and Revelation, with particular attention to their social and historical contexts, literary qualities, theological witness, and formative power for Christian faith and practice. 
-HIST 501
-Church History I 
-This course surveys the history of Christianity from the end of the New Testament era to the end of the Medieval church period. Students will gather historical insights and apply them to contemporary church issues and ministry situations.
-HIST 502
-Church History II 
-This course surveys the history of Christianity from the Age of Reform to the Modern church period until 1950. Students will gather historical insights and apply them to contemporary church issues and ministry situations.
-THEO 501
-Christian Thought I
-This course introduces the study of Christian theology, and explores the Bible’s teaching concerning God’s self-revelation, His nature and activity, together with the person and work of Christ and of the Holy Spirit. 
-THEO 502
-Christian Thought II
-This course introduces the study of Christian theology, and explores the creation and fallen nature of the human race, God’s provision of salvation, the identity and task of the church, and the Bible’s perspective on the ultimate future of the individual and of creation.
+## Course Descriptions
 
-
-APPL 801
-Supervised-Ministry / Peer-Learning for Ministry
-This course is part of the field education requirement designed for students who are engaged in active ministry. Students will engage in critical theological reflection on real life issues pertaining to their particular ministry contexts. An experienced pastoral mentor or faculty member will walk alongside the students in this peer learning journey.
-APPL 802
-Theological Integration Project for Mission & Ministry
-In this course you will design and develop a major project in a subject area that serves your interests and ministry needs. This project will be a summative exercise appropriate to your degree program, integrating relevant research, biblical and theological reflection, critical thinking and problem-solving, contextual application, and effective presentation. This course is normally  taken in the final year of your Masters Degree at Carey.
-APPL 620/920
-Pastoral Care in Today's Church
-The course will survey the broad biblical, theological and practical foundations critical to the task of pastoral ministry, and will provide you with skills to apply what you learn in ministry and community settings.
-APPL 602/902
-Advanced Preaching & Communication in a Digital Age
-This course is designed to provide the student with essential tools for crafting and delivering expository sermons to the contemporary church.
-APPL 641/941
-Discipleship & Education
-This course is a guide for re-imagining the educational mission of the church. Traditional and contemporary educational practices will be assessed biblically and theologically as they apply to Christian formation.
-APPL 601/901
-Interpersonal skills & conflict resolution
-This course will help students to develop the “soft skills” of interpersonal management, emotional intelligence, conflict resolution, and leading teams. 
-APPL 600/900
-Leadership & Administration
-This course will draw upon biblical theology, Christian ethics, and current leadership theory and practice, to help students reflect upon and deliberate leadership skills in their own context. 
-APPL 660/960
-Spiritual Formation: Theology & Praxis
-This course lays a foundation to the theological understanding of spiritual formation through a variety of practices including scriptural reflection, journaling, retreat, art activities and acts of mercy. 
-BIBL 600/900
-Biblical Interpretation: Theory & Craft
-This course supplies a foundation for lifelong study, interpretation, and application of the Christian Scriptures, particularly for vocations of Christian ministry. It includes an overview of principles of biblical interpretation and exposure to resources available to aid interpretation.
-THEO 600/900
-Christian Ethics
-This course will help you to gain an understanding of the philosophical, biblical, and theological bases for personal and social morality, and to develop competence in thoughtful moral decision-making in a Christian framework. A number of selected contemporary ethical issues will be discussed.
-BIBL 591
-Hebrew 1
-This course comprises the first half of a two-quarter introduction to biblical Hebrew. It includes exposure to grammar, vocabulary, and pronunciation as aids for engaging the biblical text and understanding its possible meaning(s). Students will develop the ability to read and translate simple Hebrew sentences from the Old Testament. They will also become familiar with a variety of resources that can enhance study of the Scripture in its original language, including critical editions, lexicons, grammars, commentaries, online resources, and bible software.
-BIBL 592
-Hebrew 2
-This course continues the study of biblical Hebrew, bringing students to one-year competency level. Includes increased confidence in reading and pronunciation, familiarity with most Hebrew verbal forms and their usages, and memorization of Hebrew vocabulary. Students will translate passages of increasing size and difficulty, gain experience using translation aids, and apply acquired knowledge in Hebrew and translation tools to study of Old Testament texts. Prerequisite: Hebrew 1 or equivalent.
-BIBL 593
-Greek 1
-This course introduces students to Koine Greek, the language of the New Testament. It assumes no prior knowledge. 
-BIBL 594
-Greek 2
-This course continues the study of biblical Greek, bringing students to one-year competency level. Students will translate passages of increasing size and difficulty, gain experience using translation aids, and apply acquired knowledge in Greek and translation tools to the study of the New Testament. Prerequisite: Greek 1 or equivalent.
-BIBL 630-665/930-965 or BIBL 899
-OT Bible elective or Special Topics in OT
-An in-depth examination of one Old Testament book or selection of Old Testament texts organized according to theme or interpretive method. 
-BIBL 666-686/966-986 or BIBL 899
-NT Bible elective or Special Topics in NT
-An in-depth examination of one New Testament book or selection of New Testament texts organized according to theme or interpretive method. 
-HIST 550
-Baptist Identity
-This course assists you in becoming an effective leader within the context of Baptist churches in western Canada by augmenting your understanding of, and appreciation for the contribution to Christ’s church made by the world-wide family of believers called “the Baptists.”
-HIST 650/950
-History of Christian Spirituality
-This course will explore significant figures, writings, and themes that contributed to the development of the Christian spiritual tradition from the New Testament time until the present day.
-HIST 651/951
-History of Christian Thought
-A study of the life and thought of selected influential figures from church history, from the apostolic age to the present, in light of broader social and theological settings in which they took place. We will discuss individual contributions in light of the broader social and theological settings in which they took place, and will consider practical lessons that can be applied to our own spheres of service.
-HIST 652/952
-Faith Storytelling and Intergenerational Formation
-This course introduces intergenerational storytelling for families and congregations as a way to  identify the footprints of God in our lives. To achieve this, students will develop skills in the use of historical records, both written and oral, as they document the spiritual legacy present in their families and communities. 
-HIST 660/960
-History of the Chinese Church
-An overview of the development of Christianity in China from the 8th to early 20th century with special attention given to cross-cultural dynamics between the interaction of Christianity and Chinese culture. 
-HIST 661/961
-The Chinese Canadian Church
-This course will explore the history of Chinese immigrant congregations in Canada, including discussion of racial discrimination, transnationalism, satellite households, intergenerational dynamics and the intersection of Chinese and Western value systems. Students are given the opportunity to reflect theologically on the Chinese Christian story and articulate ministry implications for their families and communities.
-THEO 500
-Doctrinal heritage of the Church
-This course surveys the central Christian doctrines as set forth in the biblical message and taught in the church throughout its history, and views them in the context of the contemporary world in which God calls us to live and minister. The course seeks to help participants develop expertise as theologically informed Christian ministers who can connect stated beliefs with life and ministry.
-THEO 610/910
-Theological issues in the 21st century
-This course will explore a selection of current theological issues under discussion today. 
-THEO 611/911
-Gender Roles in Christian Ministry
-This course will guide you through a careful biblical and theological study of the roles of men and women in ministry, equipping you to draw your own informed, exegetically-grounded conclusions on this issue. It will also explore practical strategies to help the church leader guide his or her congregation through the issue in a constructive manner.
-THEO 612/912
-Pluralism & Post Modernism
-This course will explore the shape, foundations, and impact of contemporary pluralistic and postmodern worldviews, especially as these affect the life and ministry of the church. 
-THEO 627/927
-Contemporary Theologies
-This course will examine and evaluate major theological developments that have shaped the Christian world in recent generations.
-THEO 601/901
-Apologetics
-This course will examine the issues involved in defending and presenting Christian theism, considering noteworthy apologetic strategies and classic arguments for the Christian faith. We will explore practical ways these ideas can help us to engage men and women who embrace other world religions and non-Christian worldviews. 
-THEO 602/902
-World Religions
-This course provides a basic understanding of Judaism, Islam, Hinduism, Sikhism, Buddhism, and Taoism. The course evaluates their impact on both Canadian Society and world affairs and develops a strategy for witnessing to the adherents of these non-Christian religions.
-THEO 603/903
-Gospel in a Multicultural Multiethnic World
-This course introduces you to the perspectives and skills needed for effective ministry in intercultural contexts, with a focus on communication and conflict resolution. It also includes a brief survey of major religions and the challenges these present to communicating the Christian message
-THEO 669/969
-Spiritual Gifts in the NT and the Church
-In this course you will engage in a thorough, in-depth biblical and theological study of the Spirit’s gifts for ministry, developing an overall theology of spiritual gifts and considering strategies to promote effective gift-based ministry in your context.
-APPL 642/942
-Worship: Theology & Praxis
-This course examines the biblical, theological and historical foundations of Christian worship and evaluates some of its contemporary expressions. Students will gain competency in taking a leadership role in Sunday services, baptisms and the Lord’s Supper. 
-APPL 621/921
-Pastoral Counselling
-This course helps students to understand and implement the methods and practices of pastoral counselling.
-APPL 640/940
-Congregational & Community Formation
-This course examines adult Christian education in view of the shifting ways that adults understand truth, religious belief, commitment and community.
-APPL 622/922
-Pastoral Life: Calling, Identity, Ethics
-The purpose of this course is to assist students in discerning their call to vocational pastoral ministry and to explore with them the essential spiritual, familial, personality, emotional and character issues that enable a lifetime of faithful and enjoyable Christian service.
-APPL 643/943
-Mission & Evangelism
-This is an in-depth biblical, theological, and historical exploration of the nature of the Church, the Gospel and our participation in the all-encompassing mission of God in the world.
-APPL 661/961
-Awakening the Inward Journey
-Christian discipleship involves the practice of personal spiritual practices that deepen the believer’s life with God. This course examines the biblical basis of spiritual formation and how it has been practiced in Christian history, with the goal of encouraging spiritual disciplines and rhythms which can sustain a lifetime of Christian service.
-APPL 662/962
-Living in the Outward Journey
-This course explores a biblical and theological foundation for Christian living as an outward movement of the Spirit, including practices of personal and community discernment which lead to ministry and service opportunities in the church and its witness to the world. 
-APPL 663/963
-Spiritual Direction
-This course is designed to give the student an overview of the gift of spiritual direction in the church. Emphasis will be placed on providing a theological and historical context for this ministry, understanding the scope of spiritual direction, and relating this gift to ministry within the body of Christ.
-APPL 664/964
-Leading Spiritual Formation
-This course provides guidance on how to design, implement, assess and reflect on spiritual formation initiatives. The focus of this course will be to lead spiritual formation ministries in a congregational context.
-APPL 665/965
-Spiritual Practices 
-This course surveys the development and theological foundation of spiritual practices in the congregation from both the biblical tradition and Christian history. Students will have the opportunity to engage with and reflect upon spiritual practices for personal and congregational growth.
-APPL 666/966
-Spiritual Formation and the Church
-Spiritual formation begins with the transforming grace of Jesus Christ in individual lives expressed in one’s love and relationship with one another. This course will explore the meaning and expressions of spiritual formation in the context of Christian community biblically, historically and theologically as well as helping students to develop practical skills for spiritual listening and mentoring for nurturing mature spiritual friendships specifically in the context of the church. 
-APPL 667/967
-Spiritual Formation Through the Arts
-This course explores the arts as a discipline and expression for spiritual formation for individuals and for the Church. Students will be given opportunities to reflect theologically and look afresh at the intersection between the biblical salvation narrative and their personal spiritual journey through the practice of arts. Students will also have the opportunity to design art projects for worship and community formation.
-DMIN 901
-Research Writing  and Proposal
-This course is designed to help you prepare to research, write, and defend your Doctor of Ministry thesis project—and more broadly, to engage effectively in the ministry of Christian scholarship. We will consider the role of scholarship in the context of church ministry, and will discuss practical principles, resources, and techniques that may assist you as you plan and pursue your own doctoral project. You will construct and submit a viable project proposal as part of the course. 
-Prerequisites:  18 hours of doctoral study and full admission to the DMin program; completion of all relevant doctoral research seminars.
-DMIN 902
-Thesis Project
-A DMin project is a professional project that integrates theological reflection, scholarly research, and practical ministry. The project offers students the opportunity to integrate practice and theory through the engagement of specific projects within the context of the student’s ministerial practice, and to produce a written reflection which draws on relevant scholarly literature to interpret it. The final product will contribute to the enhancement of ministry in both one’s own ministry context and the larger church. 
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p><b>Proposed Course # and Name</b></p>
+</td>
+<td>
+<p><b>Description</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">BIBL 501</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Old Testament I</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course explores genres and literary features, socio-historical contexts, theological themes and purposes of the Torah and Former Prophets while considering how these Scriptures continue to speak to us today.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">BIBL 502</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Old Testament II</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course situates ancient Israel’s Latter Prophets and Sacred Writings within the Old Testament canon, examines the importance of these texts in characterizing and responding to religious and political crises, discusses their multiple genres, highlights key theological themes and exegetical significance for ministry. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">BIBL 511</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">New Testament I</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course introduces the four canonical Gospels and Acts, with particular attention to their social and historical contexts, distinct literary qualities, theological witness, and formative power for Christian faith and practice. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">BIBL 512</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">New Testament II</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course introduces the letters of the New Testament and Revelation, with particular attention to their social and historical contexts, literary qualities, theological witness, and formative power for Christian faith and practice. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">HIST 501</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Church History I </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course surveys the history of Christianity from the end of the New Testament era to the end of the Medieval church period. Students will gather historical insights and apply them to contemporary church issues and ministry situations.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">HIST 502</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Church History II </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course surveys the history of Christianity from the Age of Reform to the Modern church period until 1950. Students will gather historical insights and apply them to contemporary church issues and ministry situations.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">THEO 501</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Christian Thought I</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course introduces the study of Christian theology, and explores the Bible’s teaching concerning God’s self-revelation, His nature and activity, together with the person and work of Christ and of the Holy Spirit. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">THEO 502</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Christian Thought II</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course introduces the study of Christian theology, and explores the creation and fallen nature of the human race, God’s provision of salvation, the identity and task of the church, and the Bible’s perspective on the ultimate future of the individual and of creation.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 801</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Supervised-Ministry / Peer-Learning for Ministry</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course is part of the field education requirement designed for students who are engaged in active ministry. Students will engage in critical theological reflection on real life issues pertaining to their particular ministry contexts. An experienced pastoral mentor or faculty member will walk alongside the students in this peer learning journey.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 802</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Theological Integration Project for Mission &amp; Ministry</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">In this course you will design and develop a major project in a subject area that serves your interests and ministry needs. This project will be a summative exercise appropriate to your degree program, integrating relevant research, biblical and theological reflection, critical thinking and problem-solving, contextual application, and effective presentation. This course is normally  taken in the final year of your Masters Degree at Carey.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 620/920</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Pastoral Care in Today's Church</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">The course will survey the broad biblical, theological and practical foundations critical to the task of pastoral ministry, and will provide you with skills to apply what you learn in ministry and community settings.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 602/902</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Advanced Preaching &amp; Communication in a Digital Age</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course is designed to provide the student with essential tools for crafting and delivering expository sermons to the contemporary church.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 641/941</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Discipleship &amp; Education</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course is a guide for re-imagining the educational mission of the church. Traditional and contemporary educational practices will be assessed biblically and theologically as they apply to Christian formation.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 601/901</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Interpersonal skills &amp; conflict resolution</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course will help students to develop the “soft skills” of interpersonal management, emotional intelligence, conflict resolution, and leading teams. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 600/900</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Leadership &amp; Administration</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course will draw upon biblical theology, Christian ethics, and current leadership theory and practice, to help students reflect upon and deliberate leadership skills in their own context. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 660/960</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Spiritual Formation: Theology &amp; Praxis</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course lays a foundation to the theological understanding of spiritual formation through a variety of practices including scriptural reflection, journaling, retreat, art activities and acts of mercy. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">BIBL 600/900</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Biblical Interpretation: Theory &amp; Craft</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course supplies a foundation for lifelong study, interpretation, and application of the Christian Scriptures, particularly for vocations of Christian ministry. It includes an overview of principles of biblical interpretation and exposure to resources available to aid interpretation.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">THEO 600/900</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Christian Ethics</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course will help you to gain an understanding of the philosophical, biblical, and theological bases for personal and social morality, and to develop competence in thoughtful moral decision-making in a Christian framework. A number of selected contemporary ethical issues will be discussed.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">BIBL 591</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Hebrew 1</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course comprises the first half of a two-quarter introduction to biblical Hebrew. It includes exposure to grammar, vocabulary, and pronunciation as aids for engaging the biblical text and understanding its possible meaning(s). Students will develop the ability to read and translate simple Hebrew sentences from the Old Testament. They will also become familiar with a variety of resources that can enhance study of the Scripture in its original language, including critical editions, lexicons, grammars, commentaries, online resources, and bible software.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">BIBL 592</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Hebrew 2</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course continues the study of biblical Hebrew, bringing students to one-year competency level. Includes increased confidence in reading and pronunciation, familiarity with most Hebrew verbal forms and their usages, and memorization of Hebrew vocabulary. Students will translate passages of increasing size and difficulty, gain experience using translation aids, and apply acquired knowledge in Hebrew and translation tools to study of Old Testament texts. Prerequisite: Hebrew 1 or equivalent.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">BIBL 593</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Greek 1</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course introduces students to Koine Greek, the language of the New Testament. It assumes no prior knowledge. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">BIBL 594</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Greek 2</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course continues the study of biblical Greek, bringing students to one-year competency level. Students will translate passages of increasing size and difficulty, gain experience using translation aids, and apply acquired knowledge in Greek and translation tools to the study of the New Testament. Prerequisite: Greek 1 or equivalent.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">BIBL 630-665/930-965 or BIBL 899</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">OT Bible elective or Special Topics in OT</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">An in-depth examination of one Old Testament book or selection of Old Testament texts organized according to theme or interpretive method. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">BIBL 666-686/966-986 or BIBL 899</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">NT Bible elective or Special Topics in NT</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">An in-depth examination of one New Testament book or selection of New Testament texts organized according to theme or interpretive method. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">HIST 550</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Baptist Identity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course assists you in becoming an effective leader within the context of Baptist churches in western Canada by augmenting your understanding of, and appreciation for the contribution to Christ’s church made by the world-wide family of believers called “the Baptists.”</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">HIST 650/950</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">History of Christian Spirituality</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course will explore significant figures, writings, and themes that contributed to the development of the Christian spiritual tradition from the New Testament time until the present day.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">HIST 651/951</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">History of Christian Thought</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">A study of the life and thought of selected influential figures from church history, from the apostolic age to the present, in light of broader social and theological settings in which they took place. We will discuss individual contributions in light of the broader social and theological settings in which they took place, and will consider practical lessons that can be applied to our own spheres of service.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">HIST 652/952</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Faith Storytelling and Intergenerational Formation</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course introduces intergenerational storytelling for families and congregations as a way to  identify the footprints of God in our lives. To achieve this, students will develop skills in the use of historical records, both written and oral, as they document the spiritual legacy present in their families and communities. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">HIST 660/960</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">History of the Chinese Church</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">An overview of the development of Christianity in China from the 8</span><span style="font-weight: 400;">th</span><span style="font-weight: 400;"> to early 20</span><span style="font-weight: 400;">th</span><span style="font-weight: 400;"> century with special attention given to cross-cultural dynamics between the interaction of Christianity and Chinese culture. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">HIST 661/961</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">The Chinese Canadian Church</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course will explore the history of Chinese immigrant congregations in Canada, including discussion of racial discrimination, transnationalism, satellite households, intergenerational dynamics and the intersection of Chinese and Western value systems. Students are given the opportunity to reflect theologically on the Chinese Christian story and articulate ministry implications for their families and communities.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">THEO 500</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Doctrinal heritage of the Church</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course surveys the central Christian doctrines as set forth in the biblical message and taught in the church throughout its history, and views them in the context of the contemporary world in which God calls us to live and minister. The course seeks to help participants develop expertise as theologically informed Christian ministers who can connect stated beliefs with life and ministry.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">THEO 610/910</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Theological issues in the 21st century</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course will explore a selection of current theological issues under discussion today. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">THEO 611/911</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Gender Roles in Christian Ministry</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course will guide you through a careful biblical and theological study of the roles of men and women in ministry, equipping you to draw your own informed, exegetically-grounded conclusions on this issue. It will also explore practical strategies to help the church leader guide his or her congregation through the issue in a constructive manner.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">THEO 612/912</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Pluralism &amp; Post Modernism</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course will explore the shape, foundations, and impact of contemporary pluralistic and postmodern worldviews, especially as these affect the life and ministry of the church. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">THEO 627/927</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Contemporary Theologies</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course will examine and evaluate major theological developments that have shaped the Christian world in recent generations.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">THEO 601/901</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Apologetics</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course will examine the issues involved in defending and presenting Christian theism, considering noteworthy apologetic strategies and classic arguments for the Christian faith. We will explore practical ways these ideas can help us to engage men and women who embrace other world religions and non-Christian worldviews. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">THEO 602/902</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">World Religions</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course provides a basic understanding of Judaism, Islam, Hinduism, Sikhism, Buddhism, and Taoism. The course evaluates their impact on both Canadian Society and world affairs and develops a strategy for witnessing to the adherents of these non-Christian religions.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">THEO 603/903</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Gospel in a Multicultural Multiethnic World</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course introduces you to the perspectives and skills needed for effective ministry in intercultural contexts, with a focus on communication and conflict resolution. It also includes a brief survey of major religions and the challenges these present to communicating the Christian message</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">THEO 669/969</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Spiritual Gifts in the NT and the Church</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">In this course you will engage in a thorough, in-depth biblical and theological study of the Spirit’s gifts for ministry, developing an overall theology of spiritual gifts and considering strategies to promote effective gift-based ministry in your context.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 642/942</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Worship: Theology &amp; Praxis</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course examines the biblical, theological and historical foundations of Christian worship and evaluates some of its contemporary expressions. Students will gain competency in taking a leadership role in Sunday services, baptisms and the Lord’s Supper. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 621/921</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Pastoral Counselling</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course helps students to understand and implement the methods and practices of pastoral counselling.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 640/940</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Congregational &amp; Community Formation</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course examines adult Christian education in view of the shifting ways that adults understand truth, religious belief, commitment and community.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 622/922</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Pastoral Life: Calling, Identity, Ethics</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">The purpose of this course is to assist students in discerning their call to vocational pastoral ministry and to explore with them the essential spiritual, familial, personality, emotional and character issues that enable a lifetime of faithful and enjoyable Christian service.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 643/943</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Mission &amp; Evangelism</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This is an in-depth biblical, theological, and historical exploration of the nature of the Church, the Gospel and our participation in the all-encompassing mission of God in the world.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 661/961</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Awakening the Inward Journey</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Christian discipleship involves the practice of personal spiritual practices that deepen the believer’s life with God. This course examines the biblical basis of spiritual formation and how it has been practiced in Christian history, with the goal of encouraging spiritual disciplines and rhythms which can sustain a lifetime of Christian service.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 662/962</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Living in the Outward Journey</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course explores a biblical and theological foundation for Christian living as an outward movement of the Spirit, including practices of personal and community discernment which lead to ministry and service opportunities in the church and its witness to the world. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 663/963</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Spiritual Direction</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course is designed to give the student an overview of the gift of spiritual direction in the church. Emphasis will be placed on providing a theological and historical context for this ministry, understanding the scope of spiritual direction, and relating this gift to ministry within the body of Christ.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 664/964</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Leading Spiritual Formation</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course provides guidance on how to design, implement, assess and reflect on spiritual formation initiatives. The focus of this course will be to lead spiritual formation ministries in a congregational context.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 665/965</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Spiritual Practices </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course surveys the development and theological foundation of spiritual practices in the congregation from both the biblical tradition and Christian history. Students will have the opportunity to engage with and reflect upon spiritual practices for personal and congregational growth.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 666/966</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Spiritual Formation and the Church</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Spiritual formation begins with the transforming grace of Jesus Christ in individual lives expressed in one’s love and relationship with one another. This course will explore the meaning and expressions of spiritual formation in the context of Christian community biblically, historically and theologically as well as helping students to develop practical skills for spiritual listening and mentoring for nurturing mature spiritual friendships specifically in the context of the church. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">APPL 667/967</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Spiritual Formation Through the Arts</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course explores the arts as a discipline and expression for spiritual formation for individuals and for the Church. Students will be given opportunities to reflect theologically and look afresh at the intersection between the biblical salvation narrative and their personal spiritual journey through the practice of arts. Students will also have the opportunity to design art projects for worship and community formation.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">DMIN 901</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Research Writing  and Proposal</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">This course is designed to help you prepare to research, write, and defend your Doctor of Ministry thesis project—and more broadly, to engage effectively in the ministry of Christian scholarship. We will consider the role of scholarship in the context of church ministry, and will discuss practical principles, resources, and techniques that may assist you as you plan and pursue your own doctoral project. You will construct and submit a viable project proposal as part of the course. </span></p>
+<p><span style="font-weight: 400;">Prerequisites:  18 hours of doctoral study and full admission to the DMin program; completion of all relevant doctoral research seminars.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">DMIN 902</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Thesis Project</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">A DMin project is a professional project that integrates theological reflection, scholarly research, and practical ministry. The project offers students the opportunity to integrate practice and theory through the engagement of specific projects within the context of the student’s ministerial practice, and to produce a written reflection which draws on relevant scholarly literature to interpret it. The final product will contribute to the enhancement of ministry in both one’s own ministry context and the larger church. </span></p>
+</td>
+</tr>
+</tbody>
+</table> 
 
 Graduation Requirements
 Graduation from any of Carey’s programs requires the following.
