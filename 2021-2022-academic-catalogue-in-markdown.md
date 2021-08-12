@@ -180,22 +180,23 @@ For a list of our active faculty, please visit our website (https://carey-edu.ca
 # Carey Theological College Academic Programs
 ## Academic Programs
 Carey offers degree programs at the masters and doctoral level, as well as diploma programs for graduate students.
-Program
-Credit Hours
-Degree Required
-Doctoral Study
 
-
-
-
-
-
-Doctor of Ministry (D.Min.): an advanced degree for experienced pastoral leaders, designed to enhance leadership skills and theological reflection.
-30
-MDiv 
-(3.3 GPA)
-
-
+<table>
+ <tr>
+  <th>Program</th>
+  <th>Credit Hours</th>
+  <th>Degree Required</th>
+ </tr>
+ <tr><td>Doctoral Study</td></tr>
+ <tr>
+  <td></td>
+  <td>Doctor of Ministry (D.Min.): an advanced degree for experienced pastoral leaders, designed to enhance leadership skills and theological reflection.</td>
+  <td>30</td>
+  <td>MDiv</td>
+  <td>(3.3 GPA)</td>
+ </tr>
+ </table>
+ 
 Advanced Diploma: a program of continuing education in a specialized area of study, for pastoral leaders who have completed an appropriate masters degree.
 18
 Master’s Degree
