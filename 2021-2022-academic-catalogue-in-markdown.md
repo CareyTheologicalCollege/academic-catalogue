@@ -1,91 +1,93 @@
-2021/2022
-Academic Catalogue
+# 2021/2022
+# Academic Catalogue
 
 Version: 2
+
 Date: May 13, 2021
+
 Table of Contents
-Who We Are
-Our Vision
-Our Mission
-A Ministry of The Canadian Baptists Of Western Canada
-History
-Accreditation & Affiliation
-What We Believe
-Faculty
-Carey Theological College Academic Programs
-Academic Programs
-Learning Outcomes
-Program Requirements
-Program Requirements Chart
-Doctor of Ministry and Advanced Diploma Program Specific Requirements
-Master’s Program Specific Requirements
-Affirmation of Ministry Review for MDiv Program
-Diploma Program Specific Requirements
-Accelerated Bachelor’s and Master’s Program Specific Requirements
-Occasional Student Program Specific Requirements
-Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Ministry
-Course Descriptions
-Graduation Requirements
-Additional Graduation Requirements for Doctor of Ministry
-Additional Graduation Requirements for Master’s Programs
-Financial Information
-Tuition and Fees
-Payment, Late Payment, and Outstanding Accounts
-Changes of Registration, Withdrawal and Refunds
-Tax Receipts
-Student Financial Aid
-Student Assistance, Scholarships
-Student Awards
-Applying for Student Assistance
-Admissions
-Program Admission Requirements
-Accelerated Bachelor’s and Master’s Program Admission Requirements
-General Admission Requirements and Process
-Key Admission Dates
-Language Requirements for Admissions
-Student Classification
-Regular Program Students
-Full Time Student Designation
-Inactive Students & Leave of Absence
-Unclassified and Visiting Students
-Occasional Student Status
-Mature Student Status
-Continuing Education Credit Registration (CBWC)
-International Students
-Transfer Credits, Shared Credits, Advanced Standing and Exemptions
-Transfer Credits
-Shared Credit
-Advanced Standing with Credit
-Exemption
-Course Registration
-Assessment and Grading
-Grading Scale: Diplomas, Masters Programs
-Grading Scale: Doctor of Ministry
-Grade Changes
-Extensions
-Academic Probation
-Repeated Courses
-Academic Integrity
-Plagiarism
-Research Ethics
-Academic Appeals
-Student Life
-General
-Guidelines for online discussions (netiquette)
-Accountability and Disciplinary Procedures
-Institutional Integrity
-Gender Language
-Non-Academic Grievance Matters
-Discrimination and Harassment Policy
-Privacy Policy
-Student Resources
-ID Cards
-Student Data Systems Access (Populi)
-UBC Learning Management System Access (Canvas)
-Traditional Library Services
-Online Library Resources
-Textbooks
-Academic Advising
+1. Who We Are
+2. Our Vision
+3. Our Mission
+4. A Ministry of The Canadian Baptists Of Western Canada
+5. History
+6. Accreditation & Affiliation
+7. What We Believe
+8. Faculty
+9. Carey Theological College Academic Programs
+10. Academic Programs
+11. Learning Outcomes
+12. Program Requirements
+13. Program Requirements Chart
+14. Doctor of Ministry and Advanced Diploma Program Specific Requirements
+15. Master’s Program Specific Requirements
+16. Affirmation of Ministry Review for MDiv Program
+17. Diploma Program Specific Requirements
+18. Accelerated Bachelor’s and Master’s Program Specific Requirements
+19. Occasional Student Program Specific Requirements
+20. Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Ministry
+21. Course Descriptions
+22. Graduation Requirements
+23. Additional Graduation Requirements for Doctor of Ministry
+24. Additional Graduation Requirements for Master’s Programs
+25. Financial Information
+26. Tuition and Fees
+27. Payment, Late Payment, and Outstanding Accounts
+28. Changes of Registration, Withdrawal and Refunds
+29. Tax Receipts
+30. Student Financial Aid
+31. Student Assistance, Scholarships
+32. Student Awards
+33. Applying for Student Assistance
+34. Admissions
+35. Program Admission Requirements
+36. Accelerated Bachelor’s and Master’s Program Admission Requirements
+37. General Admission Requirements and Process
+38. Key Admission Dates
+39. Language Requirements for Admissions
+40. Student Classification
+41. Regular Program Students
+42. Full Time Student Designation
+43. Inactive Students & Leave of Absence
+44. Unclassified and Visiting Students
+45. Occasional Student Status
+46. Mature Student Status
+47. Continuing Education Credit Registration (CBWC)
+48. International Students
+49. Transfer Credits, Shared Credits, Advanced Standing and Exemptions
+50. Transfer Credits
+51. Shared Credit
+52. Advanced Standing with Credit
+53. Exemption
+54. Course Registration
+55. Assessment and Grading
+56. Grading Scale: Diplomas, Masters Programs
+57. Grading Scale: Doctor of Ministry
+58. Grade Changes
+59. Extensions
+60. Academic Probation
+61. Repeated Courses
+62. Academic Integrity
+63. Plagiarism
+64. Research Ethics
+65. Academic Appeals
+66. Student Life
+67. General
+68. Guidelines for online discussions (netiquette)
+69. Accountability and Disciplinary Procedures
+70. Institutional Integrity
+71. Gender Language
+72. Non-Academic Grievance Matters
+73. Discrimination and Harassment Policy
+74. Privacy Policy
+75. Student Resources
+76. ID Cards
+77. Student Data Systems Access (Populi)
+78. UBC Learning Management System Access (Canvas)
+79. Traditional Library Services
+80. Online Library Resources
+81. Textbooks
+82. Academic Advising
 
 
 
