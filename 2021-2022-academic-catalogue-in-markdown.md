@@ -1065,12 +1065,12 @@ Students who wish to be placed with Canadian Baptists of Western Canada churches
 </tbody>
 </table> 
 
-Graduation Requirements
+# Graduation Requirements
 Graduation from any of Carey’s programs requires the following.
 
-Complete the required number of credit hours of study for the relevant program.
+1. Complete the required number of credit hours of study for the relevant program.
 
-Minimum GPA required for the program of study
+2. Minimum GPA required for the program of study
 Program of Study
 Minimum Average GPA
 Doctor of Ministry
@@ -1090,8 +1090,9 @@ All accounts payable and due with Carey Theological College and Carey Hall are p
 Senate approval before graduation.
 
 Students may apply for graduation every semester to receive official transcripts and the graduation diploma. Graduation application forms must be completed and submitted 1 month before the end of the student’s graduating term.
-Additional Graduation Requirements for Doctor of Ministry
-Preparation of the Doctoral Thesis Project Proposal: DMIN 901 Research Writing and Proposal is designed to assist DMin students to prepare their final project proposal. The research writing component establishes the foundational basis for the Doctoral Thesis Project and is developed as part of the Doctoral Thesis Project under the supervision of the Faculty Advisor and/or DMin Project Supervisor.
+## Additional Graduation Requirements for Doctor of Ministry
+
+<u>Preparation of the Doctoral Thesis Project Proposal:</u> DMIN 901 Research Writing and Proposal is designed to assist DMin students to prepare their final project proposal. The research writing component establishes the foundational basis for the Doctoral Thesis Project and is developed as part of the Doctoral Thesis Project under the supervision of the Faculty Advisor and/or DMin Project Supervisor.
 
 Candidacy: Once a student has completed the required courses (under the Advanced Diploma program) and their doctoral thesis project proposal has been presented and accepted, a candidacy evaluation will be conducted. On successful recommendation, the student enters the candidacy phase of the Doctor of Ministry program.
 
