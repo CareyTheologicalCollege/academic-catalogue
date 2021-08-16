@@ -1339,8 +1339,7 @@ Course registration and tuition is due on the first day of class. If students ar
  </tr>
  </table>
 
-
-Payment, Late Payment, and Outstanding Accounts
+## Payment, Late Payment, and Outstanding Accounts
 Payment of all fees and tuition must be in Canadian dollars. Cheques, bank drafts, and postal money orders may be received by mail and Visa, MasterCard, are acceptable forms of online payment through Carey’s student information management system (Populi). We encourage students to pay with the above forms of payment.
 
 Under extenuating circumstances, payments may be made by cash in person at Carey’s head office in Vancouver, British Columbia, Canada during its regular hours of operation. Under Carey’s cash handling policy, we are only able to accept a maximum of $1350 per student account per semester. For refunds, up to $500 in cash will be provided, with excess issued as a cheque in the student’s name.
@@ -1348,41 +1347,49 @@ Under extenuating circumstances, payments may be made by cash in person at Carey
 All tuition is due and payable on the first day of term. 
 
 Please note: If there is any outstanding indebtedness to the College, degree parchments, transcripts, grade reports, and letters of permission will not be released until such matters have been cleared with the Registrar’s Office. Student registration for new semesters will be locked if there is an outstanding balance not on the payment plan; or the payment plan is not being followed. 
-Changes of Registration, Withdrawal and Refunds 
+
+## Changes of Registration, Withdrawal and Refunds 
 Normally, refunds will only be provided on outstanding balances at the completion of the program or formal withdrawal from the program.  In all other cases, students who withdraw from a course during the duration of their program will have their accounts credited for a future course.
 
 Unless otherwise stated, the tuition amount that may be credited for future classes for withdrawing from a course after the start date is as follows:
 
+- No further credits or refunds are available after these dates.
+- Students must notify the Registrar in writing if they are withdrawing from a course. Credit for tuition amounts are calculated based on the date that the Registrar receives this notification.
+- There will be a full refund for any cancelled courses.
 
+<table>
+ <tr>
+  <th>Period from the start of the term</th>
+  <th>Transcript Record</th>
+  <th>Credit/refund amount</th>
+ </tr>
+ <tr>
+  <td>Week 1</td>
+  <td>No record of course on transcript</td>
+  <td>100%</td>
+ </tr>
+ <tr>
+  <td>Week 2</td>
+  <td>No record of course on transcript</td>
+  <td>75%</td>
+ </tr>
+ <tr>
+  <td>Week 3 to 5</td>
+  <td>“W” on transcript</td>
+  <td>50%</td>
+ </tr>
+ <tr>
+  <td>Week 6 to 10</td>
+  <td>“F” on transcript</td>
+  <td>0%</td>
+ </tr>
+ </table>
 
-No further credits or refunds are available after these dates.
-
-Students must notify the Registrar in writing if they are withdrawing from a course. Credit for tuition amounts are calculated based on the date that the Registrar receives this notification.
-
-There will be a full refund for any cancelled courses.
-
-Period from the start of the term
-Transcript Record
-Credit/refund amount
-Week 1
-No record of course on transcript
-100%
-
-
-Week 2
-No record of course on transcript
-75%
-Week 3 to 5
-“W” on transcript
-50%
-Week 6 to 10
-“F” on transcript
-0%
-
-Tax Receipts
+### Tax Receipts
 For income tax purposes, T2202A forms related to tuition payments will be posted by February 28 of the following year. Students can access these through their portal in the Student Information System.
-Student Financial Aid
-Student Assistance, Scholarships
+
+# Student Financial Aid
+## Student Assistance, Scholarships
 As an institution that offers programs fully online, Carey Theological College does not qualify as an eligible institution where its students can secure student loans from provincial government sources across Canada.  However, Carey offers generous financial aid packages to qualified students in need.
 
 Carey Theological College makes a variety of awards and benefits available to students to help reduce the financial burden of study. These include competitive scholarships, need-based bursaries, bursaries and tuition discounts associated with institutional partnership relationships, and opportunities for study-related work in the form of Teaching Assistantships.  Teaching Assistantships are only available to students with valid work permits in Canada.
@@ -1390,9 +1397,9 @@ Carey Theological College makes a variety of awards and benefits available to st
 Please visit https://carey-edu.ca/student-services/ for eligibility criteria and detailed information.
 
 In addition to the financial awards managed directly by Carey, students may be eligible for a range of awards and other forms of funding provided by external organizations. For example, students who serve with the Canadian Baptists of Western Canada are advised that several forms of student aid funding are available through the Canadian Baptists of Western Canada Foundation. Application for these is made directly to the Foundation.  Students are reminded that College staff will not be aware of all the forms of funding that may be available; each student is encouraged to explore widely for possible assistance with study.
-Student Awards 
+## Student Awards 
 A number of post-degree awards are given to students at graduation each year in recognition of outstanding performance in various areas. These vary from year to year. Recent examples include prizes for excellence in pastoral care, in preaching, in biblical studies and theology, in lay leadership, the D.Min. Fellows Program, and in evangelization and ministry in the Chinese community.
-Applying for Student Assistance
+## Applying for Student Assistance
 Applicants must be fully admitted as active status Carey students, normally in a degree or diploma program at the Master’s or doctoral level. 
 
 All students must apply for financial aid using the standard financial aid application separate from the  admission application form. The College will not process applications for financial aid until a student has been admitted to study.
@@ -1410,194 +1417,516 @@ Students who drop or withdraw from courses after receiving Carey-managed Financi
 Other policy information related to Financial Aid is included in the annual resource materials on financial assistance provided through the Registrar’s Office. Please email registrar@carey-edu.ca for more information.
 
 
-Admissions
-Program Admission Requirements
+# Admissions
+## Program Admission Requirements
 
 Admissions to each program at Carey share similar requirements with specific requirements as outlined below.
 
-Occasional
-Diploma
-Master’s
-Advanced Diploma
-Doctoral
-Minimum prior academic requirement for the program for which courses is being sought to enrol
-Four-year Bachelor’s degree from an accredited institution with at least a B- average (2.7 GPA)
-Any theological Master’s degree from an accredited institution with at least a B- average (2.7 GPA)
-MDiv or 72 graduate level credit equivalent from an ATS accredited (or equivalent) institution with at least a B+ average (3.3 GPA) plus completion of an Advanced Diploma (18 doctoral level credits) with a B + average (3.3 GPAS)
+<table>
+<tbody>
+<tr>
+<td>
+<p><b>Occasional</b></p>
+</td>
+<td>
+<p><b>Diploma</b></p>
+</td>
+<td>
+<p><b>Master’s</b></p>
+</td>
+<td>
+<p><b>Advanced Diploma</b></p>
+</td>
+<td>
+<p><b>Doctoral</b></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><span style="font-weight: 400;">Minimum prior academic requirement for the program for which courses is being sought to enrol</span></p>
+</td>
+<td colspan="2">
+<p><span style="font-weight: 400;">Four-year Bachelor’s degree from an accredited institution with at least a B- average (2.7 GPA)</span></p>
+</td>
+<td rowspan="2">
+<p><span style="font-weight: 400;">Any theological Master’s degree from an accredited institution with at least a B- average (2.7 GPA)</span></p>
+</td>
+<td rowspan="2">
+<p><span style="font-weight: 400;">MDiv or 72 graduate level credit equivalent from an ATS accredited (or equivalent) institution with at least a B+ average (3.3 GPA) plus completion of an Advanced Diploma (18 doctoral level credits) with a B + average (3.3 GPAS)</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">For accelerated Bachelor’s and Master’s program, at least 90 credits of the Bachelor’s program with at least a B average (3.0 GPA)</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p><span style="font-weight: 400;">Students with a lower GPA may be considered for admission with the approval of the Admissions Committee</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p><span style="font-weight: 400;">Mature Christian showing an aptitude for ministry with an aptitude for using technology for learning and communication.</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p><span style="font-weight: 400;">Completed online application form </span></p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p><span style="font-weight: 400;">Applicants whose first language is not the language in which the program is taught (e.g. English, Mandarin, Cantonese or Spanish) should refer to the Language Requirements for Admissions section for information on fulfilling language entrance requirements.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Unofficial transcript</span></p>
+</td>
+<td colspan="4">
+<p><span style="font-weight: 400;">Official transcripts from all schools attended or a notarized letter accompanying a copy of the original transcript</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">
+<p><span style="font-weight: 400;">Confidential references:</span></p>
 
+<ol>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pastoral (Ministry Supervisor or Denominational Rep for Doctoral only) Reference </span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Character Reference</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Academic Reference (Doctoral only)</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A letter of affirmation from the church supporting the applicant for theological studies, where the applicant is a currently active member of the congregation</span></li>
+</ol>
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">
+<p><span style="font-weight: 400;">Submission of a video responding to admissions interview questions</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Interview with a faculty advisor</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">
+<p><span style="font-weight: 400;">A sample academic paper or other formal written piece demonstrating the applicant’s ability to write at the intended program level.</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">1000-word prospectus with online application</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Minimum three years of active professional ministry after graduation and current ministry engagement</span></p>
+</td>
+</tr>
+</tbody>
+</table>
 
-For accelerated Bachelor’s and Master’s program, at least 90 credits of the Bachelor’s program with at least a B average (3.0 GPA)
-Students with a lower GPA may be considered for admission with the approval of the Admissions Committee
-Mature Christian showing an aptitude for ministry with an aptitude for using technology for learning and communication.
-Completed online application form 
-Applicants whose first language is not the language in which the program is taught (e.g. English, Mandarin, Cantonese or Spanish) should refer to the Language Requirements for Admissions section for information on fulfilling language entrance requirements.
-Unofficial transcript
-Official transcripts from all schools attended or a notarized letter accompanying a copy of the original transcript
-
-
-Confidential references:
-Pastoral (Ministry Supervisor or Denominational Rep for Doctoral only) Reference 
-Character Reference
-Academic Reference (Doctoral only)
-A letter of affirmation from the church supporting the applicant for theological studies, where the applicant is a currently active member of the congregation
-
-
-Submission of a video responding to admissions interview questions
-Interview with a faculty advisor
-
-
-
-
-A sample academic paper or other formal written piece demonstrating the applicant’s ability to write at the intended program level.
-
-
-
-
-
-
-
-
-1000-word prospectus with online application
-
-
-
-
-
-
-
-
-Minimum three years of active professional ministry after graduation and current ministry engagement
-
-Accelerated Bachelor’s and Master’s Program Admission Requirements
+### Accelerated Bachelor’s and Master’s Program Admission Requirements
 For students currently enrolled with a partner institution offering an Accelerated Bachelor’s and Master’s program, students from the partner institution will indicate their intent at the beginning of their studies to pursue this program.  Typical entrance to the Master’s program will occur in the third year of the student’s Bachelor’s program after completing at least 90 credits of study at the Bachelor’s level but each requirement may be different from partner institutions.  Students must have achieved a 3.0 GPA in the first three-years of their Bachelor’s degree program in order to apply to the Master’s program.  The application process is the same as the regular program including applying online for the particular Master’s program being sought.  In addition a letter of referral is required by the partner institution indicating their support for the student to continue on to the Master’s program.
 
 Students will enter under the regular student classification.  Students are required to meet the graduation requirements for both the Bachelor’s and Master’s programs.  Advanced standing with credit will normally be provided for the following courses AFTER a student satisfies and graduates from the Bachelor’s program requirements.
 
-BIBL 501 Old Testament I
-BIBL 502 Old Testament II
-BIBL 511 New Testament I
-BIBL 512 New Testament II
-HIST 501 Church History I
-HIST 502 Church History II
-THEO 501 Christian Thought I
-THEO 502 Christian Thought II
+> BIBL 501 Old Testament I
+> BIBL 502 Old Testament II
+> BIBL 511 New Testament I
+> BIBL 512 New Testament II
+> HIST 501 Church History I
+> HIST 502 Church History II
+> THEO 501 Christian Thought I
+> THEO 502 Christian Thought II
 
-General Admission Requirements and Process
+**DOCTOR OF MINISTRY AND ADVANCED DIPLOMA PROGRAM ADMISSION REQUIREMENTS**
+
+<table>
+<tbody>
+<tr>
+<td>
+<p><b>Advanced Diploma</b></p>
+</td>
+<td>
+<p><b>Doctoral</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Any theological Master’s degree from an accredited institution with at least a B- average (2.7 GPA)</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">MDiv or 72 graduate level credit equivalent from an ATS accredited (or equivalent) institution with at least a B+ average (3.3 GPA) plus completion of an Advanced Diploma (18 doctoral level credits) with a B + average (3.3 GPS)</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Students with a lower GPA may be considered for admission with the approval of the Admissions Committee</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Mature Christian showing an aptitude for ministry with an aptitude for using technology for learning and communication.</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Completed online application form </span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Applicants whose first language is not English should refer to the Language Requirements for Admissions section for information on fulfilling language entrance requirements.</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Official transcripts from all schools attended or a notarized letter accompanying a copy of the original transcript</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Confidential references:</span></p>
+
+<ol>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pastoral (Ministry Supervisor or Denominational Rep for Doctoral only) Reference </span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Character Reference</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Academic Reference (Doctoral only)</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A letter of affirmation from the church supporting the applicant for theological studies, where the applicant is a currently active member of the congregation</span></li>
+</ol>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Interview with a faculty advisor</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">A current CV</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">A sample academic paper or other formal written piece demonstrating the applicant’s ability to write at the intended program level.</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">A written statement of 1,000 words detailing: (1) Ministry experience and view of ministry; (2) Reasons for pursuing Dmin education; (3) Goals for the program and vision for the future of your ministry; (4) Proposed area of interest for ministry project and key ministry questions</span></p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><span style="font-weight: 400;">Minimum three years of active professional ministry after graduation and current ministry engagement</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Application Fee</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**Ministry Components** 
+
+All Advanced Diploma and DMin students are expected to be involved in ministry. Courses and theses are developed in light of one’s ministry. Students will engage in intentional reflection on ministry and peer interaction. The Carey DMin program is responsive to the needs of the church and reflects contemporary trends and issues in ministry and the church.
+
+**RESEARCH ETHICS**
+**Mandate:** All research involving human participants conducted in association with Carey Theological College may commence only after receiving formal approval from Carey’s Research Ethics & Thesis Committee. Two levels of approval are possible: 
+**(1) Formal Review and Approval: Full Review.** This level of review is for research with human participants through which data is collected through interviews, questionnaires, participant observations, journals and other second or third party means.  Examples of research include doctoral and master theses, course related assignments that involve more than minimal risk to confidentiality and anonymity, faculty research projects with human participants and any funded research undertaken by either students or faculty. Research that is a degree requirement (e.g. D Min) and involves human participants requires a full ethics review. The student is required to submit the Application for Ethics Review for Research Involving Human Participants. The Research Ethics & Thesis Committee at Carey Theological College will receive the application, and no research that involves more than minimal risk to human participants may commence without formal review, approval and notification in writing of approval. 
+**(2) Review and Approval: Expedited Review.** This level of review is for research with human participants judged to be of minimal risk to human participants and their confidentiality and anonymity. Examples of research include observations at public events, public meetings, review of course evaluations, research of documents, research projects as part of course assignments (if judged to be of minimal risk to human participants and confirmation as such is provided in a Request for Expedited Review), data gathered using anonymous surveys (e.g. Survey Monkey), interview records taken from public forums, institutional-initiated surveys through which confidentiality and anonymity are ensured. In the case of course related assignments, the student’s professor holds the primary responsibility for recommending an expedited review to a student; the student then holds the primary responsibility for submitting a request in writing to the Research Ethics & Thesis Committee. The student or faculty is required to apply for an expedited review of their proposed research through submission of the Request for an Expedited Review of Research. The Research Ethics & Thesis Committee will receive the letter, and no research may commence without formal approval by the Research Ethics & Thesis Committee of the student’s letter requesting an expedited review.
+
+## General Admission Requirements and Process
 Before initiating the admissions process with Carey it is the student’s responsibility to familiarize themselves with the requirements and policies pertaining to their program of interest (see the program information under Carey Academic Programs, above), and also with Carey’s statement of faith and community expectations. These statements reflect Carey’s core theological and community values from which personal and academic integrity stem. In applying to study at Carey, students indicate their willingness to respect and uphold the common values and related practices of the Carey academic community. Students are not required to sign the specific Carey statement of faith, but all students will need to affirm personal Christian faith as part of the application process and respect the faith commitments of the Carey community as expressed in Carey’s statement.
-Key Admission Dates
-Carey Theological college offers the rolling admission, Sstudents may apply for admission and financial assistance any time of the yearprior to each term.  It is advised that potential students begin the process of applying early to allow sufficient time for writing essay responses and receipt of reference letters. All applicants will be reviewed monthly by the admission committee and be notified of the result. 
+## Key Admission Dates
+Carey Theological college offers the rolling admission, students may apply for admission and financial assistance any time of the year.  It is advised that potential students begin the process of applying early to allow sufficient time for writing essay responses and receipt of reference letters. All applicants will be reviewed monthly by the admission committee and be notified of the result. 
 
+<table>
+<tbody>
+<tr>
+<td colspan="2"></td>
+<td>
+<p><span style="font-weight: 400;">Spring 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Summer 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Fall 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Winter 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Spring</span></p>
+<p><span style="font-weight: 400;">2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Summer</span></p>
+<p><span style="font-weight: 400;">2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Fall </span></p>
+<p><span style="font-weight: 400;">2022</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">General application and Financial Aid Deadline</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">February 8, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Apr 26, 2021</span></p>
+</td>
+<td colspan="5">
+<p><span style="font-weight: 400;">The last day of every month. </span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Application Review Date</span></p>
+</td>
+<td></td>
+<td></td>
+<td colspan="5">
+<p><span style="font-weight: 400;">Within the 1st week of every month. Every 15th day of the month.</span></p>
+<p><span style="font-weight: 400;">If it is the weekend, the committee will meet on the Friday prior to the 15th. </span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Term General admissions application and financial aid deadline</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">March 8, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">May 24, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">August 272, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Dec 36, </span></p>
+<p><span style="font-weight: 400;">2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Feb 28, 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">May 27, 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Aug 26, 2022</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Late Admissions application and</span><span style="font-weight: 400;"> financial aid deadline</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">March 29, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">June 21, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Sept 1320, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Dec 2027, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Mar 14, 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Jun 13, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Sep 12, 2022</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Admission response Acceptance letters sent out via email to all successful applicants</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">TBD</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">TBD</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Send by the next business day after review dateTBD</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Send by the next business day after review date</span><span style="font-weight: 400;">TBD</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Send by the next business day after review date</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Send by the next business day after review date</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Send by the next business day after review date</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Start of term</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">April 5, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">June 28, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Sept 27, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Jan 3, 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Mar 28, 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Jun 27, 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Sep 26, 2022</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">End of term</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">June 11, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Sept 3, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Dec 3, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Mar 11, 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Jun 10, 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Sep 02, 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Dec 02, 2022</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="font-weight: 400;">Grades to appear in Populi</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">June 25, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Sept 17, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Dec 17, 2021</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Mar 25, 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Jun 24, 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Sep 16, 2022</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Dec 16, 2022</span></p>
+</td>
+</tr>
+</tbody>
+</table>
 
-
-Spring 2021
-Summer 2021
-Fall 2021
-Winter 2022
-Spring
-2022
-Summer
-2022
-Fall 
-2022
-General application and Financial Aid Deadline
-February 8, 2021
-Apr 26, 2021
-The last day of every month. 
-Application Review Date
-
-
-
-
-Within the 1st week of every month. Every 15th day of the month.
-If it is the weekend, the committee will meet on the Friday prior to the 15th. 
-Term General admissions application and financial aid deadline
-March 8, 2021
-May 24, 2021
-August 272, 2021
-Dec 36, 
-2021
-Feb 28, 2022
-May 27, 2022
-Aug 26, 2022
-Late Admissions application and financial aid deadline
-March 29, 2021
-June 21, 2021
-Sept 1320, 2021
-Dec 2027, 2021
-Mar 14, 2022
-Jun 13, 2021
-Sep 12, 2022
-Admission response Acceptance letters sent out via email to all successful applicants
-TBD
-TBD
-Send by the next business day after review dateTBD
-Send by the next business day after review dateTBD
-Send by the next business day after review date
-Send by the next business day after review date
-Send by the next business day after review date
-Start of term
-April 5, 2021
-June 28, 2021
-Sept 27, 2021
-Jan 3, 2022
-Mar 28, 2022
-Jun 27, 2022
-Sep 26, 2022
-End of term
-June 11, 2021
-Sept 3, 2021
-Dec 3, 2021
-Mar 11, 2022
-Jun 10, 2022
-Sep 02, 2022
-Dec 02, 2022
-Grades to appear in Populi
-June 25, 2021
-Sept 17, 2021
-Dec 17, 2021
-Mar 25, 2022
-Jun 24, 2022
-Sep 16, 2022
-Dec 16, 2022
-
-Language Requirements for Admissions
+## Language Requirements for Admissions
 
 English, Cantonese, Mandarin and Spanish (CETI program) are the primary languages of instruction at Carey Theological College.
 
 There are several ways to meet the language requirements.
 
-Complete four or more consecutive years of full-time education in one of the primary languages in a country where the primary language is the principal language, immediately prior to enrolling at Carey Theological College.
+1. Complete four or more consecutive years of full-time education in one of the primary languages in a country where the primary language is the principal language, immediately prior to enrolling at Carey Theological College.
 
-Graduate from a recognized degree program at an accredited university at which the primary language is the language of instruction.
+2. Graduate from a recognized degree program at an accredited university at which the primary language is the language of instruction.
 
-Achieve a grade of 70% or better on the provincial examination portion of BC English 12 or English Literature 12 or the equivalent.
+3. Achieve a grade of 70% or better on the provincial examination portion of BC English 12 or English Literature 12 or the equivalent.
 
-Achieve a final grade of 4 or better on Advanced Placement (AP) English Language & Composition or AP Literature & Composition; or achieve a final grade of 5 or better on International Baccalaureate English A1 or A2 (higher-level or standard-level). 
+4. Achieve a final grade of 4 or better on Advanced Placement (AP) English Language & Composition or AP Literature & Composition; or achieve a final grade of 5 or better on International Baccalaureate English A1 or A2 (higher-level or standard-level). 
 
-Achieve the competence standard indicated by Test of English as a Foreign Language (TOEFL). The Test of English as a Foreign Language (TOEFL) measures the ability of non-native speakers of English to use and understand English as it is spoken, written, and heard in academic settings. The test helps students demonstrate that they have the English skills necessary for effective communication and successful coursework. Applicants whose first language is not English must submit satisfactory results from an internet-based TOEFL test taken within the last two years. Scores will be sent to Carey directly from Educational Testing Service. (TOEFL is available from Education Testing Service at www.ets.org). Refer to minimum required scores per program below.
+5. Achieve the competence standard indicated by Test of English as a Foreign Language (TOEFL). The Test of English as a Foreign Language (TOEFL) measures the ability of non-native speakers of English to use and understand English as it is spoken, written, and heard in academic settings. The test helps students demonstrate that they have the English skills necessary for effective communication and successful coursework. Applicants whose first language is not English must submit satisfactory results from an internet-based TOEFL test taken within the last two years. Scores will be sent to Carey directly from Educational Testing Service. (TOEFL is available from Education Testing Service at www.ets.org). Refer to minimum required scores per program below.
 
-
-
-
-Minimum Test Score (iBT)
-Test Categories:
-Masters
-Doctoral
-Reading
-20+
-22+
-Listening
-20+
-22+
-Speaking
-20+
-22+
-Writing
-20+
-22+
-Minimum Total 
-90+
-100
+<table>
+ <tr>
+  <th></th>
+  <th colspan="2">Minimum Test Score (iBT)</th>
+ </tr>
+ <tr>
+  <td>Test Categories:</td>
+  <td>Masters</td>
+  <td>Doctoral</td>
+ </tr>
+ <tr>
+  <td>Reading</td>
+  <td>20+</td>
+  <td>22+</td>
+ </tr>
+ <tr>
+  <td>Listening</td>
+  <td>20+</td>
+  <td>22+</td>
+ </tr>
+ <tr>
+  <td>Speaking</td>
+  <td>20+</td>
+  <td>22+</td>
+ </tr>
+ <tr>
+  <td>Writing</td>
+  <td>20+</td>
+  <td>22+</td>
+ </tr>
+ <tr>
+  <td>Minimum Total</td>
+  <td>90+</td>
+  <td>100</td>
+ </tr>
+ </table>
 
 
 Use Carey’s code number 5981 when indicating Carey as a score recipient. 
