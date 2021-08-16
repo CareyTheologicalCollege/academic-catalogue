@@ -1336,6 +1336,8 @@ Course registration and tuition is due on the first day of class. If students ar
   <td>Reread Fee (If thesis/thesis is rejected/failed and has to be rewritten)</td>
   <td>$500</td>
   <td>-</td>
+ </tr>
+ </table>
 
 
 Payment, Late Payment, and Outstanding Accounts
