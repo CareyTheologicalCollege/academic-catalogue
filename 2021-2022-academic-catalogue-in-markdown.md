@@ -1071,106 +1071,271 @@ Graduation from any of Carey’s programs requires the following.
 1. Complete the required number of credit hours of study for the relevant program.
 
 2. Minimum GPA required for the program of study
-Program of Study
-Minimum Average GPA
-Doctor of Ministry
-3.30 GPA (B+)
-Advanced Diploma
-3.00 GPA (B)
-Master’s Degrees
-2.70 GPA (B-)
-Diploma Program
-2.70 GPA (B-)
 
+<table>
+ <tr>
+  <th>Program of Study</th>
+  <th>Minimum Average GPA</th>
+ </tr>
+ <tr>
+  <td>Doctor of Ministry</td>
+  <td>3.30 GPA (B+)</td>
+ </tr>
+ <tr>
+  <td>Advanced Diploma</td>
+  <td>3.00 GPA (B)</td>
+ </tr>
+ <tr>
+  <td>Master’s Degrees</td>
+  <td>2.70 GPA (B-)</td>
+ </tr>
+ <tr>
+  <td>Diploma Program</td>
+  <td>2.70 GPA (B-)</td>
+ </tr>
+ </table>
+ 
+3. In compliance with all academic policies and student code of conduct set forth in this Academic Catalogue.
 
-In compliance with all academic policies and student code of conduct set forth in this Academic Catalogue.
+4. All accounts payable and due with Carey Theological College and Carey Hall are paid in full.
 
-All accounts payable and due with Carey Theological College and Carey Hall are paid in full.
-
-Senate approval before graduation.
+5. Senate approval before graduation.
 
 Students may apply for graduation every semester to receive official transcripts and the graduation diploma. Graduation application forms must be completed and submitted 1 month before the end of the student’s graduating term.
 ## Additional Graduation Requirements for Doctor of Ministry
 
 <u>Preparation of the Doctoral Thesis Project Proposal:</u> DMIN 901 Research Writing and Proposal is designed to assist DMin students to prepare their final project proposal. The research writing component establishes the foundational basis for the Doctoral Thesis Project and is developed as part of the Doctoral Thesis Project under the supervision of the Faculty Advisor and/or DMin Project Supervisor.
 
-Candidacy: Once a student has completed the required courses (under the Advanced Diploma program) and their doctoral thesis project proposal has been presented and accepted, a candidacy evaluation will be conducted. On successful recommendation, the student enters the candidacy phase of the Doctor of Ministry program.
+<u>Candidacy:</u> Once a student has completed the required courses (under the Advanced Diploma program) and their doctoral thesis project proposal has been presented and accepted, a candidacy evaluation will be conducted. On successful recommendation, the student enters the candidacy phase of the Doctor of Ministry program.
 
-Doctoral Thesis Project: The intent of the doctoral thesis project is to demonstrate advanced competence in the field of ministry and to contribute knowledge to the better understanding of ministry. The integrative method practiced in the theological reflection courses is brought to bear upon an area of ministry in which the DMin student is actively engaged. The Doctoral Thesis Project normally features an articulated ministry problem or question, a Doctoral Thesis Project plan of research and investigation, and theological reflection on the project and evaluation of the DMin student’s own leadership. The candidate is required to present this doctoral thesis project in a form which allows for its circulation among a wider audience and/or academic community. Anyone wishing to use formats other than a thesis style must seek approval from the Research Ethics & Thesis Committee. The thesis shall be examined by a committee of three: the supervisor, a second reader (internal; usually a Core Faculty member), and an external reader. Successful completion of the examination is an essential element in completion of the thesis project.
+<u>Doctoral Thesis Project:</u> The intent of the doctoral thesis project is to demonstrate advanced competence in the field of ministry and to contribute knowledge to the better understanding of ministry. The integrative method practiced in the theological reflection courses is brought to bear upon an area of ministry in which the DMin student is actively engaged. The Doctoral Thesis Project normally features an articulated ministry problem or question, a Doctoral Thesis Project plan of research and investigation, and theological reflection on the project and evaluation of the DMin student’s own leadership. The candidate is required to present this doctoral thesis project in a form which allows for its circulation among a wider audience and/or academic community. Anyone wishing to use formats other than a thesis style must seek approval from the Research Ethics & Thesis Committee. The thesis shall be examined by a committee of three: the supervisor, a second reader (internal; usually a Core Faculty member), and an external reader. Successful completion of the examination is an essential element in completion of the thesis project.
 
 Upon successful completion of the thesis defense, DMin students are required to provide the Office of the Registrar with 2 bound copies of the finalized thesis for inclusion in the Carey thesis archives. 
 
-DMin students who wish to obtain their own doctoral gowns must arrange to purchase or rent them in time for the graduation ceremony. Gown guidelines are available from the Registrar. 
-Additional Graduation Requirements for Master’s Programs
-Theological Integration Project for Mission & Ministry: Each student enrolled in a master’s degree program at Carey is required to create and maintain a student portfolio to chart the growth in specific competency areas in one’s program of study where the culmination of evidence of the competencies will be demonstrated through the theological integration project. Students are required to do an oral presentation of their project prior to graduation.
+DMin students who wish to obtain their own doctoral gowns must arrange to purchase or rent them in time for the graduation ceremony. Gown guidelines are available from the Registrar.
+
+**THE DOCTOR OF MINISTRY  THESIS PROJECT: OVERVIEW**
+
+The Doctoral Thesis Project represents the final stage of the Doctor of Ministry program. Unlike many other pieces of academic writing, the Doctoral Thesis Project is both a researched academic piece of writing as well as being experiential in character, bringing academic research into conversation with ethnographic research into contemporary ministry context. With the guidance and counsel of faculty advisers, it is a reflective analysis of a well-defined project of ministry undertaken by the minister and is intended to make a contribution to the body of knowledge about the work of ministry. 
+
+A successful Doctoral Thesis considers a series of questions linking the practice of ministry with academic discourse: In what areas of ministry am I invested? Is there a demonstrated need of research in ministry in this area? Is this topic manageable in terms of the parameters of this project? How much background knowledge do I possess about this topic? Is this topic substantial enough to be worthy of exploration (genericity)? Does the topic bring together an academic discourse with a context or problem in contemporary ministry in such a way that may help the church? Who is the thesis for? What problem (in ministry) is it trying to solve, or what opportunity is it trying to explore?
+
+**THE DOCTOR OF MINISTRY THESIS PROJECT: FROM PROSPECTUS TO PROPOSAL TO EXAMINATION**
+
+**Prospectus:** The student prepares a brief (1-2 page) prospectus which functions as a request to start DMIN 901 (3 Credits). The prospectus should describe their proposed subject area and the type of project they wish to pursue, explain how this project will fit their ministry context, and what types of research will shape the thesis project (qualitative and/or quantitative). The project should have a clear ministry orientation and should build upon, but not replicate, material covered in previous DMin work. During DMIN 901, students receive input from faculty and peers to help the Prospectus develop into a Proposal. Common refinements include an adjustment of the research objectives, reducing or expanding the scope of research, introduction or refinement of qualitative and/or quantitative research methodologies, and adjusting or expanding the research bibliography and/or human research objectives. 
+
+**Thesis Project Proposal:** The proposal shall introduce the relevance of the topic and the stages or chapters for the thesis itself, explaining the purpose of each proposed chapter. A brief literature review shall be included. A comprehensive bibliography will be included, analyzed according to topical categories and presented in Kate L. Turabian, A Manual of Style (Rev. ed.) format. Upon acceptance by the Research Ethics and Thesis Committee, a thesis project supervisor will be assigned by the Committee. Proposals will be evaluated on the basis of the suitability and potential of the topic itself, plus adherence to the style sheet.
+The DMin Thesis Project Proposal is to be a maximum of ten pages long, double-spaced. Once DMIN 901 has concluded, it is normally presented at an upcoming meeting of the Research Ethics and Thesis Committee. All course work must be completed and all outstanding financial obligations with the Office of the Registrar must be met before the DMin Thesis Project Proposal will be approved and the student raised to candidacy.
+
+Upon approval of the DMin Thesis Project Proposal, the student will achieve DMin Candidacy Status.
+
+The Thesis Project Proposal will include the following:
+
+- Topic: a brief statement of the essence of the subject.
+
+- Title: a clear, concise wording as it will appear on the final document
+
+- Rationale: a description of the observed ministry problem or issue which influenced the selection of this topic. The ministry problem must be clearly defined.
+
+- Specific ministry actions:  clearly formulate the ministry project so that it has an identifiable beginning and end.  What will you do?  When will you stop doing it?
+
+- Description of Project: a clear and thorough description of the whole undertaking of which the act of ministry is central
+
+- A Research Question: a carefully worded question which identifies the area to be explored. This area must directly relate to the ministry and the life of the church and/or the ministry.
+
+- Contribution to Knowledge of Ministry: a statement of what will be added to the body of existing knowledge about the practice of ministry. This is the genericity factor.
+
+- Theological Themes: a clear statement of both the theological foundation for the project and how ministry and theology will be integrated
+
+- Methods: Answer the following questions: What? When? How? Why? With whom? Identify the manner in which data will be recorded, interpreted and collated
+
+- Evaluation Procedures: identify the criteria by which the ministry action will be evaluated. 
+
+- Bibliography: The Bibliography of the Initial Project Proposal is developed and refined to reflect any additional resources which have been identified as valuable to the project.
+
+**Note:** For students in the Advanced Diploma Program, DMIN 901 may be taken after successful completion of 12 credits of 900 level courses and approval of a DMin application form.
+
+**Doctoral Thesis Project:** A completed Doctoral Thesis Project is the ultimate academic outcome of the program. Predicated on an approved thesis proposal, the thesis project will be an essay of 100-125 pages, including bibliography, with the addition of any relevant appendices. It should be written strictly according to Turabian, Manual of Style (Rev. ed.). The thesis shall exhibit a central argument or idea that is developed in 3-4 chapters with a conclusion. Critical use and analysis of sources at a doctoral level is expected. 
+
+The timing of the intended project is important. The Doctoral Thesis Project research cannot begin before the final proposal has been accepted. Thesis Project proposals are proposals pertinent to future ministry, not reflection on past activities.
+
+A minimum of a one year academic term may normally be expected from approval of a proposal to the completion of the work. During that time, it is the student’s responsibility to keep in contact with his/her primary supervisor. Portions of the draft written work should be submitted to the supervisor as they are completed, rather than waiting until the work is finished. 
+
+A Doctoral Thesis Project should develop the approved Thesis Project Proposal into a detailed statement of the ministry problem, a description of the research stages and principal resources, methodologies utilized in the research, a presentation of the research itself, a statement of findings from the research, relevant theological interpretation, overall evaluation, and implications for future ministry.
+
+Upon receiving a complete draft copy, in the required format, the supervisor will respond in a timely fashion with possible further recommendations and changes. When the final draft is completely satisfactory in content and style, the supervisor will approve it and notify the Research Ethics & Thesis Committee. The Thesis Project essay will then be distributed to the Second and External Readers, who will offer their responses in a timely fashion.
+
+**Oral Examination:** The Thesis Project shall be examined by a committee of three: the supervisor, a second reader and an external reader.  If one of the examiners cannot be present, their questions will be sent to the primary supervisor and  a substitute faculty member will ask the questions on their behalf. 
+At the examination, after an opening prayer and a brief introduction by the primary supervisor, each candidate will have 20 minutes to make an oral presentation of their work. Students should use the following outline to organize their presentation:  
+1. Their ministry context
+2. Ministry problem observed
+3. The means sought to address the problem
+4. Methodology used
+5. Highlights of the theological reflection
+6. Reported findings
+7. Implications for ministry and mission
+8. Contributions to the candidate’s own spiritual formation
+9. Future areas of research to be explored
+ 
+The weight of the oral presentation should rest on the final three categories – the theological reflection that is distinctive of Doctor of Ministry work, the research findings, and the implications for ministry and mission (the “so what?”) of the research. 
+
+At the close of the oral presentation, the examiners will ask questions of the candidate for between thirty and sixty minutes. At the end of the examination, the candidate will exit while the examiners evaluate the candidate’s written submission, oral presentation and responses provided during the examination. When their deliberation is complete, they will invite the candidae to return and receive their recommendations and any requirements. Possible outcomes of the examination are: pass with distinction, pass, minor revisions required, major revisions required, and fail.
+ Following a successful examination, the primary supervisor shall update the student’s academic record.
+
+In consultation with the primary thesis supervisor, the candidate may invite three or four people to attend the examination. They may not pose questions. Core Faculty members at Carey Theological College may attend the examination and may ask one question each, not including any subsequent clarifying questions.
+
+**FACULTY ADVISOR, DOCTORAL PROJECT SUPERVISOR, SECOND AND EXTERNAL READERS**
+
+**Faculty Advisor:** Core faculty members are assigned to each Adv. Dip/ DMin student as a personal point of contact from the beginning of their Adv. Dip/ DMin studies until a supervisor is appointed following the approval of the thesis project proposal. Faculty advisors initiate contact with Adv. Dip/ DMin students approximately once per term, recommending Adv. Dip/ DMin courses.  **The advisor is not the same as the thesis project supervisor,** although in many cases the advisor continues to support the Adv. Dip/ DMin student after the approval of the thesis project proposal, either as the thesis project supervisor or as second reader.
+
+Once all coursework has been completed and a successful Thesis Project Proposal has been approved by the Research Ethics and Thesis Committee, the student enters the Candidacy Stage. At the Candidacy Stage, in consultation with the student, the Research Ethics & Thesis Committee will recommend the appointment of a thesis supervisor, to be approved by the President. 
+
+**The Doctoral Project Primary Supervisor**
+
+The supervisor will be selected on the basis of his/her general graduate competency in the field, and reasonable familiarity with the student’s proposed thesis topic. Once approved, the supervisor and student will support the student’s program of research and writing. The primary supervisor:
+
+- Helps motivate the student to follow the agreed timeline which was presented to the student at the Project seminar for the completion of the project (normally within 1 year) and checks on the progress
+- Is sufficiently familiar with the topic of research to provide guidance and/or has a willingness to gain that familiarity before agreeing to act as a supervisor.
+- Is accessible to the student for consultation and discussion of the student’s research progress. The frequency of meetings will vary from project to project but in no case should interaction be less frequent than once per month.
+- Responds in a timely and thorough manner to written work submitted by the student, with constructive suggestions for improvement and continuation. The turnaround time for comments on written work should not normally exceed three weeks.
+- Makes arrangements to ensure continuity of supervision when the supervisor will be absent for extended periods, e.g. a month or longer.
+- Ensures that the research environment is safe, healthy and free from harassment, discrimination.
+- Works with the second reader of the doctoral project who are selected by the Research Ethics & Thesis Committee and the Principal.
+- Makes recommendations to students such as hiring of an editor to ensure that the final project is of professional quality.
+- The supervisor and second reader are to sign off on the project before the Oral Presentation.
+- Provide three or four substantial questions for the oral examination.
+Acknowledgement: This Guideline is adapted from the UBC Graduate program Supervisors Responsibilities https://www.grad.ubc.ca/handbook-graduate-supervision/supervisor-responsibilities
+
+**The Second Reader**
+
+The doctoral project second reader plays an important role in the DMin program. Early input from the second readers to the primary supervisor will improve the effectiveness of the research, the quality of the final thesis, and contribute towards the success of the oral presentation. 
+Note that the second reader’s responsibilities are to the primary supervisor, not to the student. It would be confusing for everyone for the student to have two supervisors, but beneficial for the project to have the second reader’s input from the outset. The Second Reader will: 
+- Provide input on the DMin project proposal to the primary supervisor (i.e. suggest resources, identify problems and pertinent areas of inquiry to pursue), usually at one or perhaps two meetings during the proposal stage.
+- Serve as a resource person to the primary supervisor during the project as required (possibly one more meeting with the supervisor, or answering specific emails regarding resources)
+- Participate on the examination panel that assesses the final thesis project project: ask three or four substantial questions, make comments, and participate in the written assessment (grading) of the final thesis project (pass with distinction, pass, minor revisions required, major revisions required, fail).
+
+**Responsibilities of External Readers**
+
+While the supervisor and the second reader are directly involved from the outset of the project, the external reader reads and evaluates the completed project-thesis. 
+The external reader is expected to carefully and critically read the thesis project upon its completion. This will entail a consideration of the quality of the content, argumentation, the use of language, formatting and whether it meets the academic and ministry criteria identified in Carey’s Doctor of Ministry degree.
+The doctoral project external reader will participate on the examination panel that assesses the final thesis project project: ask three or four substantial questions, make comments, and participate in the written assessment (grading) of the final thesis project (pass with distinction, pass, minor revisions required, major revisions required, fail).
+
+**RESPONSIBILITIES OF STUDENTS**
+**Disclaimers and Declarations**
+
+It is the responsibility of the student to achieve the stages of the program and satisfy all degree requirements.
+
+The College reserves the right to modify requirements and expectations for all degree programs. Please check the most current academic catalogue for the most updated requirements, policies and regulations.
+
+**Student Responsibilities and Conduct**
+All D. Min. students are expected to exhibit the highest standards of ethical conduct during their studies. Expectations are addressed in the Carey Code of Conduct. There is a zero tolerance for harassment of any kind and academic dishonesty. Immediate termination of student status will result.
+
+**GRADUATION REQUIREMENTS**
+1. Complete the required number of credit hours of study for the relevant program.
+2. Minimum GPA required for the program of study: 3.0 GPA (B) for Advanced Diploma and 3.30 GPA (B+) for DMin
+3. Upon successful completion of the thesis defense, DMin students are required to provide the Office of the Registrar with 2 bound copies of the finalized thesis for inclusion in the Carey thesis archives.
+4. In compliance with all academic policies and student code of conduct set forth in this Academic Catalogue.
+5. All accounts payable and due with Carey Theological College and Carey Hall are paid in full.
+6. Senate approval before graduation.
+
+Students may apply for graduation every semester to receive official transcripts and the graduation diploma. Graduation application forms must be completed and submitted 1 month before the end of the student’s graduating term.
+
+* DMin students who wish to obtain their own doctoral gowns must arrange to purchase or rent them in time for the graduation ceremony. Gown guidelines are available from the Registrar.
+
+## Additional Graduation Requirements for Master’s Programs
+<u>Theological Integration Project for Mission & Ministry:</u> Each student enrolled in a master’s degree program at Carey is required to create and maintain a student portfolio to chart the growth in specific competency areas in one’s program of study where the culmination of evidence of the competencies will be demonstrated through the theological integration project. Students are required to do an oral presentation of their project prior to graduation.
 
 All students are required to complete the supervised ministry/peer learning course, which includes mentorship and practicum involvement. Please note: students who desire to include CPE (Clinical Pastoral Education) credits in their program may do so as elective/specialization courses. An individual who wishes to incorporate CPE into the practicum portion of the Capstone courses must receive approval and make arrangements with the supervising faculty member and the Office of the Registrar. 
 
-Financial Information
-Tuition and Fees
+# Financial Information
+## Tuition and Fees
 Carey Theological College tries to keep fees at a level that will permit most qualified persons to attend. The fees incurred by students meet only a portion of the total cost of providing education and operating the college. We are grateful for the support of the churches of the Canadian Baptists of Western Canada, foundations, and interested friends.
 
 Course registration and tuition is due on the first day of class. If students are unable to meet this deadline, it will be necessary for them to submit a letter of appeal to the Office of the Registrar. Payment plans can be negotiated with the Registrar’s office as needed. 
 
-Tuition
-Doctoral
-Masters/Diploma
-Tuition (per credit hour)
-$450
-$345
-Guided Study (per credit hour)
-$450
-$345
-Audit (per credit hour)
-$160
-$160
-
-
-Program Fees
-Doctoral
-Masters/Diploma
-Admission Confirmation Application Fee (non-refundable) 
-$10065
-$10065
-Occasional Student Course Registration Deposit Fee  (non-refundable at the time of application)
-$100
-$100
-Graduation Fee 
-$120
-$100
-Graduation Ceremony Fee
-$xxx
-$xxx
-Prior Learning Assessment Evaluation Fee (mature students only)
-$300
-$200
-Transcript Evaluation Fee per course (review for Advanced Standing with Credit or other special analysis)
-$100
-$100
-Letter of Permission per course (for course transfers)
-$100
-$100
-Official Hard-copy Transcript
-$10
-$10
-Official Electronic Transcript
-$5
-$5
-Release Financial or Registration Lock 
-$50
-$50
-Dishonored Cheques
-$50
-$50
-Graduation Certificate Replacement
-$50
-$50
-D.Min. Thesis Extension Fee (per term, max 3 extensions)
-$450
--
-Reread Fee (If thesis/thesis is rejected/failed and has to be rewritten)
-$500
--
+<table>
+ <tr>
+  <th>Tuition</th>
+  <th>Doctoral</th>
+  <th>Masters/Diploma</th>
+ </tr>
+ <tr>
+  <td>Tuition (per credit hour)</td>
+  <td>$450</td>
+  <td>$345</td>
+ </tr>
+ <tr>
+  <td>Audit (per credit hour)</td>
+  <td>$160</td>
+  <td>$160</td>
+ </tr>
+ </table>
+ 
+ <table>
+ <tr>
+  <th>Program Fees</th>
+  <th>Doctoral</th>
+  <th>Masters/Diploma</th>
+ </tr>
+ <tr>
+  <td>Admission Confirmation Fee (non-refundable)</td>
+  <td>$100</td>
+  <td>$100</td>
+ </tr>
+ <tr>
+  <td>Graduation Fee</td>
+  <td>$0</td>
+  <td>$0</td>
+ </tr>
+ <tr>
+  <td>Graduation Ceremony Fee</td>
+  <td>$xxx</td>
+  <td>$xxx</td>
+ </tr>
+ <tr>
+  <td>Prior Learning Assessment Evaluation Fee (mature students only)</td>
+  <td>$300</td>
+  <td>$200</td>
+ </tr>
+ <tr>
+  <td>Letter of Permission per course (for course transfers)</td>
+  <td>$100</td>
+  <td>$100</td>
+ </tr>
+ <tr>
+  <td>Official Hard-copy Transcript</td>
+  <td>$10</td>
+  <td>$10</td>
+ </tr>
+ <tr>
+  <td>Official Electronic Transcript</td>
+  <td>$5</td>
+  <td>$5</td>
+ </tr>
+ <tr>
+  <td>Release Financial or Registration Lock</td>
+  <td>$50</td>
+  <td>$50</td>
+ </tr>
+ <tr>
+  <td>Dishonored Cheques</td>
+  <td>$50</td>
+  <td>$50</td>
+ </tr>
+ <tr>
+  <td>Graduation Certificate Replacement</td>
+  <td>$50</td>
+  <td>$50</td>
+ </tr>
+ <tr>
+  <td>D.Min. Thesis Extension Fee (per term, max 3 extensions)</td>
+  <td>$450</td>
+  <td>-</td>
+ </tr>
+ <tr>
+  <td>Reread Fee (If thesis/thesis is rejected/failed and has to be rewritten)</td>
+  <td>$500</td>
+  <td>-</td>
 
 
 Payment, Late Payment, and Outstanding Accounts
