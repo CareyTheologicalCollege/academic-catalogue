@@ -2326,22 +2326,22 @@ Carey Theological College is committed to facilitating the learning of all stude
 
 Carey’s responsibilities toward students with exceptionalities: 
 
-Carey will ensure that persons with exceptionalities are not denied admission based on disability.
+- Carey will ensure that persons with exceptionalities are not denied admission based on disability.
 
-Carey will accommodate students with disabilities, where possible, with respect to admission criteria and the Human Rights Code (BC) and the Canadian Charter of Rights and Freedom.
+- Carey will accommodate students with disabilities, where possible, with respect to admission criteria and the Human Rights Code (BC) and the Canadian Charter of Rights and Freedom.
 
-Carey will review documentation to ensure recommendations and decisions regarding accommodations are based upon appropriate medical documentation.
+- Carey will review documentation to ensure recommendations and decisions regarding accommodations are based upon appropriate medical documentation.
 
-Carey will ensure, through the Office of the Registrar, that faculty are aware of individual learning plans where this is relevant to course participation and overall student learning. 
+- Carey will ensure, through the Office of the Registrar, that faculty are aware of individual learning plans where this is relevant to course participation and overall student learning. 
 
-All of the above provisions are to be done within the means of the institution. Students may need to take financial responsibilities on additional service or equipment required.
+- All of the above provisions are to be done within the means of the institution. Students may need to take financial responsibilities on additional service or equipment required.
 
 While Carey will do all possible to create a safe, supportive learning environment for all students, Carey reserves the right to deny accommodation requests if the accommodation request is deemed to have a negative impact on the quality of other student’s learning experience and the integrity of Carey curriculum. 
-Gender Language
+## Gender Language
 As language usage changes over time, the church must discern where its own language must change in order to continue to bear witness faithfully to the gospel. Modern English usage has moved away from using masculine terms to refer to groups that include women. The continued use of such terms in worship, writing, or conversation miscommunicates the invitation of the gospel and the nature of the church.
 
 This policy refers to humankind. Examples of inclusive language for persons can be found in the NRSV and the TNIV translations. In regards to Scripture texts, the integrity of the original expressions and names of God should be respected. The language of previous eras and other authors need not be rewritten to conform to contemporary usage. It is expected that inclusive language will be used in written work, publications, and classroom conversation at Carey Theological College.
-Non-Academic Grievance Matters
+## Non-Academic Grievance Matters
 Carey Theological College is committed to uphold the standards as a Christian community according to the Christian Scripture. As members of the community, Carey students are expected to respect the rights of all students, faculty and staff and adhere to the policies.
 
 If a student has observed a violation of Carey policy or the applicable laws, or feels harmed by another student's misconduct (e.g. affecting his/her welfare, property, safety or security) he/she should file a report with the Office of the Registrar and/or UBC Police as appropriate. A policy-procedure document and form pertaining to non-academic concerns and grievances is available on the website or from the Office of the Registrar. 
@@ -2350,90 +2350,79 @@ Carey makes every effort to provide a safe, enjoyable, positive learning environ
 
 Concerns and grievances come in varying degrees, and different strategies may be needed to resolve them.
 
-Matters of a minor sort, and those that can be addressed without the assistance of any formal procedures on Carey’s part are entrusted to the wisdom and mature efforts of our students, staff, and faculty.
-
-Matters that are relatively minor, where some assistance from staff, faculty, or administration is desirable or necessary, but where there is no wish or need to engage in a formal action, may be addressed by bringing forward an informal grievance or expression of concern. 
-
-The appropriate steps for addressing an informal grievance follow the principles for dispute resolution laid out in Mat 18:15-20. 
-
-Begin by discussing the concern or complaint with the person involved—in a constructive and respectful manner. 
-
-If the concern is not adequately addressed in this way, speak with the individual who is responsible for the area where the concern rests: the Office of the Registrar if the issue relates to another student, or the relevant Vice President responsible for the area where the issue arises if it relates to faculty and staff.
- 
-Issues that cannot be resolved in this way, or that involve multiple aspects of the Carey community should be directed to the President.
-
-Most suggestions for institutional improvement would also be “informal” in nature. Again, these should be directed either to the staff/faculty member to whom they are most directly relevant, or to the individual responsible for the area concerned.
-
-Where an informal process does not successfully address a grievance, or in the case of a serious conflict or problem, students may lodge a formal grievance or expression of concern, which will result in formal action by the Carey administration. (Formal action includes maintaining an official record of the issue and proceedings.)
-
-Normally, formal grievances  fall into one of the following categories:
-
-Interpersonal issues, and issues relating to campus life or community experience should be taken up initially with the Office of the Registrar. 
-
-Academic issues should be raised with the Office of the Registrar. 
-
-Issues of harassment should be directed to the Office of the Registrar. Should this represent a conflict of interest or be otherwise impracticable, such issues should be raised with the Vice President, Finance and Capital Projects.
+<ol>
+ <li>Matters of a minor sort, and those that can be addressed without the assistance of any formal procedures on Carey’s part are entrusted to the wisdom and mature efforts of our students, staff, and faculty.</li>
+ <li>Matters that are relatively minor, where some assistance from staff, faculty, or administration is desirable or necessary, but where there is no wish or need to engage in a formal action, may be addressed by bringing forward an informal grievance or expression of concern.<br>The appropriate steps for addressing an informal grievance follow the principles for dispute resolution laid out in Mat 18:15-20.</li>
+ <ol>
+  <li>Begin by discussing the concern or complaint with the person involved—in a constructive and respectful manner.</li>
+  <li>If the concern is not adequately addressed in this way, speak with the individual who is responsible for the area where the concern rests: the Office of the Registrar if the issue relates to another student, or the relevant Vice President responsible for the area where the issue arises if it relates to faculty and staff.</li>
+  <li>Issues that cannot be resolved in this way, or that involve multiple aspects of the Carey community should be directed to the President.</li>
+ </ol>
+<p>Most suggestions for institutional improvement would also be “informal” in nature. Again, these should be directed either to the staff/faculty member to whom they are most directly relevant, or to the individual responsible for the area concerned.</p>
+<li>Where an informal process does not successfully address a grievance, or in the case of a serious conflict or problem, students may lodge a formal grievance or expression of concern, which will result in formal action by the Carey administration. (Formal action includes maintaining an official record of the issue and proceedings.)<br>Normally, formal grievances  fall into one of the following categories:</li>
+ <ol>
+  <li>Interpersonal issues, and issues relating to campus life or community experience should be taken up initially with the Office of the Registrar.</li>
+  <li>Academic issues should be raised with the Office of the Registrar.</li>
+  <li>Issues of harassment should be directed to the Office of the Registrar. Should this represent a conflict of interest or be otherwise impracticable, such issues should be raised with the Vice President, Finance and Capital Projects.</li>
+ </ol>
+ </ol>
 
 More information on the process for each type of formal action, including appeal procedures, will be provided in cases where a process is initiated. 
 
 A “Concerns and Grievances” form is available on the Carey website and/or from the Office of the Registrar.
+
 Carey welcomes all thoughtful, respectful expressions of concern, as well as suggestions for making our programs more effective and more satisfying for the community. When students speak freely, we seek to listen carefully, in order to grow institutionally. 
 
 Matters of discipline are managed by the Office of the Registrar. Please consult with the Office of the Registrar if you desire help with these matters.
-Discrimination and Harassment Policy
+## Discrimination and Harassment Policy
 Carey seeks to be a community in which students, faculty and staff can grow together, free from discrimination and harassment. We are identified by our commitment to Jesus Christ and to the Scriptures which make Him known. Our purpose is that the members of Carey lead exemplary and honorable lives, consistent with and faithful to this revelation. So it is that we seek to love, honor, serve, guide and, where we have failed, seek to make and be made right with one another. We acknowledge that we sometimes fail to live up to the high ideals upon which we claim to rest. Relationships may be fractured through acts or attitudes that intentionally or unintentionally cause hurt. Discrimination and harassment, including sexual harassment, are two of many possible ways in which this sense of Christian community may be betrayed.
 
 The commitment of the College to all its members is to ensure that no form of sexual harassment be tolerated, a zero-tolerance policy. Anyone who believes that he or she has been subjected to comment or conduct which might constitute discrimination or harassment should report it to the Registrar, or, in the case of a conflict of interest, to the President’s Office.
-Privacy Policy
+## Privacy Policy
 https://www.iubenda.com/privacy-policy/7883032
 
-Student Resources
-ID Cards 
+# Student Resources
+## ID Cards 
 A student ID card will be provided to all students who have been accepted into a for-credit program of study, and who are currently enrolled in a course. (UBC U-Pass cards are not available to Carey students.) Please remember to upload a current picture to your Populi profile to assist us with this.
 
 Current Carey students are also eligible to receive a UBC library card, providing borrowing privileges as well as access to UBC online databases and resources.
-amStudent Data Systems Access (Populi)
+## Student Data Systems Access (Populi)
 Student records managed by the Office of the Registrar are contained in a web-based electronic database system called Populi. Other information managed by the Registrar, such as course scheduling and student accounts, are also located in the Populi system. 
 Carey has opted to use a web-based data management system so that you can have easier and more direct access to your academic records and related services. Through Populi you can:
-
-Review your course history
-
-Use the “grad audit” function to see at a glance what requirements you still need to meet for graduation
-
-Check your student financial accounts
-
-See what courses are currently scheduled for upcoming semesters
-
-Register for courses
-
-Pay student account balances
-
-Order transcripts
+- Review your course history
+- Use the “grad audit” function to see at a glance what requirements you still need to meet for graduation
+- Check your student financial accounts
+- See what courses are currently scheduled for upcoming semesters
+- Register for courses
+- Pay student account balances
+- Order transcripts
 
 These and other related functions all become available to you once you are admitted to a program and set up with a username and password. The Office of the Registrar can also help you with requests and information, but many of the services traditionally provided by contacting the office are now available to you directly at your own convenience.
 
 Assistance with initial login and system access will be provided by the Office of the Registrar when you are admitted. Our team will also provide an orientation to Populi and helpful advice on using the system as part of new student orientation. 
 
 As an active student, we encourage you to login to Populi regularly. This will not only help you to become comfortable with the system, but it also means you’ll keep up with the information, news, etc., posted regularly on the Populi newsfeed.
-UBC Learning Management System Access (Canvas)
+## UBC Learning Management System Access (Canvas)
 All Carey courses are supported by the UBC Learning Management System (LMS) Canvas. This system is obviously an essential feature in our online courses, where the class is managed largely or entirely over the internet.
 
 For Carey students, it is essential that you become familiar with and skilled in using Canvas. UBC offers a variety of training opportunities on the system. (Please note that general tech support is all managed through UBC.)
 
 To gain access to Canvas you will need to register for a UBC Campus Wide Login (CWL) account. To do this:
 
-Create a CWL Account. Click here to begin: 
-https://www.cwl.ubc.ca/SignUp/cwlsubscribe/SelfSubscribeIndex.do When the login screen opens, click “Proceed” to begin. Follow the prompts through the screens:
-UBC Privacy Policy page. You must click “I Agree” in order to continue.
-Select “BASIC ACCOUNT” and click “Continue”.
-Personal Information page. Fill in your information and choose a username, password, and security question answers. Make sure to write down this information as it is required to access your course.
-
-Activate your CWL Account. Look for an email from UBC IT Services to confirm your CWL. You have 72 hours to click the link and activate your account.
-
-Enter your CWL username in the personal information page in your Carey Populi account. 
+<ol>
+ <li>Create a CWL Account. Click here to begin: 
+https://www.cwl.ubc.ca/SignUp/cwlsubscribe/SelfSubscribeIndex.do When the login screen opens, click “Proceed” to begin. Follow the prompts through the screens:</li>
+ <ol>
+  <li>UBC Privacy Policy page. You must click “I Agree” in order to continue.</li>
+  <li>Select “BASIC ACCOUNT” and click “Continue”.</li>
+  <li>Personal Information page. Fill in your information and choose a username, password, and security question answers. Make sure to write down this information as it is required to access your course.</li>
+ </ol>
+ <li>Activate your CWL Account. Look for an email from UBC IT Services to confirm your CWL. You have 72 hours to click the link and activate your account.</li>
+ <li>Enter your CWL username in the personal information page in your Carey Populi account.</li>
+ </ol>
 
 Once you have logged in to Canvas, your courses will appear as links to be followed. Note that courses are typically not available for full access until a few days before the course begins.
-Traditional Library Services 
+## Traditional Library Services 
 Our UBC campus location makes it easy for students who come to campus to visit other libraries in the vicinity, including the John Richard Allison Library at Regent, the H. R. McMillan Library at Vancouver School of Theology, the St Mark’s College Library, and any of the UBC libraries. The staff at each library will be happy to welcome you and to assist you. 
 
 Note, however, that access to the libraries is not the same as having borrowing privileges at each. For many years, Carey students had full borrowing rights at the Regent library, which Carey operated jointly with Regent. A change in organizational relationship in summer of 2017 means that this is no longer the case. Carey students wishing to borrow Chinese-language materials will still be granted free library cards at Regent. Other students will have to obtain their own community borrower’s card if you wish to take books out of the library. 
@@ -2446,7 +2435,7 @@ Students who do not live near UBC are encouraged to check with their local colle
 http://services.library.ubc.ca/borrowing-services/reciprocal-borrowing/
 
 To use reciprocal borrowing, students need a COPPUL (Council of Prairie and Pacific University Libraries) card. Contact David Harakal at david.harakal@ubc.ca  or phone 604-822-1443 to have a COPPUL card mailed to you. You must provide your UBC student number and other contact information.
-Online Library Resources 
+## Online Library Resources 
 Online research resources are an increasingly important element in all forms of higher education; they are particularly vital for Carey classes which are offered in hybrid and online format. Two major resources are available to you as a Carey student. 
 
 The first is our EBSCO eBook collection. Carey is building an online library of eBooks for theological study in collaboration with EBSCO—one of the largest and most important suppliers of online resources for research libraries. At present we have subscribed to a major collection called “EBSCO eBooks Religion,” containing approximately 7,000 volumes, more than 6,000 of which are directly related to religion, theology, and biblical studies. In addition, we have begun to purchase individual eBooks which are strategically important for our classes and for student and faculty research. Our goal is to develop a useful, high-quality library of eBooks to support our learning community in the years to come. A Quick Guide to these resources are made available on our website and through the Office of the Registrar, providing specific information on how to login to the system and to make use of it.
@@ -2454,22 +2443,22 @@ The first is our EBSCO eBook collection. Carey is building an online library of 
 Carey students also have access to online research databases and academic (and other) journals, which are an essential resource for all graduate students. A number of standard electronic databases (including the EBSCO database, which uses the same interface as our eBook collection) are available to you through UBC. Once you have obtained your UBC library card, these can be accessed from off campus. They can be accessed while on-campus whether or not you have a UBC library card. They will connect you to eBooks in the UBC collection, and to a broad selection of full-text electronic journals including journals in biblical, theological, religious, and social science studies. Similar databases are available at the Regent and VST libraries, though you will need to access them locally through portals in our neighbor schools’ libraries. 
 
 Relevant databases include: ATLA Religion Database with ATLASerials, Catholic Periodical and Literature Index, Christian Periodical Index, New Testament Abstracts (NTA), Old Testament Abstracts (OTA), ProQuest Religion Database, and Religious and Theological Abstracts (RTA).
-Textbooks 
+## Textbooks 
 Where possible, Carey faculty are encouraged to utilize textbooks that are available in digital form to ensure accessibility and to reduce cost.  Books may be borrowed from libraries, as mentioned above.
 
 Textbooks and other course-specific resources are an essential component of the learning process. Students are expected to obtain required textbooks for each course. These are a notable expense costing up to $150 per course. If finances are limited, students are advised to invest carefully in those essential reference works that will become a permanent and valued part of their library.
 
 Books may be obtained through local or on-line bookstores. Carey does not operate a bookstore; however the nearby Regent Bookstore at 5800 University Blvd., Vancouver is operated as a service to students and the public. The bookstore has many texts in stock and can secure titles upon order. (Email: bookstore@regent-college.edu, Phone 1-800-334-3279.)  
-Academic Advising
+## Academic Advising
 The key information sources for making wise academic plans are all available to you through the Carey website and related resource venues in Populi. The primary tools you will need are the Academic Catalog, your personal academic records (located in Populi), and projected course schedules (in Populi and also posted on the website). The Office of the Registrar has also set up degree audit within Populi to help you determine program requirements and which courses will fulfil those requirements.
 
 If you need help with anything relating to your program and plan—advice about course selection, resolution to problems, approval for special requests, etc.—please feel free to contact the Office of the Registrar. For advice that is specifically academic or professional in nature, and to explore the possibility of course substitutions or guided studies, you should also consider beginning by connecting the Office of the Registrar. Special requests and approvals may also need to be processed by the Office of the Registrar.
 
 Standardized forms to simplify the process of applying for transfer credit, advanced standing, guided study courses, and course substitutions are online in Populi. Other requests should be directed, in writing, to the Office of the Registrar at registrar@carey-edu.ca.  
-Useful Forms
-Financial Aid/Payment Plan Application: At Carey Theological College, we understand that seminary study represents a significant commitment—in time and energy as well as financial resources. We are pleased that we are able to offer a variety of financial aid resources to help reduce the expense associated with study. To apply for Financial Aid for the 2021-2022 academic year, fill out the 2021-2022 Financial Aid Application Form and submit it by the late registration deadline of the intended term. Make sure you have carefully read through our Financial Aid page and understand the relevant policies and rules. Payment plan is available upon request. Please fill out the 2021-2022 Payment Plan Application Form if you require assistance this way. 
-Transfer/Shared Credits, Advanced Standing and Exemptions: Students with previous theological training from a recognized institution may be eligible to receive some credit toward their program of study at Carey. Before starting the application, please read through the relevant policies on Carey's Academic Catalogue (pp.34-36). When you’re ready to apply, fill out the Transfer/Shared Credits, Advanced Standing and Exemptions Application Form. The evaluation process will take approximately 1-2 weeks upon receipt of your application and payment.
-Withdrawal/Leave of Absence: Students who wish to withdraw from a course must first submit a Withdrawal Form; Students who do not complete 6 credits of coursework within two sequential academic years will be classified as inactive. In order to retain active student status within the degree program, students must apply for a leave of absence by submitting the Leave of Absence Application Form. 
-Change of Specialization/Program: Students who wish to change their streams of study or switch to a different Master’s program (excluding MDiv) from another Master’s program can do so by submitting the Program Switch Application Form.
-Apply for Graduation: All Carey students must apply for graduation prior to receiving official transcripts and diplomas by submitting an Graduation Application Form. This notifies the Registrar's Office of your intention to graduate and allows us to conduct an audit of your program history to verify your eligibility. 
+## Useful Forms
+**Financial Aid/Payment Plan Application:** At Carey Theological College, we understand that seminary study represents a significant commitment—in time and energy as well as financial resources. We are pleased that we are able to offer a variety of financial aid resources to help reduce the expense associated with study. To apply for Financial Aid for the 2021-2022 academic year, fill out the 2021-2022 Financial Aid Application Form and submit it by the late registration deadline of the intended term. Make sure you have carefully read through our Financial Aid page and understand the relevant policies and rules. Payment plan is available upon request. Please fill out the 2021-2022 Payment Plan Application Form if you require assistance this way. 
+**Transfer/Shared Credits, Advanced Standing and Exemptions:** Students with previous theological training from a recognized institution may be eligible to receive some credit toward their program of study at Carey. Before starting the application, please read through the relevant policies on Carey's Academic Catalogue (pp.34-36). When you’re ready to apply, fill out the Transfer/Shared Credits, Advanced Standing and Exemptions Application Form. The evaluation process will take approximately 1-2 weeks upon receipt of your application and payment.
+**Withdrawal/Leave of Absence:** Students who wish to withdraw from a course must first submit a Withdrawal Form; Students who do not complete 6 credits of coursework within two sequential academic years will be classified as inactive. In order to retain active student status within the degree program, students must apply for a leave of absence by submitting the Leave of Absence Application Form. 
+**Change of Specialization/Program:** Students who wish to change their streams of study or switch to a different Master’s program (excluding MDiv) from another Master’s program can do so by submitting the Program Switch Application Form.
+**Apply for Graduation:** All Carey students must apply for graduation prior to receiving official transcripts and diplomas by submitting an Graduation Application Form. This notifies the Registrar's Office of your intention to graduate and allows us to conduct an audit of your program history to verify your eligibility. 
 Letter of Permission (TBC)
