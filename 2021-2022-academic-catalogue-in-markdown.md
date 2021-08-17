@@ -2021,120 +2021,63 @@ Exemptions are treated the same as Advanced Standing with Credit in regards to t
 # Course Registration
 Students are advised to register a minimum of one month prior to the beginning of the term. Some courses require reading or work to be posted or submitted on the first week online, so students are advised to check the course syllabi for all the course requirements. It should be noted that both the required and elective courses can be changed by Senate decision without public notice.
 
-To register for courses, login to Carey Populi at https://carey.populiweb.com/ and click on *‘My Profile,’* then *'Registration'*. This list shows all upcoming courses required for your program. Select the course you would like to register and click *‘Enroll’,* and proceed to make a payment on the *‘Financial’* tab. A $100 deposit is required on registration to hold your place. This deposit is non-refundable and will be applied to your tuition fee. The remaining balance is due on the first day of class. For more detailed instructions, please visit <u>this support page.</u> 
+To register for courses, login to Carey Populi at https://carey.populiweb.com/ and click on *‘My Profile,’* then *'Registration'*. This list shows all upcoming courses required for your program. Select the course you would like to register and click *‘Enroll’,* and proceed to make a payment on the *‘Financial’* tab. A $100 deposit is required on registration to hold your place. This deposit is non-refundable and will be applied to your tuition fee. The remaining balance is due on the first day of class. For more detailed instructions, please visit [this support page][https://support.populiweb.com/hc/en-us/articles/223792447].
 
-Course registration for a particular term opens one week after the previous term begins and closes the first Friday of the first week after the beginning of the term at 5pm Pacific Standard Time.
+<mark>Course registration for a particular term opens one week after the previous term begins and closes the first Friday of the first week after the beginning of the term at 5pm Pacific Standard Time.</mark>
 
-Assessment and Grading
-Grading Scale: Diplomas, Masters Programs
+# Assessment and Grading
+## Grading Scale: Diplomas, Masters Programs
 (3 credit hours should be equal to 127.5 clock hours of work.)
 
-
-Grade class
-Descriptors
-Letter grades
-GPA
-Detail
-%
-A class work  
-
-Excellent, superior work
-Effectively and exceptionally accomplishes all course outcomes and objectives. Work produced is excellent quality, of publishable quality, and benefits the wider Christian community. Shows exceptional growth/mastery. Exceptionally creativity and originality in approach to the subject.
-A+
-
-
-A
-
-
-A-
-4.0
-
-
-4.0
-
-
-3.7
-Special Commendation work
-
-Consistent A-class work
-
-
-
-Generally A-class work, some lapses and areas for refinement
-100-98
-
-
-97-94
-
-
-93-90
-B class work 
-
-
-Good solid work
-Accomplishes all course outcomes and objectives. Work produced is good quality, and beneficial to peers and fellow students. Growth/mastery of course material is good. Shows creativity and originality in approach to the subject.
-B+
-
-
-B
-
-B-
-3.3
-
-
-3.0
-
-2.7
-Primarily B-class, superior to some areas
-
-
-Consistent B-class work
-
-
-Generally B-class work, some lapses and areas for refinement
-89-87
-
-
-86-84
-
-83-80
-C class work 
-
-
-Passible but needs to improve
-Accomplishes enough course outcomes and objectives to be passible. Work produced is not recommended for dissemination unless qualified. Growth/mastery is basic, but encouraged to repeat the course. Shows hints of creativity and originality, but not consistent.
-C+
-
-
-C
-
-C-
-2.3
-
-
-2.0
-
-1.7
-Primarily C-class, better in some areas
-
-Consistent C-class work
-
-Generally C-class work, but this is based on generous interpretation. Elements that fall significantly short, marginally passable.
-79-77
-
-
-76-74
-
-73-70
-F class work
-
-
-Not passable
-Fails to accomplish course outcomes and objectives. Work should not be disseminated under any condition. Little to no growth/mastery of course material. Fails to show creativity or originality in approach to the subject.
-F
-0
-Generally unpassable work.
-69-0
+<table>
+ <tr>
+  <th>Grade class</th>
+  <th>Descriptors</th>
+  <th>Letter grades</th>
+  <th>GPA</th>
+  <th>Detail</th>
+  <th>%</th>
+ </tr>
+ <tr>
+  <td>A class work<br>
+   Excellent, superior work</td>
+  <td>Effectively and exceptionally accomplishes all course outcomes and objectives. Work produced is excellent quality, of publishable quality, and benefits the wider Christian community. Shows exceptional growth/mastery. Exceptionally creativity and originality in approach to the subject.</td>
+  <td>A+<br>
+   A<br>
+   A-</td>
+  <td>4.0<br>
+   4.0<br>
+   3.7</td>
+  <td>Special Commendation work<br>
+   Consistent A-class work<br>
+   Generally A-class work, some lapses and areas for refinement</td>
+  <td>100-98<br>97-94<br>93-90</td>
+ </tr>
+ <tr>
+  <td>B class work<br>Good solid work</td>
+  <td>Accomplishes all course outcomes and objectives. Work produced is good quality, and beneficial to peers and fellow students. Growth/mastery of course material is good. Shows creativity and originality in approach to the subject.</td>
+  <td>B+<br>B<br>B-</td>
+  <td>3.3<br>3.0<br>2.7</td>
+  <td>Primarily B-class, superior to some areas<br>Consistent B-class work<br>Generally B-class work, some lapses and areas for refinement</td>
+  <td>89-87<br>86-84<br>83-80</td>
+ </tr>
+ <tr>
+  <td>C class work<br>Passible but needs to improve</td>
+  <td>Accomplishes enough course outcomes and objectives to be passible. Work produced is not recommended for dissemination unless qualified. Growth/mastery is basic, but encouraged to repeat the course. Shows hints of creativity and originality, but not consistent.</td>
+  <td>C+<br>C<br>C-</td>
+  <td>2.3<br>2.0<br>1.7</td>
+  <td>Primarily C-class, better in some areas<br>Consistent C-class work<br>Generally C-class work, but this is based on generous interpretation. Elements that fall significantly short, marginally passable.</td>
+  <td>79-77<br>76-74<br>73-70</td>
+ </tr>
+ <tr>
+  <td>F class work<br>Not passable</td>
+  <td>Fails to accomplish course outcomes and objectives. Work should not be disseminated under any condition. Little to no growth/mastery of course material. Fails to show creativity or originality in approach to the subject.</td>
+  <td>F</td>
+  <td>0</td>
+  <td>Generally unpassable work.</td>
+  <td>69-0</td>
+ </tr>
+ </table>
 
 Grading Scale: Advanced Diploma and Doctor of Ministry
 (3 credit hours should be equal to 150 hours of work.)
