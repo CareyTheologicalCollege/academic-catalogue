@@ -1931,24 +1931,24 @@ There are several ways to meet the language requirements.
 
 Use Carey’s code number 5981 when indicating Carey as a score recipient. 
 
-Achieved an overall score of 6.5 on the IELTS test, with no less than 6.5 in all language competency requirements.
+6. Achieved an overall score of 6.5 on the IELTS test, with no less than 6.5 in all language competency requirements.
 
-Achieved an overall score of 110 on the Duolingo English Test.
+7. Achieved an overall score of 110 on the Duolingo English Test.
 
 Students can appeal the language requirement when they apply to Carey by providing a written record of their language experience in school, workplace, and life. The Admissions Committee may require a writing sample to assess an applicant’s language competency. The Admissions Committee will consider the student’s qualifications and the Committee’s decision will be final.
-Student Classification
-Regular Program Students
+## Student Classification
+### Regular Program Students
 These are students who have met all program admissions requirements and who have been admitted into an academic program with no conditions. Students need to register for at least one course per year in order to maintain active student status. 
-Full Time Student Designation
+### Full Time Student Designation
 For external purposes , full-time study is defined as 27 credit hours per academic year (September to August) or 9 credit hours per term for 3 terms in a school year.
-Inactive Students & Leave of Absence
+### Inactive Students & Leave of Absence
 Students who do not complete 6 credits of coursework within two sequential each academic years will be classified as inactive. In order to retain active student status within the degree program, students must apply for a leave of absence via the Office of the Registrar. A maximum of 2 extensions will be granted over the duration of the student’s program. (See the fee table under Financial Information for more details concerning the extension fee.) After a 3-year period of inactivity, the student will be removed from the program roster. If the student wishes to reactivate their status, a letter outlining the reasons for inactivity and desire to continue studies must be submitted and approved to the Office of the Registrar. 
 
-Unclassified and Visiting Students
+### Unclassified and Visiting Students
 Students from other ATS accredited colleges taking courses from Carey for transfer credit are classified as “visiting students” and do not need to make a formal application. Normally a Letter of Permission from the student’s school is used to grant access to Carey courses.
-UndeclaredOccasional Student Status
-Students who wish to take individual courses for personal interest, professional development, or to explore possible seminary study, but who are not currently pursuing full admission to a degree or diploma program may study at Carey under undeclaredoccasional student status. UndeclaredOccasional students are admitted through a simplified process. Normally they may take up to 9 credits before seeking admission to a formal program; this may be extended by permission from the Registrar. Program admission requires completion of the remaining parts of the program admission package. An undeclaredoccasional student may only take a maximum of 2 courses in a single semester. 
-Mature Student Status
+### Undeclared Student Status
+Students who wish to take individual courses for personal interest, professional development, or to explore possible seminary study, but who are not currently pursuing full admission to a degree or diploma program may study at Carey under undeclared student status. Undeclared students are admitted through a simplified process. Normally they may take up to 9 credits before seeking admission to a formal program; this may be extended by permission from the Registrar. Program admission requires completion of the remaining parts of the program admission package. An undeclared student may only take a maximum of 2 courses in a single semester. 
+### Mature Student Status
 Mature Student status is applicable to graduate programs (M.Div., MACM and graduate Diplomas). It may be granted to students who do not have a completed 4-year undergraduate degree, but who have sufficient relevant work and/or life experience to prepare them for study in the degree program. 
 
 A prospective student must be 30 years of age or older to be considered for admission under Mature Student status. He/she must provide a detailed summary of relevant training and experience which demonstrate readiness for theological study at the graduate level. This should include an account of learning opportunities experienced, of work and ministry history, with other relevant life experience. Please provide dates and length of time in various roles, specific information on courses and training taken, and on relevant achievements (eg: ordination, certification, publications, etc.). Because educational equivalence must involve reflection as well as simple experience, please also include information on reading and professional development practices, and identify ways in which your life and ministry experiences have been the subject of focused reflection, and especially of reflection in conversation with other peers and supervisors.
@@ -1959,34 +1959,34 @@ Note that normally a student admitted under Mature Student status retains that d
 
 Accreditation regulations require that Carey limit the number of Mature Students who are active in any master’s degree program at any one time. This has several practical implications:  
 
-Even though a prospective student has the appropriate qualifications to receive Mature Student status, Carey may not be able to grant admission to a degree program on this basis if Mature Student quotas have already been filled. Carey reserves the right to prioritize student applications for Mature Student status, based on strength of candidates’ application, perceived benefit of the program to the student, and perceived contribution of the student to the program.
+1. Even though a prospective student has the appropriate qualifications to receive Mature Student status, Carey may not be able to grant admission to a degree program on this basis if Mature Student quotas have already been filled. Carey reserves the right to prioritize student applications for Mature Student status, based on strength of candidates’ application, perceived benefit of the program to the student, and perceived contribution of the student to the program.
 
-Carey reviews and approves applications for Mature Student status prior to each term.
+2. Carey reviews and approves applications for Mature Student status prior to each term.
 
-Carey reserves the right to require Mature Students to enroll in a higher number of courses per year than what is normally needed to maintain current student status in a degree program. Mature Students are currently required to take a minimum of 2 courses per academic year, for credit, in order to maintain their current student status. Those who fail to maintain this level of enrolment may be deemed inactive in the degree program and registered in the corresponding Diploma; re-admission will be required in order to regain active status in the graduate degree.
-Continuing Education Credit Registration (CBWC)
+3. Carey reserves the right to require Mature Students to enroll in a higher number of courses per year than what is normally needed to maintain current student status in a degree program. Mature Students are currently required to take a minimum of 2 courses per academic year, for credit, in order to maintain their current student status. Those who fail to maintain this level of enrolment may be deemed inactive in the degree program and registered in the corresponding Diploma; re-admission will be required in order to regain active status in the graduate degree.
+### Continuing Education Credit Registration (CBWC)
 Carey courses may be audited by individuals who are not registered as for-credit students in order to fulfill the continuing education requirement for ministers credentialed by the Canadian Baptists of Western Canada. 
-International Students
+### International Students
 As an online institution, Carey does not meet the requirements under Canada Immigation Services that allow prospective students to acquire a student visa.
-Transfer Credits, Shared Credits, Advanced Standing and Exemptions
+## Transfer Credits, Shared Credits, Advanced Standing and Exemptions
 Students with previous theological training from a recognized institution may be eligible to receive some credit toward their program of study at Carey, through credit transfer, shared credit, or advanced standing. 
 
 Several general principles apply in each case: 
 
-Prior study which is to be applied toward Carey programs must have been taken for-credit at an accredited or comparable institution
+- Prior study which is to be applied toward Carey programs must have been taken for-credit at an accredited or comparable institution
 
-Credits to be applied must have been earned within the past 10 years
+- Credits to be applied must have been earned within the past 10 years
 
-Transfer, shared credit, and advanced standing credits are only applicable to Diploma, Master’s, Advanced Diploma and Doctoral degree programs. 
+- Transfer, shared credit, and advanced standing credits are only applicable to Diploma, Master’s, Advanced Diploma and Doctoral degree programs. 
 
-A maximum number of shared, transfer, or advanced standing credits may be applied to any Carey degree program, as outlined below
+- A maximum number of shared, transfer, or advanced standing credits may be applied to any Carey degree program, as outlined below
 
-To receive any Carey degree, a student must take a minimum of 1 year of study in courses earned at Carey; the College’s normal practice is to allow no more than ⅔ of the credits toward a degree to be met through a combination of externally shared, transfer, and advanced standing credits
+- To receive any Carey degree, a student must take a minimum of 1 year of study in courses earned at Carey; the College’s normal practice is to allow no more than ⅔ of the credits toward a degree to be met through a combination of externally shared, transfer, and advanced standing credits
 
-Externally shared, transfer, and advanced standing credits are applied to a student’s Carey program on a pass/fail basis and are not included in GPA calculation 
+- Externally shared, transfer, and advanced standing credits are applied to a student’s Carey program on a pass/fail basis and are not included in GPA calculation 
 
 Assessment of shared/transfer credit and advanced standing is normally done in conjunction with admission, though the two decisions are made independently. You will be asked to signal your desire for an assessment of shared/transfer credit and/or advanced standing as part of your admission process. The Admissions Committee reserves the right to decide on the total number of transfer, shared, and advanced standing credits granted to a student toward the requirements of a particular academic program.
-Transfer Credits
+### Transfer Credits
 Where a student has completed graduate-level coursework but not an academic program at another accredited seminary or academic institution prior to applying at Carey, and a particular graduate course taken in that setting can be shown to have relevance to his/her master’s program at Carey, the course may be applied as transfer credit.  Transfer of prior course credits must be processed at the time of admission. 
 
 Students who wish to apply courses from another institution toward a Carey program after admission to Carey must receive prior written approval. Requests for transfer credit should be made to the Office of the Registrar. After written approval is received and a Letter of Permission (LOP) is granted, the student must apply and register for such courses with the appropriate institution. On completion, an official transcript from the other institution must be sent to the Office of the Registrar. Transfer credit is awarded only if the grade achieved is at least of the average grade required to graduate from the Carey program (D.Min. minimum: B, masters programs minimum: B-).
@@ -1997,11 +1997,11 @@ Carey course offerings are published in advance so that students may plan their 
 Maximum combined shared/transferred credits from another accredited seminary or religious institution that can be applied to a Carey degree program: DMin: 9;  MDiv: 36;  MACM, MPM, MASF: 24; Diploma: 6.
 
 Maximum combined shared/transferred credits earned at Carey that can be applied to a Carey degree program: DMin: 18 MDiv: 48;  MACM, MPM, MASF: 30; Diploma: 15.  
-Shared Credit
+### Shared Credit
 Where a student has completed a graduate academic program at another accredited seminary or religious institution, and a particular course taken as part of that program can be shown to have specific relevance to one’s master’s program at Carey, shared credits may be awarded. Shared credits function similarly to transfer credits; however, because they are applied simultaneously to two different degrees, accreditation standards place stricter limits on the number of shared credits that can be applied. 
 
 A minimum grade of B- is required and the course must have been taken within the last 10 years. The number of shared credits granted will be dependent on the discretion of the Admissions Committee, in consultation with ATS guidelines and policies. Shared credits must be processed at the time of admission. 
-Advanced Standing with Credit
+### Advanced Standing with Credit
 Advanced Standing with Credit is the process by which a student’s prior learning through degree program coursework in an accredited undergraduate theological institution is recognized as providing limited equivalency to the requirements of a seminary degree program, allowing a corresponding reduction in graduate credits required for graduation. It is a way of acknowledging that some students enter seminary with an extensive background in theological study that overlaps to some degree with what is covered in the seminary program, in a manner that would not be true of the typical seminary student who lacks that background. (A parallel process is occasionally applied for students with Th.M. credits or two theological master’s degrees who seek Advanced Standing toward the D.Min.) 
 
 When assessing Advanced Standing with Credit, the Office of the Registrar will review a student’s undergraduate transcripts, identifying areas of correspondence with core classes required in the Carey program. Credit will be granted for the relevant Carey courses based on assessed equivalency. Advanced standing may not be awarded for required electives. No more than 33% of credits required for the Carey program may be covered through Advanced Standing. Normally Advanced Standing is granted only to students who have completed a theological undergraduate degree whose program focus is similar to that of the Carey degree, where there is a clear specialization (50-60+ credits) in the area where Advanced Standing is sought. Ministry experience cannot be used to substitute for academic credits.
@@ -2011,17 +2011,17 @@ Please note that credits granted through Advanced Standing assessment are equiva
 Students are not permitted to register in courses for which they have been granted Advanced Standing with Credit.
 
 Maximum Advanced Standing credits: DMin: 9; MDiv: 24;  MACM, MPM, MASF: 15; Diploma: 6
-Exemption
+### Exemption
 Exemption is when a student is not required to enrol in a required course based on extensive relevant experience. An exemption does not reduce the overall number of credits required for the program. The required credits must be replaced with an alternative course; typically from a course in the same discipline or upon approval by the Office of the Registrar.
 
 Students are not permitted to register in courses for which they have been granted Exemptions.
 
 Exemptions are treated the same as Advanced Standing with Credit in regards to the total number of combined Exemptions and Advanced Standing with which Credit must not exceed: DMin: 9; MDiv: 24;  MACM, MPM, MASF: 15; Diploma: 6.
 
-Course Registration
+# Course Registration
 Students are advised to register a minimum of one month prior to the beginning of the term. Some courses require reading or work to be posted or submitted on the first week online, so students are advised to check the course syllabi for all the course requirements. It should be noted that both the required and elective courses can be changed by Senate decision without public notice.
 
-Course registration is through Populi, Carey’s college management system.  Please consult the information sheet that came with your admissions package or contact the Office of the Registrar for instructions on how to register for courses.  To register for courses, login to Carey Populi at https://carey.populiweb.com/ and click on ‘My Profile,’ then 'Registration'. This list shows all upcoming courses required for your program. Select the course you would like to register and click ‘Enroll’, and proceed to make a payment on the ‘Financial’ tab. A $100 deposit is required on registration to hold your place. This deposit is non-refundable and will be applied to your tuition fee. The remaining balance is due on the first day of class. For more detailed instructions, please visit this support page. 
+To register for courses, login to Carey Populi at https://carey.populiweb.com/ and click on *‘My Profile,’* then *'Registration'*. This list shows all upcoming courses required for your program. Select the course you would like to register and click *‘Enroll’,* and proceed to make a payment on the *‘Financial’* tab. A $100 deposit is required on registration to hold your place. This deposit is non-refundable and will be applied to your tuition fee. The remaining balance is due on the first day of class. For more detailed instructions, please visit <u>this support page.</u> 
 
 Course registration for a particular term opens one week after the previous term begins and closes the first Friday of the first week after the beginning of the term at 5pm Pacific Standard Time.
 
