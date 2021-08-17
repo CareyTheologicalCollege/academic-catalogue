@@ -2039,35 +2039,77 @@ To register for courses, login to Carey Populi at https://carey.populiweb.com/ a
   <th>%</th>
  </tr>
  <tr>
-  <td>A class work<br>
+  <td rowspan="5">A class work<br>
    Excellent, superior work</td>
-  <td>Effectively and exceptionally accomplishes all course outcomes and objectives. Work produced is excellent quality, of publishable quality, and benefits the wider Christian community. Shows exceptional growth/mastery. Exceptionally creativity and originality in approach to the subject.</td>
-  <td>A+<br>
-   A<br>
-   A-</td>
-  <td>4.0<br>
-   4.0<br>
-   3.7</td>
-  <td>Special Commendation work<br>
-   Consistent A-class work<br>
-   Generally A-class work, some lapses and areas for refinement</td>
-  <td>100-98<br>97-94<br>93-90</td>
  </tr>
  <tr>
-  <td>B class work<br>Good solid work</td>
-  <td>Accomplishes all course outcomes and objectives. Work produced is good quality, and beneficial to peers and fellow students. Growth/mastery of course material is good. Shows creativity and originality in approach to the subject.</td>
-  <td>B+<br>B<br>B-</td>
-  <td>3.3<br>3.0<br>2.7</td>
-  <td>Primarily B-class, superior to some areas<br>Consistent B-class work<br>Generally B-class work, some lapses and areas for refinement</td>
-  <td>89-87<br>86-84<br>83-80</td>
+  <td rowspan="4">Effectively and exceptionally accomplishes all course outcomes and objectives. Work produced is excellent quality, of publishable quality, and benefits the wider Christian community. Shows exceptional growth/mastery. Exceptionally creativity and originality in approach to the subject.</td>
  </tr>
  <tr>
-  <td>C class work<br>Passible but needs to improve</td>
-  <td>Accomplishes enough course outcomes and objectives to be passible. Work produced is not recommended for dissemination unless qualified. Growth/mastery is basic, but encouraged to repeat the course. Shows hints of creativity and originality, but not consistent.</td>
-  <td>C+<br>C<br>C-</td>
-  <td>2.3<br>2.0<br>1.7</td>
-  <td>Primarily C-class, better in some areas<br>Consistent C-class work<br>Generally C-class work, but this is based on generous interpretation. Elements that fall significantly short, marginally passable.</td>
-  <td>79-77<br>76-74<br>73-70</td>
+  <td>A+</td>
+  <td>4.0</td>
+  <td>Special Commendation Work</td>
+  <td>100-98</td>
+ </tr>
+ <tr>
+  <td>A</td>
+  <td>4.0</td>
+  <td>Consistent A-class work</td>
+  <td>97-94</td>
+ </tr>
+ <tr>
+  <td>A-</td>
+  <td>3.7</td>
+  <td>Gnerally A-class work, some lapses and areas for refinement</td>
+  <td>93-90</td>
+ </tr>
+ <tr>
+  <td rowspan="5">B class work<br>Good solid work</td>
+ </tr>
+ <tr>
+  <td rowspan="4">Accomplishes all course outcomes and objectives. Work produced is good quality, and beneficial to peers and fellow students. Growth/mastery of course material is good. Shows creativity and originality in approach to the subject.</td>
+ </tr>
+ <tr>
+  <td>B+</td>
+  <td>3.3</td>
+  <td>Primarily B-class, superior to some areas</td>
+  <td>89-87</td>
+ </tr>
+ <tr>
+  <td>B</td>
+  <td>3.0</td>
+  <td>Consistent B-class work</td>
+  <td>86-84</td>
+ </tr>
+ <tr>
+  <td>B-</td>
+  <td>2.7</td>
+  <td>Generally B-class work, some lapses and areas for refinement</td>
+  <td>83-80</td.
+ </tr>
+ <tr>
+  <td rowspan="5">C class work<br>Passible but needs to improve</td>
+ </tr>
+ <tr>
+  <td rowspan="4">Accomplishes enough course outcomes and objectives to be passible. Work produced is not recommended for dissemination unless qualified. Growth/mastery is basic, but encouraged to repeat the course. Shows hints of creativity and originality, but not consistent.</td>
+ </tr>
+ <tr>
+ <td>C+</td>
+ <td>2.3</td>
+ <td>Primarily C-class work, better in some areas</td>
+ <td>79-77</td>
+ </tr>
+ <tr>
+  <td>C</td>
+  <td>2.0</td>
+  <td>Consistent C-class work</td>
+  <td>76-74</td>
+ </tr>
+ <tr>
+  <td>C-</td>
+  <td>1.7</td>
+  <td>Generally C-class work, but this is based on generous interpretation. Elements that fall significantly short, marginally passable.</td>
+  <td>73-70</td>
  </tr>
  <tr>
   <td>F class work<br>Not passable</td>
@@ -2079,135 +2121,137 @@ To register for courses, login to Carey Populi at https://carey.populiweb.com/ a
  </tr>
  </table>
 
-Grading Scale: Advanced Diploma and Doctor of Ministry
+## Grading Scale: Advanced Diploma and Doctor of Ministry
 (3 credit hours should be equal to 150 hours of work.)
 
-Grade class
-Descriptors
-Letter grades
-GPA
-Detail
-%
-A class work  
+<table>
+ <tr>
+  <th>Grade class</th>
+  <th>Descriptors</th>
+  <th>Letter grades</th>
+  <th>GPA</th>
+  <th>Detail</th>
+  <th>%</th>
+ </tr>
+ <tr>
+  <td rowspan="5">A class work<br>
+   Excellent, superior work</td>
+ </tr>
+ <tr>
+  <td rowspan="4">Effectively and exceptionally accomplishes all course outcomes and objectives. Work produced is excellent quality, of publishable quality, and benefits the wider Christian community. Shows exceptional growth/mastery. Exceptionally creativity and originality in approach to the subject.</td>
+ </tr>
+ <tr>
+  <td>A+</td>
+  <td>4.0</td>
+  <td>Special Commendation Work</td>
+  <td>100-98</td>
+ </tr>
+ <tr>
+  <td>A</td>
+  <td>4.0</td>
+  <td>Consistent A-class work</td>
+  <td>97-94</td>
+ </tr>
+ <tr>
+  <td>A-</td>
+  <td>3.7</td>
+  <td>Gnerally A-class work, some lapses and areas for refinement</td>
+  <td>93-90</td>
+ </tr>
+ <tr>
+  <td rowspan="5">B class work<br>Good solid work</td>
+ </tr>
+ <tr>
+  <td rowspan="4">Accomplishes all course outcomes and objectives. Work produced is good quality, and beneficial to peers and fellow students. Growth/mastery of course material is good. Shows creativity and originality in approach to the subject.</td>
+ </tr>
+ <tr>
+  <td>B+</td>
+  <td>3.3</td>
+  <td>Primarily B-class, superior to some areas</td>
+  <td>89-87</td>
+ </tr>
+ <tr>
+  <td>B</td>
+  <td>3.0</td>
+  <td>Consistent B-class work</td>
+  <td>86-84</td>
+ </tr>
+ <tr>
+  <td>B-</td>
+  <td>2.7</td>
+  <td>Generally B-class work, some lapses and areas for refinement</td>
+  <td>83-80</td.
+ </tr>
+ <tr>
+  <td rowspan="5">C class work<br>Unacceptable</td>
+ </tr>
+ <tr>
+  <td rowspan="4">Accomplishes enough course outcomes and objectives to be passible. Work produced is not recommended for dissemination unless qualified. Growth/mastery is basic, but encouraged to repeat the course. Shows hints of creativity and originality, but not consistent.</td>
+ </tr>
+ <tr>
+ <td>C+</td>
+ <td>2.3</td>
+ <td>Primarily C-class work, better in some areas</td>
+ <td>79-77</td>
+ </tr>
+ <tr>
+  <td>C</td>
+  <td>2.0</td>
+  <td>Consistent C-class work</td>
+  <td>76-74</td>
+ </tr>
+ <tr>
+  <td>C-</td>
+  <td>1.7</td>
+  <td>Generally C-class work, but this is based on generous interpretation. Elements that fall significantly short, marginally passable.</td>
+  <td>73-70</td>
+ </tr>
+ <tr>
+  <td>F class work<br>Not passable</td>
+  <td>Fails to accomplish course outcomes and objectives. Work should not be disseminated under any condition. Little to no growth/mastery of course material. Fails to show creativity or originality in approach to the subject.</td>
+  <td>F</td>
+  <td>0</td>
+  <td>Generally unpassable work.</td>
+  <td>69-0</td>
+ </tr>
+ </table>
 
-Excellent, superior work
-Effectively and exceptionally accomplishes all course outcomes and objectives. Work produced is excellent, of publishable quality, and beneficial to all. Shows exceptional growth/mastery. Exceptionally creativity and originality in approach to the subject.
-A+
-
-
-A
-4.0
-
-
-4.0
-Special Commendation work
-
-Consistent A-class work
-100-98
-
-
-97-94
-Great, laudable work
-Effectively accomplishes all course outcomes and objectives. Work produced is good, and made beneficial for all. Shows quality growth/mastery of course materials. Excellent creativity and originality in approach to the subject.
-A-
-3.7
-Generally A-class work, some lapses and areas for refinement
-93-90
-B class work 
-
-
-Solid competent work
-Accomplishes all course outcomes and objectives at the “meets expectations” level. Work produced is good quality, and beneficial to peers and fellow students. Growth/mastery of course material is good. Shows creativity and originality in approach to subject.
-B+
-3.3
-Competent B-class work
-89-87
-Adequate work
-Accomplishes course outcomes and objectives at basic level. Work produced is adequate to pass. Growth/mastery of course material is reasonable. Minimal creativity or originality in approach to the subject.
-B
-3
-Adequate B-class work
-86-84
-Minimal work
-Accomplishes minimal requirements of course outcomes and objectives. Work produced is just acceptable. Growth/mastery is minimally acceptable. Creativity and originality are barely present.
-B-
-2.7
-Minimal B-class work
-83-80
-C class work 
-
-
-Unaccept-able
-Fails to accomplish enough outcomes and objectives to be passible. Work should not be disseminated. Little growth/mastery of course material. Creativity or originality seemingly absent.
-C+
-
-
-C
-
-C-
-2.3
-
-
-2.0
-
-1.7
-Primarily C-class, better in some areas
-
-Consistent C-class work
-
-Generally C-class work, but this is based on generous interpretation. Elements that fall significantly short.
-79-77
-
-
-76-74
-
-73-70
-F class work
-
-
-Not passable
-Fails to accomplish course outcomes and objectives. Work should not be disseminated under any condition. Little to no growth/mastery of course material. Fails to show creativity or originality in approach to the subject.
-F
-0
-Generally unpassable work.
-69-0
-
-Grade Changes
+## Grade Changes
 It is the student’s responsibility to appeal any error in grades and to bring it to the instructor’s attention within two months following the issued grade. Grade changes are allowable for computational recording errors and must be corrected no later than the last day of classes of the next full term.
-Extensions
+## Extensions
 Extensions for course work will only be granted in exceptional circumstances. If a student requests an extension that will prevent the professor from submitting the final grade within 30 days following the final assignment, the student must file a formal petition with the Registrar for the extension. On approval, the Registrar will establish extension deadlines which are final. The student may receive a grade reduction of up to one-third of the final mark for work submitted under these extension guidelines.
-Academic Probation
+## Academic Probation
 In each program of study, Carey Theological College sets standards for the competencies students are expected to achieve. Satisfactory academic performance (D.Min.: B, M.Div.: B-; MACM: B-) is a necessary prerequisite for a student to continue their program of studies. Should a student achieve final grades below the minimum standard in three courses, or fail to complete those courses within the specified timelines, or should the student’s GPA fall below graduation requirements, the student will be placed on academic probation. In such cases, the student will be placed under the supervision of the Office of the Registrar, which may recommend one of several alternatives including remedial work upon approval of the professor(s) of the course(s) that caused the drop in GPA, retaking courses or taking additional courses with or without an extension of time to complete the program to raise the GPA to an acceptable level, or withdrawal from studies. Students are expected to rectify their academic probation status within one year.
-Repeated Courses
+## Repeated Courses
 A student will be permitted to repeat a course in which he/she has received an ‘F’ grade. The better grade will appear on the student’s transcript and GPA, and an ‘R’ will replace the ‘F’. Any one course may be repeated up to two times. Regular tuition fees will be charged for repeated courses.
 
-Academic Integrity
+# Academic Integrity
 A high standard of academic integrity is expected of all Carey Theological College students; any infraction will be treated seriously and may be grounds for dismissal. Academic integrity involves honest and responsible scholarship. Students are expected to submit original work and give credit to other peoples' ideas. Academic dishonesty is acting in a manner to gain unearned academic credit. Examples of academic dishonesty are: 
 
-Plagiarising by misrepresenting the work of another person (in whole or in part) as a student’s own work or failing to give credit for either wording or ideas that belong to another. (See next section.)
+- Plagiarising by misrepresenting the work of another person (in whole or in part) as a student’s own work or failing to give credit for either wording or ideas that belong to another. (See next section.)
 
-Submitting the same material for credit in more than one course (whether the earlier submission was at Carey or another institution).
+- Submitting the same material for credit in more than one course (whether the earlier submission was at Carey or another institution).
 
-Using unauthorized aids of any sort in examinations, completing work in unauthorized collaboration with others, or the unauthorized recording and use of class lectures are all examples of breaches in academic integrity.
+- Using unauthorized aids of any sort in examinations, completing work in unauthorized collaboration with others, or the unauthorized recording and use of class lectures are all examples of breaches in academic integrity.
 
 Penalty for a lack of academic integrity may include a failing grade in the assignment, examination or course, depending on the severity of the offense. All students are responsible for knowing and practicing academic integrity. 
-Plagiarism
+## Plagiarism
 A more detailed statement of policy and procedures relating to plagiarism is available from the Office of the Registrar. The most pertinent elements have been replicated here. For more information on academic integrity and plagiarism in the wider UBC context, see also http://learningcommons.ubc.ca/resource-guides/avoid-plagiarism/.
 
 Essentially, plagiarism involves giving the impression that the words or ideas used in one’s papers or other submitted materials are one’s own, when in fact they are taken from another source.
 
 Plagiarism takes a variety of forms, and it comes in different degrees of severity which warrant different types of response from the school.
 
-Minor plagiarism occurs when a limited number of words or ideas in a student’s piece of writing directly reflect sources without acknowledging them, while the substance of the piece is the student’s own work. In cases of minor plagiarism, the professor is free to address the issue at his/her own discretion. Usually this involves counseling the student on integrity in research and requiring a resubmission of the paper in acceptable form before a grade is given for the assignment.
+1. Minor plagiarism occurs when a limited number of words or ideas in a student’s piece of writing directly reflect sources without acknowledging them, while the substance of the piece is the student’s own work. In cases of minor plagiarism, the professor is free to address the issue at his/her own discretion. Usually this involves counseling the student on integrity in research and requiring a resubmission of the paper in acceptable form before a grade is given for the assignment.
 
-Substantial plagiarism occurs when larger blocks of material are reproduced directly or with superficial changes in wording but without acknowledgement: sentences, paragraphs, and larger sections of the document. It also applies to the unacknowledged use of distinctive ideas which are critical to the development of the student’s piece, where those ideas are expressed and arranged reflecting sources that are not recognized. The minimum penalty for substantial plagiarism is the resubmission of the assignment and one full letter grade reduction being given to the offending work. The maximum penalty is an automatic failure of the course. Repeated offences will result in expulsion from the seminary.
+2. Substantial plagiarism occurs when larger blocks of material are reproduced directly or with superficial changes in wording but without acknowledgement: sentences, paragraphs, and larger sections of the document. It also applies to the unacknowledged use of distinctive ideas which are critical to the development of the student’s piece, where those ideas are expressed and arranged reflecting sources that are not recognized. The minimum penalty for substantial plagiarism is the resubmission of the assignment and one full letter grade reduction being given to the offending work. The maximum penalty is an automatic failure of the course. Repeated offences will result in expulsion from the seminary.
 
-Severe plagiarism involves presentation of an entire essay or project as the student’s own work when in fact it was produced by another. Severe plagiarism automatically results in a failing grade for the course. A written reprimand will be given, with a copy kept in the student’s file. A repeated offense will result in expulsion from the seminary. 
+3. Severe plagiarism involves presentation of an entire essay or project as the student’s own work when in fact it was produced by another. Severe plagiarism automatically results in a failing grade for the course. A written reprimand will be given, with a copy kept in the student’s file. A repeated offense will result in expulsion from the seminary. 
 
 Where faculty identify clear cases of substantial or severe plagiarism, they will keep written documentation of the offending materials and provide a copy of relevant information to the Office of the Registrar. Records of institutional action and follow-up will also be maintained in the student’s file.
-Research Ethics
+## Research Ethics
 All research involving data-gathering from human subjects (through surveys, interviews, etc.) for Carey courses and programs must conform to the current Carey policy on research ethics, which is available from the Registrar’s Office and will be distributed at new student orientation. This is particularly important for the DMin program, but has implications for other students whose research interests may potentially intersect with current Canadian privacy legislation and related academic policies at Carey, UBC, and in the Canadian higher education community.
-Academic Appeals
+## Academic Appeals
 Students are assured the right to appeal any judgment relative to their academic program, whether it is permission to enter a degree program, a ruling regarding academic procedure or a grade given in any academic work. Appeals should be made to the person or committee responsible for the decision under dispute (e.g. grades to Faculty, admissions to the Admissions Office). Any such appeal must be initiated no later than two months following notification of a ruling or a grade being issued. A written statement of the ruling will be issued to the student.
 
 Where the student is not satisfied that the appeal is fairly heard or considered, a further appeal may be made in writing to the Office of the Registrar. The Registrar’s Office will hear and discuss the circumstances attending the complaint and counsel the student regarding the issue. A written statement of the ruling will be issued to the student.
@@ -2216,68 +2260,68 @@ In the event that the appeal is related to the Office of the Registrar or the Ad
 
 If the student is still not satisfied, the ruling may be appealed in a written summation to the Student Appeals Committee of the Senate of Carey Theological College. The decision registered by the Senate of Carey Theological College is final.
 
-Student Life
-General 
+# Student Life
+## General 
 To make Carey’s educational programs as accessible as possible, Carey structures its course delivery with an effective and innovative online learning environment.
 
 This changes the nature of “campus life,” but it does not eliminate the need to provide effective student services, nor does it undermine the importance of building a strong sense of student community. Carey seeks to address these needs in a variety of ways: in the course design, use of communication and community-building technology, formation of learner cohorts, etc.  Of special importance, the College maintains a dedicated and competent team of Academic staff whose role is to support students through their entire educational experience, from inquiry and admission through to graduation.
 
 The team is happy to provide information and to address questions and concerns that may arise. Please do not hesitate to connect by email at registrar@carey-edu.ca.
-Guidelines for online discussions (netiquette)
+## Guidelines for online discussions (netiquette)
 To maximize the benefit of online discussions which are part of most Carey courses, we encourage all students to follow these principles:
 
-Participate – For the maximum benefit to all, every participant needs to contribute to the discussion.  Be on time. Respond to at least one classmate for any discussion forum or blog or as many times as required by the instructor. 
+1. Participate – For the maximum benefit to all, every participant needs to contribute to the discussion.  Be on time. Respond to at least one classmate for any discussion forum or blog or as many times as required by the instructor. 
 
-Check previous postings – Read the previous discussion thread before answering to avoid repeating comments and/or posting in the wrong heading or thread. Try to respond to anyone who replies to your initial posting in a way that moves the discussion forward. 
+2. Check previous postings – Read the previous discussion thread before answering to avoid repeating comments and/or posting in the wrong heading or thread. Try to respond to anyone who replies to your initial posting in a way that moves the discussion forward. 
 
-Read Assignment Instructions before Posting –There are different types of online assignments: discussion forum, blog, wiki, group project, media presentation, survey, etc. Please read the assignment guidelines carefully before posting. If the posting involves group effort, you may consider using Chat or Collaborate within Connect to facilitate group discussions.
+3. Read Assignment Instructions before Posting –There are different types of online assignments: discussion forum, blog, wiki, group project, media presentation, survey, etc. Please read the assignment guidelines carefully before posting. If the posting involves group effort, you may consider using Chat or Collaborate within Connect to facilitate group discussions.
 
-Be Concise and Brief – Be careful to avoid wordiness.  Respect the time of the other readers and aim to make one’s entries clear and concise. 
+4. Be Concise and Brief – Be careful to avoid wordiness.  Respect the time of the other readers and aim to make one’s entries clear and concise. 
 
-Cite all References – Just as you would if you were writing an academic paper, give proper credit to the sources you used in your conversations or posts.
+5. Cite all References – Just as you would if you were writing an academic paper, give proper credit to the sources you used in your conversations or posts.
 
-Utilize a Proper Writing Style – Proper spelling, grammatical construction and sentence structure should be utilized in all postings. Please refrain from using emoticons or slang.
+6. Utilize a Proper Writing Style – Proper spelling, grammatical construction and sentence structure should be utilized in all postings. Please refrain from using emoticons or slang.
 
-Be Courteous – Be ready to disagree but do not demean, harass or embarrass others.  Respect the diversity of the people in your cohorts and understand that racist and sexist comments or jokes are unacceptable.
+7. Be Courteous – Be ready to disagree but do not demean, harass or embarrass others.  Respect the diversity of the people in your cohorts and understand that racist and sexist comments or jokes are unacceptable.
 
-Encourage Others – Help each other to develop and share ideas. Some students are more experienced with on-line settings than others.  Offer your support to those who are less familiar.
+8. Encourage Others – Help each other to develop and share ideas. Some students are more experienced with on-line settings than others.  Offer your support to those who are less familiar.
 
-Use Appropriate Tones – Remember the style of writing in an academic environment, and refrain from showing extreme emotions.  No yelling, throwing tantrums or rants.  Humor can also be difficult to convey in text, especially if there are students whose first language is not English, so make sure everyone realizes intended humour.
+9. Use Appropriate Tones – Remember the style of writing in an academic environment, and refrain from showing extreme emotions.  No yelling, throwing tantrums or rants.  Humor can also be difficult to convey in text, especially if there are students whose first language is not English, so make sure everyone realizes intended humour.
 
-Respect Others – An online classroom will include participants from a wide range of backgrounds (culture, age, socio-economic, etc.). It is important to respect fellow classmates’ opinions and not impose your own perception or bias on others. At Carey, there also are core courses shared by students enrolled in different degree programs. It is important to learn to listen and appreciate each other’s unique contribution to the learning experience.
-Accountability and Disciplinary Procedures
+10. Respect Others – An online classroom will include participants from a wide range of backgrounds (culture, age, socio-economic, etc.). It is important to respect fellow classmates’ opinions and not impose your own perception or bias on others. At Carey, there also are core courses shared by students enrolled in different degree programs. It is important to learn to listen and appreciate each other’s unique contribution to the learning experience.
+## Accountability and Disciplinary Procedures
 In choosing to participate in the Carey community, students indicate their willingness to live and work in an environment of mutual accountability. All members of our community become co-owners of Carey’s mission and institutional culture, and we all have the responsibility not only to promote these individually but also to help one another to support the community as we seek to grow and thrive together. 
 
 This mutual accountability implies a need for all members of the Carey community to be willing to encourage and sometimes also to confront one another where an individual visibly fails to abide by the reasonable expectations for living in Christian community, and/or by the policies and guidelines expressed in the Student Handbook, Academic Catalog, or Staff Manual. It also implies a need for receptivity in which we listen and take seriously the exhortations of other members of the community. In all cases, the goal of such exchanges should be the well-being and personal and spiritual growth of the individuals involved, restoration of healthy relationships in the community, and ongoing cultivation of a robust community life which promotes the mission and values of Carey.
 
 The procedures for addressing issues of accountability and discipline are related and similar to those for dealing with concerns and grievances, outlined above.
 
-In minor incidents where community standards are not fully respected, but where the issue is insubstantial and/or the circumstance is isolated, we trust the members of our community to exercise wisdom and maturity to hold one another accountable and to encourage the appropriate changes in behavior and interaction. It is not necessary to initiate formal action or make any report to the administration; indeed, it is understood to be inappropriate to spread unhelpful information beyond the circle of individuals who are directly affected.
+1. In minor incidents where community standards are not fully respected, but where the issue is insubstantial and/or the circumstance is isolated, we trust the members of our community to exercise wisdom and maturity to hold one another accountable and to encourage the appropriate changes in behavior and interaction. It is not necessary to initiate formal action or make any report to the administration; indeed, it is understood to be inappropriate to spread unhelpful information beyond the circle of individuals who are directly affected.
 
-Where minor incidents have broader implications for the community, or where they appear to reflect an ongoing pattern, or where there is an unwillingness to address the issue and/or a need for assistance in dealing with it, it may be appropriate or necessary to involve the relevant Carey staff departments. Staff engagement may be initiated as a result of a complaint against a student brought to the relevant office, or as a result of concerns arising among the members of the staff team. 
+2. Where minor incidents have broader implications for the community, or where they appear to reflect an ongoing pattern, or where there is an unwillingness to address the issue and/or a need for assistance in dealing with it, it may be appropriate or necessary to involve the relevant Carey staff departments. Staff engagement may be initiated as a result of a complaint against a student brought to the relevant office, or as a result of concerns arising among the members of the staff team. 
 
-In such cases, the appropriate staff member will approach the student privately to raise the issue, discussing it in order to gain the student’s perspective and to share that of the wider community. In most cases this will be accompanied by advice, or even by a strong recommendation or directive as to the changes needed for the student to be realigned with the expectations of community life. No formal documentation of the situation will be placed on file, though follow-up procedures may be established if the staff member believes they are needed.
+    In such cases, the appropriate staff member will approach the student privately to raise the issue, discussing it in order to gain the student’s perspective and to share that of the wider community. In most cases this will be accompanied by advice, or even by a strong recommendation or directive as to the changes needed for the student to be realigned with the expectations of community life. No formal documentation of the situation will be placed on file, though follow-up procedures may be established if the staff member believes they are needed.
 
-If the student and staff member are unable to reach agreement on the issue and the appropriate action to be taken, either or both may make an appeal to the appropriate Carey administrator who supervises the staff member currently involved. Normally, such an appeal will begin as a continuation of the informal accountability process. Should it become necessary, formal accountability procedures may be invoked.
+    If the student and staff member are unable to reach agreement on the issue and the appropriate action to be taken, either or both may make an appeal to the appropriate Carey administrator who supervises the staff member currently involved. Normally, such an appeal will begin as a continuation of the informal accountability process. Should it become necessary, formal accountability procedures may be invoked.
 
-For significant breaches of policy or community expectations, or in cases of less serious incidents which reflect ongoing patterns or deeper concerns and which cannot be addressed informally, a formal accountability process will be implemented. The formal process is launched when the incident is reported to the appropriate area supervisor, either by a member of the community who has first-hand or reliable knowledge of the incident, or by a staff member who has been part of an informal process or who is aware of the incident and its circumstances. Such reports may be presented orally or in writing; however, the complaint must be documented in written form before formal action is undertaken. In a formal process, the concern raised, together with communication and follow-up action related to it are documented in an appropriate confidential file maintained by the relevant supervisor. The “Concerns and Grievances” form may be used for this purpose.
+3. For significant breaches of policy or community expectations, or in cases of less serious incidents which reflect ongoing patterns or deeper concerns and which cannot be addressed informally, a formal accountability process will be implemented. The formal process is launched when the incident is reported to the appropriate area supervisor, either by a member of the community who has first-hand or reliable knowledge of the incident, or by a staff member who has been part of an informal process or who is aware of the incident and its circumstances. Such reports may be presented orally or in writing; however, the complaint must be documented in written form before formal action is undertaken. In a formal process, the concern raised, together with communication and follow-up action related to it are documented in an appropriate confidential file maintained by the relevant supervisor. The “Concerns and Grievances” form may be used for this purpose.
 
 Formal disciplinary action is managed by the Vice President, Operations. The exact process is subject to the Vice President’s discretion and will be suited to the issue. It will involve discussion with the student whose behavior is under review, and may also include interaction with other members of the community who have been affected or who are familiar with the facts of the situation. On completion of the review, the Vice President, Operations will either determine a follow-up action, or he/she will refer the situation to an ad hoc Accountability Committee appointed by the President and Chair of the Senate and composed of members of the Carey administration and/or Senate. 
 
 Decisions rendered by the supervisor or Accountability Committee are binding, and will be included in the confidential file on the situation. Possible actions include:
 
-Miscellaneous consequences – including actions such as an apology, community service, fine, loss of service, payment for damages, etc.
+- Miscellaneous consequences – including actions such as an apology, community service, fine, loss of service, payment for damages, etc.
 
-Official warning
+- Official warning
 
-Probation
+- Probation
 
-Suspension
+- Suspension
 
-Expulsion
+- Expulsion
 
 A student may appeal a decision made by the Vice President, Operations, in which case the appeal will go to an Accountability Committee appointed by the President and Chair of the Senate.  Where an appeal is heard, the decision of the second review is final.
-Institutional Integrity
+# Institutional Integrity
 Carey Theological College is committed to facilitating the learning of all students capable of doing the study and course work to the programs for which they have been accepted. Any student who has exceptionalities that may impact the full demonstration of his/her abilities should contact the Office of the Registrar to discuss evaluation and documentation of learning needs. The Carey faculty will make every effort, where it is possible and within the means of the Institution, to incorporate alternative learning strategies that have worked for the student in the past, including mutually accountable accommodations to ensure the student’s full participation in the course.
 
 Carey’s responsibilities toward students with exceptionalities: 
