@@ -124,15 +124,15 @@ Carey Theological College is committed to credible academic scholarship and stri
 
 ATS Commission contact information is:
 
-> Commission on Accrediting of the  
-Association of Theological Schools  
-in the United States and Canada
+    Commission on Accrediting of the  
+    Association of Theological Schools  
+    in the United States and Canada
 
-> 10 Summit Park Drive  
-Pittsburgh, PA 15275 USA
+    10 Summit Park Drive  
+    Pittsburgh, PA 15275 USA
 
-> Telephone: 412-788-6505  
-Fax: 412-788-6510 www.ats.edu
+    Telephone: 412-788-6505  
+    Fax: 412-788-6510 www.ats.edu
 
 Carey is affiliated with the University of British Columbia (www.ubc.ca) and has access to many of UBC’s facilities. Affiliation with UBC means that certain criteria must be met by Carey Theological College, but it does not mandate any scrutiny or approval of course offerings by the UBC Senate. Carey’s programs are subject to continuous approval of the Carey Senate.
 ### What We Believe
