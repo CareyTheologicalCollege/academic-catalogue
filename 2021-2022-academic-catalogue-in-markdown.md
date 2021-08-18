@@ -6,88 +6,88 @@ Version: 2
 Date: May 13, 2021
 
 Table of Contents
-1. Who We Are
-2. Our Vision
-3. Our Mission
-4. A Ministry of The Canadian Baptists Of Western Canada
-5. History
-6. Accreditation & Affiliation
-7. What We Believe
-8. Faculty
-9. Carey Theological College Academic Programs
-10. Academic Programs
-11. Learning Outcomes
-12. Program Requirements
-13. Program Requirements Chart
-14. Doctor of Ministry and Advanced Diploma Program Specific Requirements
-15. Master’s Program Specific Requirements
-16. Affirmation of Ministry Review for MDiv Program
-17. Diploma Program Specific Requirements
-18. Accelerated Bachelor’s and Master’s Program Specific Requirements
-19. Occasional Student Program Specific Requirements
-20. Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Ministry
-21. Course Descriptions
-22. Graduation Requirements
-23. Additional Graduation Requirements for Doctor of Ministry
-24. Additional Graduation Requirements for Master’s Programs
-25. Financial Information
-26. Tuition and Fees
-27. Payment, Late Payment, and Outstanding Accounts
-28. Changes of Registration, Withdrawal and Refunds
-29. Tax Receipts
-30. Student Financial Aid
-31. Student Assistance, Scholarships
-32. Student Awards
-33. Applying for Student Assistance
-34. Admissions
-35. Program Admission Requirements
-36. Accelerated Bachelor’s and Master’s Program Admission Requirements
-37. General Admission Requirements and Process
-38. Key Admission Dates
-39. Language Requirements for Admissions
-40. Student Classification
-41. Regular Program Students
-42. Full Time Student Designation
-43. Inactive Students & Leave of Absence
-44. Unclassified and Visiting Students
-45. Occasional Student Status
-46. Mature Student Status
-47. Continuing Education Credit Registration (CBWC)
-48. International Students
-49. Transfer Credits, Shared Credits, Advanced Standing and Exemptions
-50. Transfer Credits
-51. Shared Credit
-52. Advanced Standing with Credit
-53. Exemption
-54. Course Registration
-55. Assessment and Grading
-56. Grading Scale: Diplomas, Masters Programs
-57. Grading Scale: Doctor of Ministry
-58. Grade Changes
-59. Extensions
-60. Academic Probation
-61. Repeated Courses
-62. Academic Integrity
-63. Plagiarism
-64. Research Ethics
-65. Academic Appeals
-66. Student Life
-67. General
-68. Guidelines for online discussions (netiquette)
-69. Accountability and Disciplinary Procedures
-70. Institutional Integrity
-71. Gender Language
-72. Non-Academic Grievance Matters
-73. Discrimination and Harassment Policy
-74. Privacy Policy
-75. Student Resources
-76. ID Cards
-77. Student Data Systems Access (Populi)
-78. UBC Learning Management System Access (Canvas)
-79. Traditional Library Services
-80. Online Library Resources
-81. Textbooks
-82. Academic Advising
+1. [Who We Are](#who-we-are)
+    2. [Our Vision](#our-vision)
+    3. [Our Mission](#our-mission)
+    4. [A Ministry of The Canadian Baptists Of Western Canada](#a-ministry-of-the-canadian-baptists-of-western-canada)
+    5. [History](#history)
+    6. [Accreditation & Affiliation](#accreditation--affiliation)
+    7. [What We Believe](#what-we-believe)
+    8. [Faculty](#faculty)
+9. [Carey Theological College Academic Programs](#carey-theological-college-academic-programs)
+    10. [Academic Programs](#academic-programs)
+    11. [Learning Outcomes](#learning-outcomes)
+    12. [Program Requirements](#program-requirements)
+        13. [Program Requirements Chart](#program-requirements-chart)
+        14. [Doctor of Ministry and Advanced Diploma Program Specific Requirements](#doctor-of-ministry-and-advanced-diploma-program-specific-requirements)
+        15. [Master’s Program Specific Requirements](#masters-program-specific-requirements)
+            16. [Affirmation of Ministry Review for MDiv Program](#affirmation-of-ministry-review-for-mdiv-program)
+        17. [Diploma Program Specific Requirements](#diploma-program-specific-requirements)
+        18. [Accelerated Bachelor’s and Master’s Program Specific Requirements](#accelerated-bachelors-and-masters-program-specific-requirements)
+        19. [Occasional Student Program Specific Requirements](#occasional-student-program-specific-requirements)
+        20. [Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Ministry](#students-from-canadian-baptists-of-western-canada-cbwc-churches-anticipating-professional-ministry)
+    21. [Course Descriptions](#course-descriptions)
+22. [Graduation Requirements](#graduation-requirements)
+    23. [Additional Graduation Requirements for Doctor of Ministry](#additional-graduation-requirements-for-doctor-of-ministry)
+    24. [Additional Graduation Requirements for Master’s Programs](#additional-graduation-requirements-for-masters-programs)
+25. [Financial Information](#financial-information)
+    26. [Tuition and Fees](#tuition-and-fees)
+    27. [Payment, Late Payment, and Outstanding Accounts](#payment-late-payment-and-outstanding-accounts)
+    28. [Changes of Registration, Withdrawal and Refunds](#changes-of-registration-withdrawal-and-refunds)
+        29. [Tax Receipts](#tax-receipts)
+30. [Student Financial Aid](#student-financial-aid)
+    31. [Student Assistance, Scholarships](#student-assistance-scholarships)
+    32. [Student Awards](#student-awards)
+    33. [Applying for Student Assistance](#applying-for-student-assistance)
+34. [Admissions](#admissions)
+    35. [Program Admission Requirements](#program-admission-requirements)
+        36. [Accelerated Bachelor’s and Master’s Program Admission Requirements](#accelerated-bachelors-and-masters-program-admission-requirements)
+    37. [General Admission Requirements and Process](#general-admission-requirements-and-process)
+    38. [Key Admission Dates](#key-admission-dates)
+    39. [Language Requirements for Admissions](#language-requirements-for-admissions)
+    40. [Student Classification](#student-classification)
+        41. [Regular Program Students](#reqular-program-students)
+        42. [Full Time Student Designation](#full-time-student-designation)
+        43. [Inactive Students & Leave of Absence](#inactive-students--leave-of-absence)
+        44. [Unclassified and Visiting Students](#unclassified-and-visiting-students)
+        45. [Occasional Student Status](#occasional-student-status)
+        46. [Mature Student Status](#mature-student-status)
+        47. [Continuing Education Credit Registration (CBWC)](#continuing-education-credit-registration-cbwc)
+        48. [International Students](#international-students)
+    49. [Transfer Credits, Shared Credits, Advanced Standing and Exemptions](#transfer-credits-shared-credits-advanced-standing-and-exemptions)
+        50. [Transfer Credits](#transfer-credits)
+        51. [Shared Credit](#shared-credit)
+        52. [Advanced Standing with Credit](#advanced-standing-with-credit)
+        53. [Exemption](#exemption)
+54. [Course Registration](#course-registration)
+55. [Assessment and Grading](#assessment-and-grading)
+    56. [Grading Scale: Diplomas, Masters Programs](#grading-scale-diploma-masters-programs)
+    57. [Grading Scale: Doctor of Ministry](#grading-scale-doctor-of-ministry)
+    58. [Grade Changes](#grade-changes)
+    59. [Extensions](#extensions)
+    60. [Academic Probation](#academic-probation)
+    61. [Repeated Courses](#repeated-courses)
+62. [Academic Integrity](#academic-integrity)
+    63. [Plagiarism](#plagiarism)
+    64. [Research Ethics](#research-ethics)
+    65. [Academic Appeals](#academic-appeals)
+66. [Student Life](#student-life)
+    67. [General](#general)
+    68. [Guidelines for online discussions (netiquette)](#guidelines-for-online-discussions-netiquette)
+    69. [Accountability and Disciplinary Procedures](#accountability-and-disciplinary-procedures)
+70. [Institutional Integrity](#institutional-integrity)
+    71. [Gender Language](#gender-language)
+    72. [Non-Academic Grievance Matters](#non-academic-grievance-matters)
+    73. [Discrimination and Harassment Policy](#discrimination-and-harassment-policy)
+    74. [Privacy Policy](#privacy-policy)
+75. [Student Resources](#student-resources)
+    76. [ID Cards](#id-cards)
+    77. [Student Data Systems Access (Populi)](#student-data-systems-access-populi)
+    78. [UBC Learning Management System Access (Canvas)](#ubc-learning-management-system-access-canvas)
+    79. [Traditional Library Services](#traditional-library-services)
+    80. [Online Library Resources](#online-library-resources)
+    81. [Textbooks](#textbooks)
+    82. [Academic Advising](#academic-advising)
 
 
 
