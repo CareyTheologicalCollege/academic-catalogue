@@ -7,7 +7,7 @@ Date: May 13, 2021
 
 Table of Contents
 1. [Who We Are](#who-we-are)
-2. Our Vision
+2. [Our Vision](#our-vision)
 3. Our Mission
 4. A Ministry of The Canadian Baptists Of Western Canada
 5. History
