@@ -91,7 +91,7 @@ Table of Contents
 
 
 
-## Who We Are
+## <a name="who-we-are"></a>Who We Are
 ### Our Vision
 Our vision is to empower faithful Christian leaders for every generation, culture, and community.
 ### Our Mission
