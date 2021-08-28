@@ -42,6 +42,7 @@ Table of Contents
 34. [Admissions](#admissions)
     35. [Program Admission Requirements](#program-admission-requirements)
         36. [Accelerated Bachelor’s and Master’s Program Admission Requirements](#accelerated-bachelors-and-masters-program-admission-requirements)
+        37. [Doctor of Ministry and Advanced Diploma Program Admission Requirements](#doctor-of-ministry-and-advanced-diploma-program-admission-requirements)
     37. [General Admission Requirements and Process](#general-admission-requirements-and-process)
     38. [Key Admission Dates](#key-admission-dates)
     39. [Language Requirements for Admissions](#language-requirements-for-admissions)
@@ -92,23 +93,23 @@ Table of Contents
 
 
 ## <a name="who-we-are"></a>Who We Are
-### Our Vision
+### <a name="our-vision"></a>Our Vision
 Our vision is to empower faithful Christian leaders for every generation, culture, and community.
-### Our Mission
+### <a name="our-mission"></a>Our Mission
 Our mission is to re-imagine Christian discipleship by
 - Delivering contextualized theological education
 - Building faith, character, and competency in students
 - Resourcing churches and agencies to advance their mission
 - Developing sustainable partnerships for our shared vision
-### A Ministry of The Canadian Baptists Of Western Canada
+### <a name="a-ministry-of-the-canadian-baptists-of-western-canada"></a>A Ministry of The Canadian Baptists Of Western Canada
 Carey Theological College is a valued resource of the Canadian Baptists of Western Canada (https://cbwc.ca/). The influence of the College extends far beyond its denominational home, as it prepares persons for the role of professional ministry, and equips laypersons for effective leadership and service.
-### History
+### <a name="history"></a>History
 Carey Hall was established in 1959 by the Province of British Columbia under the Carey Hall Act. The Convention of Baptist Churches of BC is the organizing body of Carey Hall.  Carey began operations in the summer of 1960 as a Christian witness and residence for 42 undergraduate men on the UBC campus. In 1975, a foundation for a graduate school was initiated, which led to the establishment of a Baptist graduate college in June, 1980. The Carey residences became co-ed in 1985, and continue to provide a Christian community for UBC students on campus. The college offered graduate, doctoral, and continuing-education programs of study.
 
 In 1991 the residence and college were separated and renamed as Carey Theological College and Carey Centre. Carey Institute was established in 2006 to fill an educational gap for people wanting to further their theological education and leadership skills through non-traditional means. Carey Institute hosted workshops, seminars, dialogues, skill-building, mission experiences, and short media presentations. Carey Institute also used traditional course formats and culturally contextualized theological education to prepare and equip spiritually maturing persons to integrate theological commitment with life in professional and lay ministry.
  
 In 2017, Carey adopted a new strategic plan that brings together the passion, skills and expertise of our staff and faculty to be known as one entity; Carey Theological College.  As an accredited academic institution grounded in Christ-centred, biblically-faithful, and missions-focussed Christian leadership, Carey continues to be committed to offering world-class theological degrees and Christian discipleship training to the whole family of God.
-### Accreditation & Affiliation
+### <a name="accreditation--affiliation"></a>Accreditation & Affiliation
 Carey Theological College is evangelical and utterly committed to Jesus Christ and His gospel. Doctrinally, it takes its position in the mainstream of evangelical Protestantism. It is committed to the historic, orthodox teachings of Christianity as revealed in the Scriptures. This theological position allows for working relationships with various churches and para-church ministries, demonstrating openness while remaining true to the Baptist community.
 
 Carey is a graduate theological college and holds a charter from the Province of British Columbia to grant graduate theological degrees. Carey holds the Education Quality Assurance (EQA) designation, indicating that it meets or exceeds quality assurance standards set by the province of B.C. 
@@ -135,7 +136,7 @@ ATS Commission contact information is:
     Fax: 412-788-6510 www.ats.edu
 
 Carey is affiliated with the University of British Columbia (www.ubc.ca) and has access to many of UBC’s facilities. Affiliation with UBC means that certain criteria must be met by Carey Theological College, but it does not mandate any scrutiny or approval of course offerings by the UBC Senate. Carey’s programs are subject to continuous approval of the Carey Senate.
-### What We Believe
+### <a name="what-we-believe"></a>What We Believe
 We accept wholeheartedly the revelation of God given in the scriptures of the Old and New Testaments and confess the faith therein set forth. We here explicitly assert the doctrines which we regard as crucial to the understanding and proclamation of the Gospel and to practical Christian living:
 
 1. The sovereignty, love, and grace of God, the Father, the Son and Holy Spirit in creation, providence, revelation, redemption and final judgment.
@@ -155,7 +156,7 @@ We accept wholeheartedly the revelation of God given in the scriptures of the Ol
 8. The expectation of the personal, visible return of the Lord Jesus Christ, our participation in the resurrection, and the hope of eternal life.
 
 (Cf. the CBWC Statement of Faith, https://cbwc.ca/about/#statement-of-faith) 
-### Faculty
+### <a name="faculty"></a>Faculty
 Simply called “Faculty” in the Carey Hall Act (1959), **Core Faculty** are responsible for instruction, program and curriculum development, student formation, research and publication, and service to the college and to the larger church. Core Faculty hold the ranks of Instructor, Assistant Professor, Associate Professor or (Full) Professor. They provide academic leadership for the College.
 
 Unlike Core Faculty, **Special Faculty** do participate variously in components of the academic life  of Carey Theological College, but they do not share in the overall responsibility for  instruction, program and curriculum development, student formation, research and  publication, and service to the College and to the wider church. Special faculty are not members of Senate or voting members of faculty committees. 
@@ -177,8 +178,8 @@ The position of **Visiting Scholar or Research Fellow** may be offered to curren
 **Courtesy Faculty** are Special Faculty who serve on a volunteer basis and may participate in teaching, research, and student formation.
 
 For a list of our active faculty, please visit our website (https://carey-edu.ca/about/faculty/)
-# Carey Theological College Academic Programs
-## Academic Programs
+# <a name="carey-theological-college-academic-programs"></a>Carey Theological College Academic Programs
+## <a name="academic-programs"></a>Academic Programs
 Carey offers degree programs at the masters and doctoral level, as well as diploma programs for graduate students.
  
  <table>
@@ -406,7 +407,7 @@ Carey offers degree programs at the masters and doctoral level, as well as diplo
 </tbody>
 </table>
 
-## Learning Outcomes
+## <a name="learning-outcomes"></a>Learning Outcomes
 Carey’s learning outcomes are common for all programs and degrees but the extent to which each degree or program meets these learning outcomes varies depending on the focus and academic rigour of the program or degree.
 
 The common learning outcomes include the following:
@@ -421,21 +422,21 @@ The common learning outcomes include the following:
 
 5. Demonstrate ministry competency and their application through self understanding, interpersonal skills, community leadership, and an articulation of Christian leadership vocation and ethic in the Canadian Baptist (or equivalent) tradition.
 
-## Archiving Student Assignments for Assessment Purposes
+## <a name="archiving-student-assignments-for-assessment-purposes"></a>Archiving Student Assignments for Assessment Purposes
 All ATS-accredited schools must perform an annual assessment of our educational effectiveness. This includes evaluating the success of our student body in accomplishing program learning outcomes, by reviewing a selection of assignments submitted by students.
 
 Schools are expected to keep an archive of sample materials as documentation for their findings. Student assignments used as assessment artifacts are: (a) used solely for internal assessment purposes; (b) reviewed only by faculty and/or authorized staff on the assessment team; (c) privately and securely stored; and (d) referenced anonymously as part of cumulative data gathered from multiple sources. They are not: (e) made public; (f) identified individually or by name in Carey’s assessment reports; or (g) used for purposes other than that of assessment without the express permission of the student.
 
 We recognize that some assignments contain information that is personal by nature, and we are careful to respect the dignity and privacy of students in any use of submitted materials, whether for grading or assessment. Students who have any questions or concerns about the evaluation or archiving of materials are welcome to discuss them with the Registrar's Office.
-## Program Requirements
+## <a name="program-requirements"></a>Program Requirements
 Carey’s programs are designed to enable students to enter as a diploma, master’s, or doctoral student and to easily continue their studies to the next program level.  For example, a student may enter Carey as a Diploma in Christian Ministry student then apply the courses they have taken and continue into the Master’s of Christian Ministry program and continue further into the Master’s of Divinity program and still further into an Advanced Diploma and finally a Doctor of Ministry program.  Each subsequent entry to the next program requires all admissions requirements to be fulfilled.  The following chart summarizes the program requirements for each degree and how a student may advance from one program to another.
 
-### Program Requirements Chart
+### <a name="program-requirements-chart"></a>Program Requirements Chart
 
 
 
 
-### Doctor of Ministry and Advanced Diploma Program Specific Requirements
+### <a name="doctor-of-ministry-and-advanced-diploma-program-specific-requirements"></a>Doctor of Ministry and Advanced Diploma Program Specific Requirements
 All students will begin their Doctor of Ministry program by enrolling in the Advanced Diploma program.  The Advanced Diploma program is composed of the coursework for the Doctor of Ministry program thereby enabling the student to opt to exit the program after their coursework and be awarded an Advanced Diploma.  Should the student wish to continue to complete the Doctor of Ministry of program, they will complete the 12 credits related to their thesis and defence.
 
 All Doctor of Ministry students will be assigned a Faculty Advisor who will walk with them throughout their program and give them advice, support and academic mentorship.  The Faculty Advisor will provide academic advising to the student while the Office of the Registrar will provide program administrative support.  Faculty Advisors may not necessarily become the Doctor of Ministry student’s thesis supervisor depending on the topic being proposed.
@@ -445,9 +446,9 @@ Students in the DMin Program are required to maintain a minimum B + average or b
 Clinical Pastoral Education: Doctoral students will be permitted to present one advanced unit from an accredited CPE program for six credits towards the D.Min. program. The units must not have been credited as part of an M.Div. program of studies. The unit may be taken as part of the D.Min. program.
 
 The normal completion timeline for the D.Min. program is 4-5 years. The limit for completion of all requirements for the degree shall be six (6) years. Any extension must be approved by vote of the faculty. Annually, the Faculty Advisor, shall require each student to report on his/her progress in the program. Students who enter with advanced standing will be expected to complete their studies in a shorter period of time. A written statement will be given to the student at the time of acceptance.
-### Master’s Program Specific Requirements
+### <a name="masters-program-specific-requirements"></a>Master’s Program Specific Requirements
 Students in all Master’s degree programs are required to maintain a minimum B- average or will be placed on Academic Probation.
-#### Affirmation of Ministry Review for MDiv Program
+#### <a name="affirmation-of-ministry-review-for-mdiv-program"></a>Affirmation of Ministry Review for MDiv Program
 Theological schools are conscious that the completion of an M.Div. or other seminary degree does not, in itself, suffice to equip an individual for effective Christian ministry. Preparation to serve as a ministry leader involves a multi-dimensional mix of calling, gifting, equipping, affirming, collaborating, and other aspects of an individual’s life, encompassing the academic, spiritual, personal, social, and vocational. With this in mind, the Carey ministry-focused masters degrees include a process of discernment which engages faculty, students, and others of the course of a student’s degree program. The aim of this process is to identify and encourage the student’s gifts for ministry, to enrich his/her preparation for a lifetime of faithful and joyful ministry, and to formally express the school’s conviction that this student is truly called and equipped to move into the next stage of ministry in a way that extends beyond the mere completion of the academic degree. 
 
 The Affirmation for Ministry process begins in conjunction with admission, which includes an admission interview or video where attention focuses on the student’s call to and preparation for ministry. Both the student and the student’s referees are asked to identify areas of strength and weakness that will require attention during the student’s education. 
@@ -455,18 +456,18 @@ The Affirmation for Ministry process begins in conjunction with admission, which
 The Carey faculty recognize that ministry is empowered by grace and that readiness for ministry is different for each student, but this recognition accompanies the conviction that readiness for ministry also entails commitment, discipline and excellence. Suitability for ministry is also part of the discernment process and the faculty reserves the right to withhold affirmation if a student is considered to be unfit or unsuitable for ministry.
 
 The granting of the Affirmation for Ministry designation is not a formal requirement for graduation from the MDiv program; a student who completes the degree requirements will graduate even if Affirmation is withheld at this time. The review process, with its relevant reflection and feedback exercises, is a requirement of the program. Where granted, Affirmation for Ministry is noted in the graduating student’s records.
-### Diploma Program Specific Requirements
+### <a name="diploma-program-specific-requirements"></a>Diploma Program Specific Requirements
 All courses need to be successfully completed with a minimum 2.70 GPA (B-) throughout the program of study. Students who fail to maintain the minimum GPA will be put on probation.
-### Accelerated Bachelor’s and Master’s Program Specific Requirements
+### <a name="accelerated-bachelors-and-masters-program-specific-requirements"></a>Accelerated Bachelor’s and Master’s Program Specific Requirements
 Students are required to complete the balance of the required courses as outlined in the respective Master’s program in the Program Requirements Chart that are not provided advanced standing with credit under the admission requirements and meet all Master’s program requirements. Depending on the partner institution offering the complementary Bachelor’s program, the student will be able to apply courses taken at the Master’s level with Carey to satisfy the requirements for the Bachelor’s program.  Please consult with the partner institution for their specific Bachelor’s degree requirements.  Students will receive their Bachelor’s and Master’s degree diplomas independently each from the partner institution and Carey.
-### Occasional Student Program Specific Requirements
+### <a name="occasional-student-program-specific-requirements"></a>Occasional Student Program Specific Requirements
 The Occasional Student Program is intended for potential students to “test the waters” before committing to a formal program of study or to allow potential students to enter the term and begin their studies in anticipation for their formal program application to be reviewed and approved.  
 
 The Occasional Student Program enables a student to take up to three courses (maximum two courses per term).  Students must demonstrate the ability to maintain their academic performance by achieving a B- (2.7 GPA) during their status as an Occasional Student.
 
-### Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Ministry
+### <a name="students-from-canadian-baptists-of-western-canada-cbwc-churches-anticipating-professional-ministry"></a>Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Ministry
 Students who wish to be placed with Canadian Baptists of Western Canada churches or its ministries, or who wish to apply to Canadian Baptist Ministries, should identify themselves on the application form. The Office of the Registrar will provide further and current information regarding the process toward recognition as a ‘Ministerial Candidate’ (as well as validation for assistance from student aid funds).
-## Course Descriptions
+## <a name="course-description"></a>Course Descriptions
 
 <table>
 <tbody>
@@ -1065,7 +1066,7 @@ Students who wish to be placed with Canadian Baptists of Western Canada churches
 </tbody>
 </table> 
 
-# Graduation Requirements
+# <a name="graduation-requirements"></a>Graduation Requirements
 Graduation from any of Carey’s programs requires the following.
 
 1. Complete the required number of credit hours of study for the relevant program.
@@ -1102,7 +1103,7 @@ Graduation from any of Carey’s programs requires the following.
 5. Senate approval before graduation.
 
 Students may apply for graduation every semester to receive official transcripts and the graduation diploma. Graduation application forms must be completed and submitted 1 month before the end of the student’s graduating term.
-## Additional Graduation Requirements for Doctor of Ministry
+## <a name="additional-graduation-requirements-for-doctor-of-ministry"></a>Additional Graduation Requirements for Doctor of Ministry
 
 <u>Preparation of the Doctoral Thesis Project Proposal:</u> DMIN 901 Research Writing and Proposal is designed to assist DMin students to prepare their final project proposal. The research writing component establishes the foundational basis for the Doctoral Thesis Project and is developed as part of the Doctoral Thesis Project under the supervision of the Faculty Advisor and/or DMin Project Supervisor.
 
@@ -1242,13 +1243,13 @@ Students may apply for graduation every semester to receive official transcripts
 
 * DMin students who wish to obtain their own doctoral gowns must arrange to purchase or rent them in time for the graduation ceremony. Gown guidelines are available from the Registrar.
 
-## Additional Graduation Requirements for Master’s Programs
+## <a name="additional-graduation-requirements-for-masters-program"></a>Additional Graduation Requirements for Master’s Programs
 <u>Theological Integration Project for Mission & Ministry:</u> Each student enrolled in a master’s degree program at Carey is required to create and maintain a student portfolio to chart the growth in specific competency areas in one’s program of study where the culmination of evidence of the competencies will be demonstrated through the theological integration project. Students are required to do an oral presentation of their project prior to graduation.
 
 All students are required to complete the supervised ministry/peer learning course, which includes mentorship and practicum involvement. Please note: students who desire to include CPE (Clinical Pastoral Education) credits in their program may do so as elective/specialization courses. An individual who wishes to incorporate CPE into the practicum portion of the Capstone courses must receive approval and make arrangements with the supervising faculty member and the Office of the Registrar. 
 
-# Financial Information
-## Tuition and Fees
+# <a name="financial-information"></a>Financial Information
+## <a name="tuition-and-fees"></a>Tuition and Fees
 Carey Theological College tries to keep fees at a level that will permit most qualified persons to attend. The fees incurred by students meet only a portion of the total cost of providing education and operating the college. We are grateful for the support of the churches of the Canadian Baptists of Western Canada, foundations, and interested friends.
 
 Course registration and tuition is due on the first day of class. If students are unable to meet this deadline, it will be necessary for them to submit a letter of appeal to the Office of the Registrar. Payment plans can be negotiated with the Registrar’s office as needed. 
@@ -1339,7 +1340,7 @@ Course registration and tuition is due on the first day of class. If students ar
  </tr>
  </table>
 
-## Payment, Late Payment, and Outstanding Accounts
+## <a name="payment-late-payment-and-outstanding-accounts"></a>Payment, Late Payment, and Outstanding Accounts
 Payment of all fees and tuition must be in Canadian dollars. Cheques, bank drafts, and postal money orders may be received by mail and Visa, MasterCard, are acceptable forms of online payment through Carey’s student information management system (Populi). We encourage students to pay with the above forms of payment.
 
 Under extenuating circumstances, payments may be made by cash in person at Carey’s head office in Vancouver, British Columbia, Canada during its regular hours of operation. Under Carey’s cash handling policy, we are only able to accept a maximum of $1350 per student account per semester. For refunds, up to $500 in cash will be provided, with excess issued as a cheque in the student’s name.
@@ -1348,7 +1349,7 @@ All tuition is due and payable on the first day of term.
 
 Please note: If there is any outstanding indebtedness to the College, degree parchments, transcripts, grade reports, and letters of permission will not be released until such matters have been cleared with the Registrar’s Office. Student registration for new semesters will be locked if there is an outstanding balance not on the payment plan; or the payment plan is not being followed. 
 
-## Changes of Registration, Withdrawal and Refunds 
+## <a name="changes-of-registration-withdrawal-and-refunds"></a>Changes of Registration, Withdrawal and Refunds 
 Normally, refunds will only be provided on outstanding balances at the completion of the program or formal withdrawal from the program.  In all other cases, students who withdraw from a course during the duration of their program will have their accounts credited for a future course.
 
 Unless otherwise stated, the tuition amount that may be credited for future classes for withdrawing from a course after the start date is as follows:
@@ -1385,11 +1386,11 @@ Unless otherwise stated, the tuition amount that may be credited for future clas
  </tr>
  </table>
 
-### Tax Receipts
+### <a name="tax-receipts"></a>Tax Receipts
 For income tax purposes, T2202A forms related to tuition payments will be posted by February 28 of the following year. Students can access these through their portal in the Student Information System.
 
-# Student Financial Aid
-## Student Assistance, Scholarships
+# <a name="student-financial-aid"></a>Student Financial Aid
+## <a name="student-assistance-scholarships"></a>Student Assistance, Scholarships
 As an institution that offers programs fully online, Carey Theological College does not qualify as an eligible institution where its students can secure student loans from provincial government sources across Canada.  However, Carey offers generous financial aid packages to qualified students in need.
 
 Carey Theological College makes a variety of awards and benefits available to students to help reduce the financial burden of study. These include competitive scholarships, need-based bursaries, bursaries and tuition discounts associated with institutional partnership relationships, and opportunities for study-related work in the form of Teaching Assistantships.  Teaching Assistantships are only available to students with valid work permits in Canada.
@@ -1397,9 +1398,9 @@ Carey Theological College makes a variety of awards and benefits available to st
 Please visit https://carey-edu.ca/student-services/ for eligibility criteria and detailed information.
 
 In addition to the financial awards managed directly by Carey, students may be eligible for a range of awards and other forms of funding provided by external organizations. For example, students who serve with the Canadian Baptists of Western Canada are advised that several forms of student aid funding are available through the Canadian Baptists of Western Canada Foundation. Application for these is made directly to the Foundation.  Students are reminded that College staff will not be aware of all the forms of funding that may be available; each student is encouraged to explore widely for possible assistance with study.
-## Student Awards 
+## <a name="student-awards"></a>Student Awards 
 A number of post-degree awards are given to students at graduation each year in recognition of outstanding performance in various areas. These vary from year to year. Recent examples include prizes for excellence in pastoral care, in preaching, in biblical studies and theology, in lay leadership, the D.Min. Fellows Program, and in evangelization and ministry in the Chinese community.
-## Applying for Student Assistance
+## <a name="applying-for-student-assistance"></a>Applying for Student Assistance
 Applicants must be fully admitted as active status Carey students, normally in a degree or diploma program at the Master’s or doctoral level. 
 
 All students must apply for financial aid using the standard financial aid application separate from the  admission application form. The College will not process applications for financial aid until a student has been admitted to study.
@@ -1417,8 +1418,8 @@ Students who drop or withdraw from courses after receiving Carey-managed Financi
 Other policy information related to Financial Aid is included in the annual resource materials on financial assistance provided through the Registrar’s Office. Please email registrar@carey-edu.ca for more information.
 
 
-# Admissions
-## Program Admission Requirements
+# <a name="admissions"></a>Admissions
+## <a name="program-admission-requirements"></a>Program Admission Requirements
 
 Admissions to each program at Carey share similar requirements with specific requirements as outlined below.
 
@@ -1539,7 +1540,7 @@ Admissions to each program at Carey share similar requirements with specific req
 </tbody>
 </table>
 
-### Accelerated Bachelor’s and Master’s Program Admission Requirements
+### <a name="accelerated-bachelors-and-masters-program-admission-requirements"></a>Accelerated Bachelor’s and Master’s Program Admission Requirements
 For students currently enrolled with a partner institution offering an Accelerated Bachelor’s and Master’s program, students from the partner institution will indicate their intent at the beginning of their studies to pursue this program.  Typical entrance to the Master’s program will occur in the third year of the student’s Bachelor’s program after completing at least 90 credits of study at the Bachelor’s level but each requirement may be different from partner institutions.  Students must have achieved a 3.0 GPA in the first three-years of their Bachelor’s degree program in order to apply to the Master’s program.  The application process is the same as the regular program including applying online for the particular Master’s program being sought.  In addition a letter of referral is required by the partner institution indicating their support for the student to continue on to the Master’s program.
 
 Students will enter under the regular student classification.  Students are required to meet the graduation requirements for both the Bachelor’s and Master’s programs.  Advanced standing with credit will normally be provided for the following courses AFTER a student satisfies and graduates from the Bachelor’s program requirements.
@@ -1553,7 +1554,7 @@ Students will enter under the regular student classification.  Students are requ
 > THEO 501 Christian Thought I
 > THEO 502 Christian Thought II
 
-**DOCTOR OF MINISTRY AND ADVANCED DIPLOMA PROGRAM ADMISSION REQUIREMENTS**
+### <a name="doctor-of-ministry-and-advanced-diploma-program-admission-requirements"></a>Doctor of Ministry and Advanced Diploma Program Admission Requirements
 
 <table>
 <tbody>
@@ -1656,9 +1657,9 @@ All Advanced Diploma and DMin students are expected to be involved in ministry. 
 **(1) Formal Review and Approval: Full Review.** This level of review is for research with human participants through which data is collected through interviews, questionnaires, participant observations, journals and other second or third party means.  Examples of research include doctoral and master theses, course related assignments that involve more than minimal risk to confidentiality and anonymity, faculty research projects with human participants and any funded research undertaken by either students or faculty. Research that is a degree requirement (e.g. D Min) and involves human participants requires a full ethics review. The student is required to submit the Application for Ethics Review for Research Involving Human Participants. The Research Ethics & Thesis Committee at Carey Theological College will receive the application, and no research that involves more than minimal risk to human participants may commence without formal review, approval and notification in writing of approval. 
 **(2) Review and Approval: Expedited Review.** This level of review is for research with human participants judged to be of minimal risk to human participants and their confidentiality and anonymity. Examples of research include observations at public events, public meetings, review of course evaluations, research of documents, research projects as part of course assignments (if judged to be of minimal risk to human participants and confirmation as such is provided in a Request for Expedited Review), data gathered using anonymous surveys (e.g. Survey Monkey), interview records taken from public forums, institutional-initiated surveys through which confidentiality and anonymity are ensured. In the case of course related assignments, the student’s professor holds the primary responsibility for recommending an expedited review to a student; the student then holds the primary responsibility for submitting a request in writing to the Research Ethics & Thesis Committee. The student or faculty is required to apply for an expedited review of their proposed research through submission of the Request for an Expedited Review of Research. The Research Ethics & Thesis Committee will receive the letter, and no research may commence without formal approval by the Research Ethics & Thesis Committee of the student’s letter requesting an expedited review.
 
-## General Admission Requirements and Process
+## <a name="general-admission-requirements-and-process"></a>General Admission Requirements and Process
 Before initiating the admissions process with Carey it is the student’s responsibility to familiarize themselves with the requirements and policies pertaining to their program of interest (see the program information under Carey Academic Programs, above), and also with Carey’s statement of faith and community expectations. These statements reflect Carey’s core theological and community values from which personal and academic integrity stem. In applying to study at Carey, students indicate their willingness to respect and uphold the common values and related practices of the Carey academic community. Students are not required to sign the specific Carey statement of faith, but all students will need to affirm personal Christian faith as part of the application process and respect the faith commitments of the Carey community as expressed in Carey’s statement.
-## Key Admission Dates
+## <a name="key-admission-dates"></a>Key Admission Dates
 Carey Theological college offers the rolling admission, students may apply for admission and financial assistance any time of the year.  It is advised that potential students begin the process of applying early to allow sufficient time for writing essay responses and receipt of reference letters. All applicants will be reviewed monthly by the admission committee and be notified of the result. 
 
 <table>
@@ -1875,7 +1876,7 @@ Carey Theological college offers the rolling admission, students may apply for a
 </tbody>
 </table>
 
-## Language Requirements for Admissions
+## <a name="language-requirements-for-admission"></a>Language Requirements for Admissions
 
 English, Cantonese, Mandarin and Spanish (CETI program) are the primary languages of instruction at Carey Theological College.
 
@@ -1936,19 +1937,19 @@ Use Carey’s code number 5981 when indicating Carey as a score recipient.
 7. Achieved an overall score of 110 on the Duolingo English Test.
 
 Students can appeal the language requirement when they apply to Carey by providing a written record of their language experience in school, workplace, and life. The Admissions Committee may require a writing sample to assess an applicant’s language competency. The Admissions Committee will consider the student’s qualifications and the Committee’s decision will be final.
-## Student Classification
-### Regular Program Students
+## <a name="student-classification"></a>Student Classification
+### <a name="regular-program-students"></a>Regular Program Students
 These are students who have met all program admissions requirements and who have been admitted into an academic program with no conditions. Students need to register for at least one course per year in order to maintain active student status. 
-### Full Time Student Designation
+### <a name="full-time-student-designation"></a>Full Time Student Designation
 For external purposes , full-time study is defined as 27 credit hours per academic year (September to August) or 9 credit hours per term for 3 terms in a school year.
-### Inactive Students & Leave of Absence
+### <a name="inactive-students--leave-of-absence "></a>Inactive Students & Leave of Absence
 Students who do not complete 6 credits of coursework within two sequential each academic years will be classified as inactive. In order to retain active student status within the degree program, students must apply for a leave of absence via the Office of the Registrar. A maximum of 2 extensions will be granted over the duration of the student’s program. (See the fee table under Financial Information for more details concerning the extension fee.) After a 3-year period of inactivity, the student will be removed from the program roster. If the student wishes to reactivate their status, a letter outlining the reasons for inactivity and desire to continue studies must be submitted and approved to the Office of the Registrar. 
 
-### Unclassified and Visiting Students
+### <a name="unclassified-and-visiting-students"></a>Unclassified and Visiting Students
 Students from other ATS accredited colleges taking courses from Carey for transfer credit are classified as “visiting students” and do not need to make a formal application. Normally a Letter of Permission from the student’s school is used to grant access to Carey courses.
-### Undeclared Student Status
+### <a name="undeclared-student-status"></a>Undeclared Student Status
 Students who wish to take individual courses for personal interest, professional development, or to explore possible seminary study, but who are not currently pursuing full admission to a degree or diploma program may study at Carey under undeclared student status. Undeclared students are admitted through a simplified process. Normally they may take up to 9 credits before seeking admission to a formal program; this may be extended by permission from the Registrar. Program admission requires completion of the remaining parts of the program admission package. An undeclared student may only take a maximum of 2 courses in a single semester. 
-### Mature Student Status
+### <a name="mature-student-status"></a>Mature Student Status
 Mature Student status is applicable to graduate programs (M.Div., MACM and graduate Diplomas). It may be granted to students who do not have a completed 4-year undergraduate degree, but who have sufficient relevant work and/or life experience to prepare them for study in the degree program. 
 
 A prospective student must be 30 years of age or older to be considered for admission under Mature Student status. He/she must provide a detailed summary of relevant training and experience which demonstrate readiness for theological study at the graduate level. This should include an account of learning opportunities experienced, of work and ministry history, with other relevant life experience. Please provide dates and length of time in various roles, specific information on courses and training taken, and on relevant achievements (eg: ordination, certification, publications, etc.). Because educational equivalence must involve reflection as well as simple experience, please also include information on reading and professional development practices, and identify ways in which your life and ministry experiences have been the subject of focused reflection, and especially of reflection in conversation with other peers and supervisors.
@@ -1964,11 +1965,11 @@ Accreditation regulations require that Carey limit the number of Mature Students
 2. Carey reviews and approves applications for Mature Student status prior to each term.
 
 3. Carey reserves the right to require Mature Students to enroll in a higher number of courses per year than what is normally needed to maintain current student status in a degree program. Mature Students are currently required to take a minimum of 2 courses per academic year, for credit, in order to maintain their current student status. Those who fail to maintain this level of enrolment may be deemed inactive in the degree program and registered in the corresponding Diploma; re-admission will be required in order to regain active status in the graduate degree.
-### Continuing Education Credit Registration (CBWC)
+### <a name="continuing-education-credit-registration-cbwc"></a>Continuing Education Credit Registration (CBWC)
 Carey courses may be audited by individuals who are not registered as for-credit students in order to fulfill the continuing education requirement for ministers credentialed by the Canadian Baptists of Western Canada. 
-### International Students
+### <a name="international-students"></a>International Students
 As an online institution, Carey does not meet the requirements under Canada Immigation Services that allow prospective students to acquire a student visa.
-## Transfer Credits, Shared Credits, Advanced Standing and Exemptions
+## <a name="transfer-credits-shared-credits-advanced-standing-and-exemptions"></a>Transfer Credits, Shared Credits, Advanced Standing and Exemptions
 Students with previous theological training from a recognized institution may be eligible to receive some credit toward their program of study at Carey, through credit transfer, shared credit, or advanced standing. 
 
 Several general principles apply in each case: 
@@ -1986,7 +1987,7 @@ Several general principles apply in each case:
 - Externally shared, transfer, and advanced standing credits are applied to a student’s Carey program on a pass/fail basis and are not included in GPA calculation 
 
 Assessment of shared/transfer credit and advanced standing is normally done in conjunction with admission, though the two decisions are made independently. You will be asked to signal your desire for an assessment of shared/transfer credit and/or advanced standing as part of your admission process. The Admissions Committee reserves the right to decide on the total number of transfer, shared, and advanced standing credits granted to a student toward the requirements of a particular academic program.
-### Transfer Credits
+### <a name="transfer-credits"></a>Transfer Credits
 Where a student has completed graduate-level coursework but not an academic program at another accredited seminary or academic institution prior to applying at Carey, and a particular graduate course taken in that setting can be shown to have relevance to his/her master’s program at Carey, the course may be applied as transfer credit.  Transfer of prior course credits must be processed at the time of admission. 
 
 Students who wish to apply courses from another institution toward a Carey program after admission to Carey must receive prior written approval. Requests for transfer credit should be made to the Office of the Registrar. After written approval is received and a Letter of Permission (LOP) is granted, the student must apply and register for such courses with the appropriate institution. On completion, an official transcript from the other institution must be sent to the Office of the Registrar. Transfer credit is awarded only if the grade achieved is at least of the average grade required to graduate from the Carey program (D.Min. minimum: B, masters programs minimum: B-).
@@ -1997,11 +1998,11 @@ Carey course offerings are published in advance so that students may plan their 
 Maximum combined shared/transferred credits from another accredited seminary or religious institution that can be applied to a Carey degree program: DMin: 9;  MDiv: 36;  MACM, MPM, MASF: 24; Diploma: 6.
 
 Maximum combined shared/transferred credits earned at Carey that can be applied to a Carey degree program: DMin: 18 MDiv: 48;  MACM, MPM, MASF: 30; Diploma: 15.  
-### Shared Credit
+### <a name="shared-credit"></a>Shared Credit
 Where a student has completed a graduate academic program at another accredited seminary or religious institution, and a particular course taken as part of that program can be shown to have specific relevance to one’s master’s program at Carey, shared credits may be awarded. Shared credits function similarly to transfer credits; however, because they are applied simultaneously to two different degrees, accreditation standards place stricter limits on the number of shared credits that can be applied. 
 
 A minimum grade of B- is required and the course must have been taken within the last 10 years. The number of shared credits granted will be dependent on the discretion of the Admissions Committee, in consultation with ATS guidelines and policies. Shared credits must be processed at the time of admission. 
-### Advanced Standing with Credit
+### <a name="advanced-standing-with-credit"></a>Advanced Standing with Credit
 Advanced Standing with Credit is the process by which a student’s prior learning through degree program coursework in an accredited undergraduate theological institution is recognized as providing limited equivalency to the requirements of a seminary degree program, allowing a corresponding reduction in graduate credits required for graduation. It is a way of acknowledging that some students enter seminary with an extensive background in theological study that overlaps to some degree with what is covered in the seminary program, in a manner that would not be true of the typical seminary student who lacks that background. (A parallel process is occasionally applied for students with Th.M. credits or two theological master’s degrees who seek Advanced Standing toward the D.Min.) 
 
 When assessing Advanced Standing with Credit, the Office of the Registrar will review a student’s undergraduate transcripts, identifying areas of correspondence with core classes required in the Carey program. Credit will be granted for the relevant Carey courses based on assessed equivalency. Advanced standing may not be awarded for required electives. No more than 33% of credits required for the Carey program may be covered through Advanced Standing. Normally Advanced Standing is granted only to students who have completed a theological undergraduate degree whose program focus is similar to that of the Carey degree, where there is a clear specialization (50-60+ credits) in the area where Advanced Standing is sought. Ministry experience cannot be used to substitute for academic credits.
@@ -2011,22 +2012,22 @@ Please note that credits granted through Advanced Standing assessment are equiva
 Students are not permitted to register in courses for which they have been granted Advanced Standing with Credit.
 
 Maximum Advanced Standing credits: DMin: 9; MDiv: 24;  MACM, MPM, MASF: 15; Diploma: 6
-### Exemption
+### <a name="exemption"></a>Exemption
 Exemption is when a student is not required to enrol in a required course based on extensive relevant experience. An exemption does not reduce the overall number of credits required for the program. The required credits must be replaced with an alternative course; typically from a course in the same discipline or upon approval by the Office of the Registrar.
 
 Students are not permitted to register in courses for which they have been granted Exemptions.
 
 Exemptions are treated the same as Advanced Standing with Credit in regards to the total number of combined Exemptions and Advanced Standing with which Credit must not exceed: DMin: 9; MDiv: 24;  MACM, MPM, MASF: 15; Diploma: 6.
 
-# Course Registration
+# <a name="course-registration"></a>Course Registration
 Students are advised to register a minimum of one month prior to the beginning of the term. Some courses require reading or work to be posted or submitted on the first week online, so students are advised to check the course syllabi for all the course requirements. It should be noted that both the required and elective courses can be changed by Senate decision without public notice.
 
 To register for courses, login to Carey Populi at https://carey.populiweb.com/ and click on *‘My Profile,’* then *'Registration'*. This list shows all upcoming courses required for your program. Select the course you would like to register and click *‘Enroll’,* and proceed to make a payment on the *‘Financial’* tab. A $100 deposit is required on registration to hold your place. This deposit is non-refundable and will be applied to your tuition fee. The remaining balance is due on the first day of class. For more detailed instructions, please visit [this support page][https://support.populiweb.com/hc/en-us/articles/223792447].
 
 <mark>Course registration for a particular term opens one week after the previous term begins and closes the first Friday of the first week after the beginning of the term at 5pm Pacific Standard Time.</mark>
 
-# Assessment and Grading
-## Grading Scale: Diplomas, Masters Programs
+# <a name="assessment-and-grading"></a>Assessment and Grading
+## <a name="grading-scale-diplomas-masters-program"></a>Grading Scale: Diplomas, Masters Programs
 (3 credit hours should be equal to 127.5 clock hours of work.)
 
 <table>
@@ -2121,7 +2122,7 @@ To register for courses, login to Carey Populi at https://carey.populiweb.com/ a
  </tr>
  </table>
 
-## Grading Scale: Advanced Diploma and Doctor of Ministry
+## <a name="grading-scale-advanced-diploma-and-doctor-of-ministry"></a>Grading Scale: Advanced Diploma and Doctor of Ministry
 (3 credit hours should be equal to 150 hours of work.)
 
 <table>
@@ -2216,16 +2217,16 @@ To register for courses, login to Carey Populi at https://carey.populiweb.com/ a
  </tr>
  </table>
 
-## Grade Changes
+## <a name="grade-changes"></a>Grade Changes
 It is the student’s responsibility to appeal any error in grades and to bring it to the instructor’s attention within two months following the issued grade. Grade changes are allowable for computational recording errors and must be corrected no later than the last day of classes of the next full term.
-## Extensions
+## <a name="extensions"></a>Extensions
 Extensions for course work will only be granted in exceptional circumstances. If a student requests an extension that will prevent the professor from submitting the final grade within 30 days following the final assignment, the student must file a formal petition with the Registrar for the extension. On approval, the Registrar will establish extension deadlines which are final. The student may receive a grade reduction of up to one-third of the final mark for work submitted under these extension guidelines.
-## Academic Probation
+## <a name="academic-probation"></a>Academic Probation
 In each program of study, Carey Theological College sets standards for the competencies students are expected to achieve. Satisfactory academic performance (D.Min.: B, M.Div.: B-; MACM: B-) is a necessary prerequisite for a student to continue their program of studies. Should a student achieve final grades below the minimum standard in three courses, or fail to complete those courses within the specified timelines, or should the student’s GPA fall below graduation requirements, the student will be placed on academic probation. In such cases, the student will be placed under the supervision of the Office of the Registrar, which may recommend one of several alternatives including remedial work upon approval of the professor(s) of the course(s) that caused the drop in GPA, retaking courses or taking additional courses with or without an extension of time to complete the program to raise the GPA to an acceptable level, or withdrawal from studies. Students are expected to rectify their academic probation status within one year.
-## Repeated Courses
+## <a name="repeated-courses"></a>Repeated Courses
 A student will be permitted to repeat a course in which he/she has received an ‘F’ grade. The better grade will appear on the student’s transcript and GPA, and an ‘R’ will replace the ‘F’. Any one course may be repeated up to two times. Regular tuition fees will be charged for repeated courses.
 
-# Academic Integrity
+# <a name="academic-integrity"></a>Academic Integrity
 A high standard of academic integrity is expected of all Carey Theological College students; any infraction will be treated seriously and may be grounds for dismissal. Academic integrity involves honest and responsible scholarship. Students are expected to submit original work and give credit to other peoples' ideas. Academic dishonesty is acting in a manner to gain unearned academic credit. Examples of academic dishonesty are: 
 
 - Plagiarising by misrepresenting the work of another person (in whole or in part) as a student’s own work or failing to give credit for either wording or ideas that belong to another. (See next section.)
@@ -2235,7 +2236,7 @@ A high standard of academic integrity is expected of all Carey Theological Colle
 - Using unauthorized aids of any sort in examinations, completing work in unauthorized collaboration with others, or the unauthorized recording and use of class lectures are all examples of breaches in academic integrity.
 
 Penalty for a lack of academic integrity may include a failing grade in the assignment, examination or course, depending on the severity of the offense. All students are responsible for knowing and practicing academic integrity. 
-## Plagiarism
+## <a name="plagiarism"></a>Plagiarism
 A more detailed statement of policy and procedures relating to plagiarism is available from the Office of the Registrar. The most pertinent elements have been replicated here. For more information on academic integrity and plagiarism in the wider UBC context, see also http://learningcommons.ubc.ca/resource-guides/avoid-plagiarism/.
 
 Essentially, plagiarism involves giving the impression that the words or ideas used in one’s papers or other submitted materials are one’s own, when in fact they are taken from another source.
@@ -2249,9 +2250,9 @@ Plagiarism takes a variety of forms, and it comes in different degrees of severi
 3. Severe plagiarism involves presentation of an entire essay or project as the student’s own work when in fact it was produced by another. Severe plagiarism automatically results in a failing grade for the course. A written reprimand will be given, with a copy kept in the student’s file. A repeated offense will result in expulsion from the seminary. 
 
 Where faculty identify clear cases of substantial or severe plagiarism, they will keep written documentation of the offending materials and provide a copy of relevant information to the Office of the Registrar. Records of institutional action and follow-up will also be maintained in the student’s file.
-## Research Ethics
+## <a name="research-ethics"></a>Research Ethics
 All research involving data-gathering from human subjects (through surveys, interviews, etc.) for Carey courses and programs must conform to the current Carey policy on research ethics, which is available from the Registrar’s Office and will be distributed at new student orientation. This is particularly important for the DMin program, but has implications for other students whose research interests may potentially intersect with current Canadian privacy legislation and related academic policies at Carey, UBC, and in the Canadian higher education community.
-## Academic Appeals
+## <a name="academic-appeals"></a>Academic Appeals
 Students are assured the right to appeal any judgment relative to their academic program, whether it is permission to enter a degree program, a ruling regarding academic procedure or a grade given in any academic work. Appeals should be made to the person or committee responsible for the decision under dispute (e.g. grades to Faculty, admissions to the Admissions Office). Any such appeal must be initiated no later than two months following notification of a ruling or a grade being issued. A written statement of the ruling will be issued to the student.
 
 Where the student is not satisfied that the appeal is fairly heard or considered, a further appeal may be made in writing to the Office of the Registrar. The Registrar’s Office will hear and discuss the circumstances attending the complaint and counsel the student regarding the issue. A written statement of the ruling will be issued to the student.
@@ -2260,14 +2261,14 @@ In the event that the appeal is related to the Office of the Registrar or the Ad
 
 If the student is still not satisfied, the ruling may be appealed in a written summation to the Student Appeals Committee of the Senate of Carey Theological College. The decision registered by the Senate of Carey Theological College is final.
 
-# Student Life
-## General 
+# <a name="student-life"></a>Student Life
+## <a name="general"></a>General 
 To make Carey’s educational programs as accessible as possible, Carey structures its course delivery with an effective and innovative online learning environment.
 
 This changes the nature of “campus life,” but it does not eliminate the need to provide effective student services, nor does it undermine the importance of building a strong sense of student community. Carey seeks to address these needs in a variety of ways: in the course design, use of communication and community-building technology, formation of learner cohorts, etc.  Of special importance, the College maintains a dedicated and competent team of Academic staff whose role is to support students through their entire educational experience, from inquiry and admission through to graduation.
 
 The team is happy to provide information and to address questions and concerns that may arise. Please do not hesitate to connect by email at registrar@carey-edu.ca.
-## Guidelines for online discussions (netiquette)
+## <a name="guidelines-for-online-discussions-netiquette"></a>Guidelines for online discussions (netiquette)
 To maximize the benefit of online discussions which are part of most Carey courses, we encourage all students to follow these principles:
 
 1. Participate – For the maximum benefit to all, every participant needs to contribute to the discussion.  Be on time. Respond to at least one classmate for any discussion forum or blog or as many times as required by the instructor. 
@@ -2289,7 +2290,7 @@ To maximize the benefit of online discussions which are part of most Carey cours
 9. Use Appropriate Tones – Remember the style of writing in an academic environment, and refrain from showing extreme emotions.  No yelling, throwing tantrums or rants.  Humor can also be difficult to convey in text, especially if there are students whose first language is not English, so make sure everyone realizes intended humour.
 
 10. Respect Others – An online classroom will include participants from a wide range of backgrounds (culture, age, socio-economic, etc.). It is important to respect fellow classmates’ opinions and not impose your own perception or bias on others. At Carey, there also are core courses shared by students enrolled in different degree programs. It is important to learn to listen and appreciate each other’s unique contribution to the learning experience.
-## Accountability and Disciplinary Procedures
+## <a name="accountability-and-disciplinary-procedures"></a>Accountability and Disciplinary Procedures
 In choosing to participate in the Carey community, students indicate their willingness to live and work in an environment of mutual accountability. All members of our community become co-owners of Carey’s mission and institutional culture, and we all have the responsibility not only to promote these individually but also to help one another to support the community as we seek to grow and thrive together. 
 
 This mutual accountability implies a need for all members of the Carey community to be willing to encourage and sometimes also to confront one another where an individual visibly fails to abide by the reasonable expectations for living in Christian community, and/or by the policies and guidelines expressed in the Student Handbook, Academic Catalog, or Staff Manual. It also implies a need for receptivity in which we listen and take seriously the exhortations of other members of the community. In all cases, the goal of such exchanges should be the well-being and personal and spiritual growth of the individuals involved, restoration of healthy relationships in the community, and ongoing cultivation of a robust community life which promotes the mission and values of Carey.
@@ -2321,7 +2322,7 @@ Decisions rendered by the supervisor or Accountability Committee are binding, an
 - Expulsion
 
 A student may appeal a decision made by the Vice President, Operations, in which case the appeal will go to an Accountability Committee appointed by the President and Chair of the Senate.  Where an appeal is heard, the decision of the second review is final.
-# Institutional Integrity
+# <a name="institutional-integrity"></a>Institutional Integrity
 Carey Theological College is committed to facilitating the learning of all students capable of doing the study and course work to the programs for which they have been accepted. Any student who has exceptionalities that may impact the full demonstration of his/her abilities should contact the Office of the Registrar to discuss evaluation and documentation of learning needs. The Carey faculty will make every effort, where it is possible and within the means of the Institution, to incorporate alternative learning strategies that have worked for the student in the past, including mutually accountable accommodations to ensure the student’s full participation in the course.
 
 Carey’s responsibilities toward students with exceptionalities: 
@@ -2337,11 +2338,11 @@ Carey’s responsibilities toward students with exceptionalities:
 - All of the above provisions are to be done within the means of the institution. Students may need to take financial responsibilities on additional service or equipment required.
 
 While Carey will do all possible to create a safe, supportive learning environment for all students, Carey reserves the right to deny accommodation requests if the accommodation request is deemed to have a negative impact on the quality of other student’s learning experience and the integrity of Carey curriculum. 
-## Gender Language
+## <a name="gender-language"></a>Gender Language
 As language usage changes over time, the church must discern where its own language must change in order to continue to bear witness faithfully to the gospel. Modern English usage has moved away from using masculine terms to refer to groups that include women. The continued use of such terms in worship, writing, or conversation miscommunicates the invitation of the gospel and the nature of the church.
 
 This policy refers to humankind. Examples of inclusive language for persons can be found in the NRSV and the TNIV translations. In regards to Scripture texts, the integrity of the original expressions and names of God should be respected. The language of previous eras and other authors need not be rewritten to conform to contemporary usage. It is expected that inclusive language will be used in written work, publications, and classroom conversation at Carey Theological College.
-## Non-Academic Grievance Matters
+## <a name="non-academic-grievance-matters"></a>Non-Academic Grievance Matters
 Carey Theological College is committed to uphold the standards as a Christian community according to the Christian Scripture. As members of the community, Carey students are expected to respect the rights of all students, faculty and staff and adhere to the policies.
 
 If a student has observed a violation of Carey policy or the applicable laws, or feels harmed by another student's misconduct (e.g. affecting his/her welfare, property, safety or security) he/she should file a report with the Office of the Registrar and/or UBC Police as appropriate. A policy-procedure document and form pertaining to non-academic concerns and grievances is available on the website or from the Office of the Registrar. 
@@ -2374,19 +2375,19 @@ A “Concerns and Grievances” form is available on the Carey website and/or fr
 Carey welcomes all thoughtful, respectful expressions of concern, as well as suggestions for making our programs more effective and more satisfying for the community. When students speak freely, we seek to listen carefully, in order to grow institutionally. 
 
 Matters of discipline are managed by the Office of the Registrar. Please consult with the Office of the Registrar if you desire help with these matters.
-## Discrimination and Harassment Policy
+## <a name="discrimination-and-harassment-policy"></a>Discrimination and Harassment Policy
 Carey seeks to be a community in which students, faculty and staff can grow together, free from discrimination and harassment. We are identified by our commitment to Jesus Christ and to the Scriptures which make Him known. Our purpose is that the members of Carey lead exemplary and honorable lives, consistent with and faithful to this revelation. So it is that we seek to love, honor, serve, guide and, where we have failed, seek to make and be made right with one another. We acknowledge that we sometimes fail to live up to the high ideals upon which we claim to rest. Relationships may be fractured through acts or attitudes that intentionally or unintentionally cause hurt. Discrimination and harassment, including sexual harassment, are two of many possible ways in which this sense of Christian community may be betrayed.
 
 The commitment of the College to all its members is to ensure that no form of sexual harassment be tolerated, a zero-tolerance policy. Anyone who believes that he or she has been subjected to comment or conduct which might constitute discrimination or harassment should report it to the Registrar, or, in the case of a conflict of interest, to the President’s Office.
-## Privacy Policy
+## <a name="privacy-policy"></a>Privacy Policy
 https://www.iubenda.com/privacy-policy/7883032
 
-# Student Resources
-## ID Cards 
+# <a name="student-resources"></a>Student Resources
+## <a name="id-cards"></a>ID Cards 
 A student ID card will be provided to all students who have been accepted into a for-credit program of study, and who are currently enrolled in a course. (UBC U-Pass cards are not available to Carey students.) Please remember to upload a current picture to your Populi profile to assist us with this.
 
 Current Carey students are also eligible to receive a UBC library card, providing borrowing privileges as well as access to UBC online databases and resources.
-## Student Data Systems Access (Populi)
+## <a name="student-data-systems-access-populi"></a>Student Data Systems Access (Populi)
 Student records managed by the Office of the Registrar are contained in a web-based electronic database system called Populi. Other information managed by the Registrar, such as course scheduling and student accounts, are also located in the Populi system. 
 Carey has opted to use a web-based data management system so that you can have easier and more direct access to your academic records and related services. Through Populi you can:
 - Review your course history
@@ -2402,7 +2403,7 @@ These and other related functions all become available to you once you are admit
 Assistance with initial login and system access will be provided by the Office of the Registrar when you are admitted. Our team will also provide an orientation to Populi and helpful advice on using the system as part of new student orientation. 
 
 As an active student, we encourage you to login to Populi regularly. This will not only help you to become comfortable with the system, but it also means you’ll keep up with the information, news, etc., posted regularly on the Populi newsfeed.
-## UBC Learning Management System Access (Canvas)
+## <a name="ubc-learning-management-system-access-canvas"></a>UBC Learning Management System Access (Canvas)
 All Carey courses are supported by the UBC Learning Management System (LMS) Canvas. This system is obviously an essential feature in our online courses, where the class is managed largely or entirely over the internet.
 
 For Carey students, it is essential that you become familiar with and skilled in using Canvas. UBC offers a variety of training opportunities on the system. (Please note that general tech support is all managed through UBC.)
@@ -2422,7 +2423,7 @@ https://www.cwl.ubc.ca/SignUp/cwlsubscribe/SelfSubscribeIndex.do When the login 
  </ol>
 
 Once you have logged in to Canvas, your courses will appear as links to be followed. Note that courses are typically not available for full access until a few days before the course begins.
-## Traditional Library Services 
+## <a name="traditional-library-services"></a>Traditional Library Services 
 Our UBC campus location makes it easy for students who come to campus to visit other libraries in the vicinity, including the John Richard Allison Library at Regent, the H. R. McMillan Library at Vancouver School of Theology, the St Mark’s College Library, and any of the UBC libraries. The staff at each library will be happy to welcome you and to assist you. 
 
 Note, however, that access to the libraries is not the same as having borrowing privileges at each. For many years, Carey students had full borrowing rights at the Regent library, which Carey operated jointly with Regent. A change in organizational relationship in summer of 2017 means that this is no longer the case. Carey students wishing to borrow Chinese-language materials will still be granted free library cards at Regent. Other students will have to obtain their own community borrower’s card if you wish to take books out of the library. 
@@ -2435,7 +2436,7 @@ Students who do not live near UBC are encouraged to check with their local colle
 http://services.library.ubc.ca/borrowing-services/reciprocal-borrowing/
 
 To use reciprocal borrowing, students need a COPPUL (Council of Prairie and Pacific University Libraries) card. Contact David Harakal at david.harakal@ubc.ca  or phone 604-822-1443 to have a COPPUL card mailed to you. You must provide your UBC student number and other contact information.
-## Online Library Resources 
+## <a name="online-library-resources"></a>Online Library Resources 
 Online research resources are an increasingly important element in all forms of higher education; they are particularly vital for Carey classes which are offered in hybrid and online format. Two major resources are available to you as a Carey student. 
 
 The first is our EBSCO eBook collection. Carey is building an online library of eBooks for theological study in collaboration with EBSCO—one of the largest and most important suppliers of online resources for research libraries. At present we have subscribed to a major collection called “EBSCO eBooks Religion,” containing approximately 7,000 volumes, more than 6,000 of which are directly related to religion, theology, and biblical studies. In addition, we have begun to purchase individual eBooks which are strategically important for our classes and for student and faculty research. Our goal is to develop a useful, high-quality library of eBooks to support our learning community in the years to come. A Quick Guide to these resources are made available on our website and through the Office of the Registrar, providing specific information on how to login to the system and to make use of it.
@@ -2443,19 +2444,19 @@ The first is our EBSCO eBook collection. Carey is building an online library of 
 Carey students also have access to online research databases and academic (and other) journals, which are an essential resource for all graduate students. A number of standard electronic databases (including the EBSCO database, which uses the same interface as our eBook collection) are available to you through UBC. Once you have obtained your UBC library card, these can be accessed from off campus. They can be accessed while on-campus whether or not you have a UBC library card. They will connect you to eBooks in the UBC collection, and to a broad selection of full-text electronic journals including journals in biblical, theological, religious, and social science studies. Similar databases are available at the Regent and VST libraries, though you will need to access them locally through portals in our neighbor schools’ libraries. 
 
 Relevant databases include: ATLA Religion Database with ATLASerials, Catholic Periodical and Literature Index, Christian Periodical Index, New Testament Abstracts (NTA), Old Testament Abstracts (OTA), ProQuest Religion Database, and Religious and Theological Abstracts (RTA).
-## Textbooks 
+## <a name="textbooks"></a>Textbooks 
 Where possible, Carey faculty are encouraged to utilize textbooks that are available in digital form to ensure accessibility and to reduce cost.  Books may be borrowed from libraries, as mentioned above.
 
 Textbooks and other course-specific resources are an essential component of the learning process. Students are expected to obtain required textbooks for each course. These are a notable expense costing up to $150 per course. If finances are limited, students are advised to invest carefully in those essential reference works that will become a permanent and valued part of their library.
 
 Books may be obtained through local or on-line bookstores. Carey does not operate a bookstore; however the nearby Regent Bookstore at 5800 University Blvd., Vancouver is operated as a service to students and the public. The bookstore has many texts in stock and can secure titles upon order. (Email: bookstore@regent-college.edu, Phone 1-800-334-3279.)  
-## Academic Advising
+## <a name="academic-advising"></a>Academic Advising
 The key information sources for making wise academic plans are all available to you through the Carey website and related resource venues in Populi. The primary tools you will need are the Academic Catalog, your personal academic records (located in Populi), and projected course schedules (in Populi and also posted on the website). The Office of the Registrar has also set up degree audit within Populi to help you determine program requirements and which courses will fulfil those requirements.
 
 If you need help with anything relating to your program and plan—advice about course selection, resolution to problems, approval for special requests, etc.—please feel free to contact the Office of the Registrar. For advice that is specifically academic or professional in nature, and to explore the possibility of course substitutions or guided studies, you should also consider beginning by connecting the Office of the Registrar. Special requests and approvals may also need to be processed by the Office of the Registrar.
 
 Standardized forms to simplify the process of applying for transfer credit, advanced standing, guided study courses, and course substitutions are online in Populi. Other requests should be directed, in writing, to the Office of the Registrar at registrar@carey-edu.ca.  
-## Useful Forms
+## <a name="useful-forms"></a>Useful Forms
 **Financial Aid/Payment Plan Application:** At Carey Theological College, we understand that seminary study represents a significant commitment—in time and energy as well as financial resources. We are pleased that we are able to offer a variety of financial aid resources to help reduce the expense associated with study. To apply for Financial Aid for the 2021-2022 academic year, fill out the 2021-2022 Financial Aid Application Form and submit it by the late registration deadline of the intended term. Make sure you have carefully read through our Financial Aid page and understand the relevant policies and rules. Payment plan is available upon request. Please fill out the 2021-2022 Payment Plan Application Form if you require assistance this way.
 
 **Transfer/Shared Credits, Advanced Standing and Exemptions:** Students with previous theological training from a recognized institution may be eligible to receive some credit toward their program of study at Carey. Before starting the application, please read through the relevant policies on Carey's Academic Catalogue (pp.34-36). When you’re ready to apply, fill out the Transfer/Shared Credits, Advanced Standing and Exemptions Application Form. The evaluation process will take approximately 1-2 weeks upon receipt of your application and payment.
