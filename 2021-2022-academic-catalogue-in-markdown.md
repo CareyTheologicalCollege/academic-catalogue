@@ -110,7 +110,7 @@ In 1991 the residence and college were separated and renamed as Carey Theologica
  
 In 2017, Carey adopted a new strategic plan that brings together the passion, skills and expertise of our staff and faculty to be known as one entity; Carey Theological College.  As an accredited academic institution grounded in Christ-centred, biblically-faithful, and missions-focussed Christian leadership, Carey continues to be committed to offering world-class theological degrees and Christian discipleship training to the whole family of God.
 ### <a name="accreditation--affiliation"></a>Accreditation & Affiliation
-Carey Theological College is evangelical and utterly committed to Jesus Christ and His gospel. Doctrinally, it takes its position in the mainstream of evangelical Protestantism. It is committed to the historic, orthodox teachings of Christianity as revealed in the Scriptures. This theological position allows for working relationships with various churches and para-church ministries, demonstrating openness while remaining true to the Baptist community.
+<div id="accreditation--affiliation-content">Carey Theological College is evangelical and utterly committed to Jesus Christ and His gospel. Doctrinally, it takes its position in the mainstream of evangelical Protestantism. It is committed to the historic, orthodox teachings of Christianity as revealed in the Scriptures. This theological position allows for working relationships with various churches and para-church ministries, demonstrating openness while remaining true to the Baptist community.
 
 Carey is a graduate theological college and holds a charter from the Province of British Columbia to grant graduate theological degrees. Carey holds the Education Quality Assurance (EQA) designation, indicating that it meets or exceeds quality assurance standards set by the province of B.C. 
 
@@ -135,7 +135,7 @@ ATS Commission contact information is:
     Telephone: 412-788-6505  
     Fax: 412-788-6510 www.ats.edu
 
-Carey is affiliated with the University of British Columbia (www.ubc.ca) and has access to many of UBC’s facilities. Affiliation with UBC means that certain criteria must be met by Carey Theological College, but it does not mandate any scrutiny or approval of course offerings by the UBC Senate. Carey’s programs are subject to continuous approval of the Carey Senate.
+Carey is affiliated with the University of British Columbia (www.ubc.ca) and has access to many of UBC’s facilities. Affiliation with UBC means that certain criteria must be met by Carey Theological College, but it does not mandate any scrutiny or approval of course offerings by the UBC Senate. Carey’s programs are subject to continuous approval of the Carey Senate.</div>
 ### <a name="what-we-believe"></a>What We Believe
 We accept wholeheartedly the revelation of God given in the scriptures of the Old and New Testaments and confess the faith therein set forth. We here explicitly assert the doctrines which we regard as crucial to the understanding and proclamation of the Gospel and to practical Christian living:
 
