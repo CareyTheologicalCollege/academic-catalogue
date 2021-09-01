@@ -116,11 +116,13 @@ In 2017, Carey adopted a new strategic plan that brings together the passion, sk
 Carey is a graduate theological college and holds a charter from the Province of British Columbia to grant graduate theological degrees. Carey holds the Education Quality Assurance (EQA) designation, indicating that it meets or exceeds quality assurance standards set by the province of B.C. 
 
 Carey is also accredited by the Commission on Accrediting of the Association of Theological Schools in the United States and Canada (www.ats.edu). The following degree programs are ATS-approved: 
-- Doctor of Ministry (D.Min.)
-- Master of Divinity (M.Div.)
-- Master of Pastoral Ministry (MPM)
-- Master of Arts in Spiritual Formation (MASF)
-- Master of Arts in Christian Ministry (MACM)
+<ul>
+    <li>Doctor of Ministry (D.Min.)</li>
+    <li>Master of Divinity (M.Div.)</li>
+    <li>Master of Pastoral Ministry (MPM)</li>
+    <li>Master of Arts in Spiritual Formation (MASF)</li>
+    <li>Master of Arts in Christian Ministry (MACM)</li>
+    </ul>
 
 Carey Theological College is committed to credible academic scholarship and strives to maintain a high level of education in graduate ministry training. Carey is approved for a Comprehensive Distance Education Program, and is authorized to offer the MACM, MPM, and MDiv in a fully-online format.
 
