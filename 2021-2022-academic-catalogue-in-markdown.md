@@ -93,6 +93,7 @@ Table of Contents
 
 
 ## <a name="who-we-are"></a>Who We Are
+<div id="who-we-are-content">
 ### <a name="our-vision"></a>Our Vision
 Our vision is to empower faithful Christian leaders for every generation, culture, and community.
 ### <a name="our-mission"></a>Our Mission
@@ -177,7 +178,7 @@ The position of **Visiting Scholar or Research Fellow** may be offered to curren
 
 **Courtesy Faculty** are Special Faculty who serve on a volunteer basis and may participate in teaching, research, and student formation.
 
-For a list of our active faculty, please visit our website (https://carey-edu.ca/about/faculty/)
+For a list of our active faculty, please visit our website (https://carey-edu.ca/about/faculty/)</div>
 # <a name="carey-theological-college-academic-programs"></a>Carey Theological College Academic Programs
 ## <a name="academic-programs"></a>Academic Programs
 Carey offers degree programs at the masters and doctoral level, as well as diploma programs for graduate students.
