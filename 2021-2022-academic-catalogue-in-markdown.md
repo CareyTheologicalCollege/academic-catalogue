@@ -94,23 +94,23 @@ Table of Contents
 
 ## <a name="who-we-are"></a>Who We Are
 <div id="who-we-are-content">
-### <a name="our-vision"></a>Our Vision
+    <h3><a name="our-vision"></a>Our Vision</h3>
 Our vision is to empower faithful Christian leaders for every generation, culture, and community.
-### <a name="our-mission"></a>Our Mission
+    <h3><a name="our-mission"></a>Our Mission</h3>
 Our mission is to re-imagine Christian discipleship by
 - Delivering contextualized theological education
 - Building faith, character, and competency in students
 - Resourcing churches and agencies to advance their mission
 - Developing sustainable partnerships for our shared vision
-### <a name="a-ministry-of-the-canadian-baptists-of-western-canada"></a>A Ministry of The Canadian Baptists Of Western Canada
+<h3><a name="a-ministry-of-the-canadian-baptists-of-western-canada"></a>A Ministry of The Canadian Baptists Of Western Canada</h3>
 Carey Theological College is a valued resource of the Canadian Baptists of Western Canada (https://cbwc.ca/). The influence of the College extends far beyond its denominational home, as it prepares persons for the role of professional ministry, and equips laypersons for effective leadership and service.
-### <a name="history"></a>History
+    <h3><a name="history"></a>History</h3>
 Carey Hall was established in 1959 by the Province of British Columbia under the Carey Hall Act. The Convention of Baptist Churches of BC is the organizing body of Carey Hall.  Carey began operations in the summer of 1960 as a Christian witness and residence for 42 undergraduate men on the UBC campus. In 1975, a foundation for a graduate school was initiated, which led to the establishment of a Baptist graduate college in June, 1980. The Carey residences became co-ed in 1985, and continue to provide a Christian community for UBC students on campus. The college offered graduate, doctoral, and continuing-education programs of study.
 
 In 1991 the residence and college were separated and renamed as Carey Theological College and Carey Centre. Carey Institute was established in 2006 to fill an educational gap for people wanting to further their theological education and leadership skills through non-traditional means. Carey Institute hosted workshops, seminars, dialogues, skill-building, mission experiences, and short media presentations. Carey Institute also used traditional course formats and culturally contextualized theological education to prepare and equip spiritually maturing persons to integrate theological commitment with life in professional and lay ministry.
  
 In 2017, Carey adopted a new strategic plan that brings together the passion, skills and expertise of our staff and faculty to be known as one entity; Carey Theological College.  As an accredited academic institution grounded in Christ-centred, biblically-faithful, and missions-focussed Christian leadership, Carey continues to be committed to offering world-class theological degrees and Christian discipleship training to the whole family of God.
-### <a name="accreditation--affiliation"></a>Accreditation & Affiliation
+    <h3><a name="accreditation--affiliation"></a>Accreditation & Affiliation</h3>
 <div id="accreditation--affiliation-content">Carey Theological College is evangelical and utterly committed to Jesus Christ and His gospel. Doctrinally, it takes its position in the mainstream of evangelical Protestantism. It is committed to the historic, orthodox teachings of Christianity as revealed in the Scriptures. This theological position allows for working relationships with various churches and para-church ministries, demonstrating openness while remaining true to the Baptist community.
 
 Carey is a graduate theological college and holds a charter from the Province of British Columbia to grant graduate theological degrees. Carey holds the Education Quality Assurance (EQA) designation, indicating that it meets or exceeds quality assurance standards set by the province of B.C. 
@@ -159,7 +159,7 @@ We accept wholeheartedly the revelation of God given in the scriptures of the Ol
 8. The expectation of the personal, visible return of the Lord Jesus Christ, our participation in the resurrection, and the hope of eternal life.
 
 (Cf. the CBWC Statement of Faith, https://cbwc.ca/about/#statement-of-faith) 
-### <a name="faculty"></a>Faculty
+    <h3><a name="faculty"></a>Faculty</h3>
 Simply called “Faculty” in the Carey Hall Act (1959), **Core Faculty** are responsible for instruction, program and curriculum development, student formation, research and publication, and service to the college and to the larger church. Core Faculty hold the ranks of Instructor, Assistant Professor, Associate Professor or (Full) Professor. They provide academic leadership for the College.
 
 Unlike Core Faculty, **Special Faculty** do participate variously in components of the academic life  of Carey Theological College, but they do not share in the overall responsibility for  instruction, program and curriculum development, student formation, research and  publication, and service to the College and to the wider church. Special faculty are not members of Senate or voting members of faculty committees. 
