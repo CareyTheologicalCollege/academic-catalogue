@@ -1,7 +1,7 @@
 # 2021/2022
 # Academic Catalogue
 
-Version: 2
+Version: 2.1
 
 Date: May 13, 2021
 
@@ -139,7 +139,7 @@ ATS Commission contact information is:
     Fax: 412-788-6510 www.ats.edu
 
 Carey is affiliated with the University of British Columbia (www.ubc.ca) and has access to many of UBC’s facilities. Affiliation with UBC means that certain criteria must be met by Carey Theological College, but it does not mandate any scrutiny or approval of course offerings by the UBC Senate. Carey’s programs are subject to continuous approval of the Carey Senate.</div>
-### <a name="what-we-believe"></a>What We Believe
+    <h3><a name="what-we-believe"></a>What We Believe</h3>
 We accept wholeheartedly the revelation of God given in the scriptures of the Old and New Testaments and confess the faith therein set forth. We here explicitly assert the doctrines which we regard as crucial to the understanding and proclamation of the Gospel and to practical Christian living:
 
 1. The sovereignty, love, and grace of God, the Father, the Son and Holy Spirit in creation, providence, revelation, redemption and final judgment.
