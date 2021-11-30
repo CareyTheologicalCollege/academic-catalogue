@@ -1,9 +1,9 @@
 # 2021/2022
 # Academic Catalogue
 
-Version: 2.1
+Version: 3.0
 
-Date: May 13, 2021
+Date: Nov 27, 2021
 
 Table of Contents
 1. [Who We Are](#who-we-are)    
@@ -1293,8 +1293,8 @@ Course registration and tuition is due on the first day of class. If students ar
  </tr>
  <tr>
   <td>Graduation Ceremony Fee</td>
-  <td>$xxx</td>
-  <td>$xxx</td>
+  <td>$100</td>
+  <td>$100</td>
  </tr>
  <tr>
   <td>Prior Learning Assessment Evaluation Fee (mature students only)</td>
@@ -1456,7 +1456,7 @@ Admissions to each program at Carey share similar requirements with specific req
 <p><span style="font-weight: 400;">Any theological Master’s degree from an accredited institution with at least a B- average (2.7 GPA)</span></p>
 </td>
 <td rowspan="2">
-<p><span style="font-weight: 400;">MDiv or 72 graduate level credit equivalent from an ATS accredited (or equivalent) institution with at least a B+ average (3.3 GPA) plus completion of an Advanced Diploma (18 doctoral level credits) with a B + average (3.3 GPAS)</span></p>
+<p><span style="font-weight: 400;">MDiv or 72 graduate level credit equivalent from an ATS accredited (or equivalent) institution with at least a B+ average (3.3 GPA) plus completion of an Advanced Diploma (18 doctoral level credits) with a B + average (3.3 GPA)</span></p>
 </td>
 </tr>
 <tr>
@@ -1665,97 +1665,86 @@ Before initiating the admissions process with Carey it is the student’s respon
 ## <a name="key-admission-dates"></a>Key Admission Dates
 Carey Theological college offers the rolling admission, students may apply for admission and financial assistance any time of the year.  It is advised that potential students begin the process of applying early to allow sufficient time for writing essay responses and receipt of reference letters. All applicants will be reviewed monthly by the admission committee and be notified of the result. 
 
+
 <table>
+<colgroup>
+<col style="text-align:left;">
+<col style="text-align:center;">
+<col style="text-align:center;">
+<col style="text-align:center;">
+<col style="text-align:center;">
+<col style="text-align:center;">
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;"> </th>
+	<th style="text-align:center;"> Fall 2021 </th>
+	<th style="text-align:center;"> Winter 2022 </th>
+	<th style="text-align:center;"> Spring 2022 </th>
+	<th style="text-align:center;"> Summer 2022 </th>
+	<th style="text-align:center;"> Fall 2022 </th>
+</tr>
+</thead>
+
 <tbody>
 <tr>
-<td colspan="2"></td>
-<td>
-<p><span style="font-weight: 400;">Spring 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Summer 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Fall 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Winter 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Spring</span></p>
-<p><span style="font-weight: 400;">2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Summer</span></p>
-<p><span style="font-weight: 400;">2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Fall </span></p>
-<p><span style="font-weight: 400;">2022</span></p>
-</td>
+	<td style="text-align:left;"> General application and Financial Aid Deadline </td>
+	<td style="text-align:center;" colspan="5"> The last day of every month </td>
 </tr>
 <tr>
-<td colspan="2">
-<p><span style="font-weight: 400;">General application and Financial Aid Deadline</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">February 8, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Apr 26, 2021</span></p>
-</td>
-<td colspan="5">
-<p><span style="font-weight: 400;">The last day of every month. </span></p>
-</td>
+	<td style="text-align:left;"> Application Review Date </td>
+	<td style="text-align:center;" colspan="5"> Within the 1st week of every month. <br/>If it is the weekend, the committee will meet on the Friday prior to the 15th.</td>
 </tr>
 <tr>
-<td colspan="2">
-<p><span style="font-weight: 400;">Application Review Date</span></p>
-</td>
-<td></td>
-<td></td>
-<td colspan="5">
-<p><span style="font-weight: 400;">Within the 1st week of every month. Every 15th day of the month.</span></p>
-<p><span style="font-weight: 400;">If it is the weekend, the committee will meet on the Friday prior to the 15th. </span></p>
-</td>
+	<td style="text-align:left;"> Term admissions application and financial aid deadline </td>
+	<td style="text-align:center;"> August 27, 2021 </td>
+	<td style="text-align:center;"> Dec 3, 2021 </td>
+	<td style="text-align:center;"> Feb 28, 2022 </td>
+	<td style="text-align:center;"> May 27, 2022 </td>
+	<td style="text-align:center;"> Aug 26, 2022 </td>
 </tr>
 <tr>
-<td colspan="2">
-<p><span style="font-weight: 400;">Term General admissions application and financial aid deadline</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">March 8, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">May 24, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">August 272, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Dec 36, </span></p>
-<p><span style="font-weight: 400;">2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Feb 28, 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">May 27, 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Aug 26, 2022</span></p>
-</td>
+	<td style="text-align:left;"> Financial aid deadline </td>
+	<td style="text-align:center;"> Sept 13, 2021 </td>
+	<td style="text-align:center;"> Dec 20, 2021 </td>
+	<td style="text-align:center;"> Mar 14, 2022 </td>
+	<td style="text-align:center;"> Jun 13, 2021 </td>
+	<td style="text-align:center;"> Sep 12, 2022 </td>
 </tr>
 <tr>
-<td colspan="2">
-<p><span style="font-weight: 400;">Late Admissions application and</span><span style="font-weight: 400;"> financial aid deadline</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">March 29, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">June 21, 2021</span></p>
-</td>
+	<td style="text-align:left;"> Admission response sent out via email to all applicants </td>
+	<td style="text-align:center;" colspan="5"> Send by the next business day after review date </td>
+</tr>
+<tr>
+	<td style="text-align:left;"> Start of term </td>
+	<td style="text-align:center;"> Sept 27, 2021 </td>
+	<td style="text-align:center;"> Jan 3, 2022 </td>
+	<td style="text-align:center;"> Mar 28, 2022 </td>
+	<td style="text-align:center;"> Jun 27, 2022 </td>
+	<td style="text-align:center;"> Sep 26, 2022 </td>
+</tr>
+<tr>
+	<td style="text-align:left;"> End of term </td>
+	<td style="text-align:center;"> Dec 3, 2021 </td>
+	<td style="text-align:center;"> Mar 11, 2022 </td>
+	<td style="text-align:center;"> Jun 10, 2022 </td>
+	<td style="text-align:center;"> Sep 02, 2022 </td>
+	<td style="text-align:center;"> Dec 02, 2022 </td>
+</tr>
+<tr>
+	<td style="text-align:left;"> Grades to appear in Populi </td>
+	<td style="text-align:center;"> Dec 17, 2021 </td>
+	<td style="text-align:center;"> Mar 25, 2022 </td>
+	<td style="text-align:center;"> Jun 24, 2022 </td>
+	<td style="text-align:center;"> Sep 16, 2022 </td>
+	<td style="text-align:center;"> Dec 16, 2022 </td>
+</tr>
+</tbody>
+</table>
+
+
+
 <td>
 <p><span style="font-weight: 400;">Sept 1320, 2021</span></p>
 </td>
@@ -1782,102 +1771,7 @@ Carey Theological college offers the rolling admission, students may apply for a
 <td>
 <p><span style="font-weight: 400;">TBD</span></p>
 </td>
-<td>
-<p><span style="font-weight: 400;">Send by the next business day after review dateTBD</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Send by the next business day after review date</span><span style="font-weight: 400;">TBD</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Send by the next business day after review date</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Send by the next business day after review date</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Send by the next business day after review date</span></p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p><span style="font-weight: 400;">Start of term</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">April 5, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">June 28, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Sept 27, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Jan 3, 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Mar 28, 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Jun 27, 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Sep 26, 2022</span></p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p><span style="font-weight: 400;">End of term</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">June 11, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Sept 3, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Dec 3, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Mar 11, 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Jun 10, 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Sep 02, 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Dec 02, 2022</span></p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p><span style="font-weight: 400;">Grades to appear in Populi</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">June 25, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Sept 17, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Dec 17, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Mar 25, 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Jun 24, 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Sep 16, 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Dec 16, 2022</span></p>
-</td>
-</tr>
-</tbody>
-</table>
+
 
 ## <a name="language-requirements-for-admission"></a>Language Requirements for Admissions
 
@@ -1946,7 +1840,7 @@ These are students who have met all program admissions requirements and who have
 ### <a name="full-time-student-designation"></a>Full Time Student Designation
 For external purposes , full-time study is defined as 27 credit hours per academic year (September to August) or 9 credit hours per term for 3 terms in a school year.
 ### <a name="inactive-students--leave-of-absence "></a>Inactive Students & Leave of Absence
-Students who do not complete 6 credits of coursework within two sequential each academic years will be classified as inactive. In order to retain active student status within the degree program, students must apply for a leave of absence via the Office of the Registrar. A maximum of 2 extensions will be granted over the duration of the student’s program. (See the fee table under Financial Information for more details concerning the extension fee.) After a 3-year period of inactivity, the student will be removed from the program roster. If the student wishes to reactivate their status, a letter outlining the reasons for inactivity and desire to continue studies must be submitted and approved to the Office of the Registrar. 
+Students who do not complete 6 credits of coursework within two sequential academic years will be classified as inactive. In order to retain active student status within the degree program, students must apply for a leave of absence via the Office of the Registrar. A maximum of 2 extensions will be granted over the duration of the student’s program. (See the fee table under Financial Information for more details concerning the extension fee.) After a 3-year period of inactivity, the student will be removed from the program roster. If the student wishes to reactivate their status, a letter outlining the reasons for inactivity and desire to continue studies must be submitted and approved to the Office of the Registrar. 
 
 ### <a name="unclassified-and-visiting-students"></a>Unclassified and Visiting Students
 Students from other ATS accredited colleges taking courses from Carey for transfer credit are classified as “visiting students” and do not need to make a formal application. Normally a Letter of Permission from the student’s school is used to grant access to Carey courses.
@@ -2252,7 +2146,45 @@ Plagiarism takes a variety of forms, and it comes in different degrees of severi
 
 3. Severe plagiarism involves presentation of an entire essay or project as the student’s own work when in fact it was produced by another. Severe plagiarism automatically results in a failing grade for the course. A written reprimand will be given, with a copy kept in the student’s file. A repeated offense will result in expulsion from the seminary. 
 
-Where faculty identify clear cases of substantial or severe plagiarism, they will keep written documentation of the offending materials and provide a copy of relevant information to the Office of the Registrar. Records of institutional action and follow-up will also be maintained in the student’s file.
+Where faculty identify clear cases of substantial or severe plagiarism, they will keep written documentation of the offending materials and provide a copy of relevant information to the Office of the Registrar. Records of institutional action and follow-up will also be maintained in the student’s file. For any cases of plagiarism reported by faculty to the Registrar’s Office, penalties will follow the chart below.
+
+<table>
+<colgroup>
+<col style="text-align:left;">
+<col style="text-align:left;">
+<col style="text-align:left;">
+<col style="text-align:left;">
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;"> Kind of Plagiarism </th>
+	<th style="text-align:left;"> Consequences for the First Offense </th>
+	<th style="text-align:left;"> Consequences for the Second Offense </th>
+	<th style="text-align:left;"> Consequences for the Third Offense </th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;"> <strong>Substantial Plagiarism</strong> </td>
+	<td style="text-align:left;"> Failure of the Assignment<br>&nbsp;<br> Academic Probation </td>
+	<td style="text-align:left;"> Failure of the Assignment and the Course <br>&nbsp;<br>Academic Probation or Suspension </td>
+	<td style="text-align:left;"> Failure of the Assignment and the Course<br>&nbsp;<br>Expulsion from Seminary </td>
+</tr>
+<tr>
+	<td style="text-align:left;"> <strong>Severe Plagiarism</strong> </td>
+	<td style="text-align:left;"> Failure of Assignment and of the Course<br>&nbsp;<br>Academic Probation or Suspension </td>
+	<td style="text-align:left;"> Failure of the Assignment and the Course<br>&nbsp;<br>Expulsion from the Seminary </td>
+	<td style="text-align:left;"> N/A </td>
+</tr>
+<tr>
+	<td style="text-align:left;"> </td><td colspan="4"> <strong>Note:</strong> It is recommended that the first case of severe plagiarism be equally weighted to a case of substantial plagiarism in calculating the consequences of second and third offenses of substantial plagiarism. In other words, one case of substantial plagiarism and one case of severe plagiarism may result in academic probation or suspension, but not expulsion. </td>
+</tr>
+</tbody>
+</table>
+
+
 ## <a name="research-ethics"></a>Research Ethics
 All research involving data-gathering from human subjects (through surveys, interviews, etc.) for Carey courses and programs must conform to the current Carey policy on research ethics, which is available from the Registrar’s Office and will be distributed at new student orientation. This is particularly important for the DMin program, but has implications for other students whose research interests may potentially intersect with current Canadian privacy legislation and related academic policies at Carey, UBC, and in the Canadian higher education community.
 ## <a name="academic-appeals"></a>Academic Appeals
@@ -2387,7 +2319,7 @@ https://www.iubenda.com/privacy-policy/7883032
 
 # <a name="student-resources"></a>Student Resources
 ## <a name="id-cards"></a>ID Cards 
-A student ID card will be provided to all students who have been accepted into a for-credit program of study, and who are currently enrolled in a course. (UBC U-Pass cards are not available to Carey students.) Please remember to upload a current picture to your Populi profile to assist us with this.
+Upon request, student ID cards may be provided to all students who have been accepted into a for-credit program of study, and who are currently enrolled in a course. (UBC U-Pass cards are not available to Carey students.) Please remember to upload a current picture to your Populi profile to assist us with this.
 
 Current Carey students are also eligible to receive a UBC library card, providing borrowing privileges as well as access to UBC online databases and resources.
 ## <a name="student-data-systems-access-populi"></a>Student Data Systems Access (Populi)
@@ -2460,14 +2392,14 @@ If you need help with anything relating to your program and plan—advice about 
 
 Standardized forms to simplify the process of applying for transfer credit, advanced standing, guided study courses, and course substitutions are online in Populi. Other requests should be directed, in writing, to the Office of the Registrar at registrar@carey-edu.ca.  
 ## <a name="useful-forms"></a>Useful Forms
-**Financial Aid/Payment Plan Application:** At Carey Theological College, we understand that seminary study represents a significant commitment—in time and energy as well as financial resources. We are pleased that we are able to offer a variety of financial aid resources to help reduce the expense associated with study. To apply for Financial Aid for the 2021-2022 academic year, fill out the 2021-2022 Financial Aid Application Form and submit it by the late registration deadline of the intended term. Make sure you have carefully read through our Financial Aid page and understand the relevant policies and rules. Payment plan is available upon request. Please fill out the 2021-2022 Payment Plan Application Form if you require assistance this way.
+**Financial Aid/Payment Plan Application:** At Carey Theological College, we understand that seminary study represents a significant commitment—in time and energy as well as financial resources. We are pleased that we are able to offer a variety of financial aid resources to help reduce the expense associated with study. To apply for Financial Aid for the 2021-2022 academic year, fill out the [2021-2022 Financial Aid Application Form](https://carey.populiweb.com/router/admissions/onlineapplications/index?application_form=36056) and submit it by the late registration deadline of the intended term. Make sure you have carefully read through [our Financial Aid page](https://carey-edu.ca/student-services/tuition-and-financial-aid-fall-2021/) and understand the relevant policies and rules. Payment plan is available upon request. Please fill out the [2021-2022 Payment Plan Application Form](https://carey.populiweb.com/router/admissions/onlineapplications/index?application_form=36338) if you require assistance this way.
 
-**Transfer/Shared Credits, Advanced Standing and Exemptions:** Students with previous theological training from a recognized institution may be eligible to receive some credit toward their program of study at Carey. Before starting the application, please read through the relevant policies on Carey's Academic Catalogue (pp.34-36). When you’re ready to apply, fill out the Transfer/Shared Credits, Advanced Standing and Exemptions Application Form. The evaluation process will take approximately 1-2 weeks upon receipt of your application and payment.
+**Transfer/Shared Credits, Advanced Standing and Exemptions:** Students with previous theological training from a recognized institution may be eligible to receive some credit toward their program of study at Carey. Before starting the application, please read through the relevant policies on Carey's Academic Catalogue (pp.34-36). When you’re ready to apply, fill out the [Transfer/Shared Credits, Advanced Standing and Exemptions Application Form](https://carey.populiweb.com/router/admissions/onlineapplications/index?application_form=36443). The evaluation process will take approximately 1-2 weeks upon receipt of your application and payment.
 
-**Withdrawal/Leave of Absence:** Students who wish to withdraw from a course must first submit a Withdrawal Form; Students who do not complete 6 credits of coursework within two sequential academic years will be classified as inactive. In order to retain active student status within the degree program, students must apply for a leave of absence by submitting the Leave of Absence Application Form.
+**Withdrawal/Leave of Absence:** Students who wish to withdraw from a course must first submit [a Withdrawal Form](https://carey.populiweb.com/router/admissions/onlineapplications/index?application_form=36218); Students who do not complete 6 credits of coursework within two sequential academic years will be classified as inactive. In order to retain active student status within the degree program, students must apply for a leave of absence by submitting the [Leave of Absence Application Form](https://carey.populiweb.com/router/admissions/onlineapplications/index?application_form=36230).
 
-**Change of Specialization/Program:** Students who wish to change their streams of study or switch to a different Master’s program (excluding MDiv) from another Master’s program can do so by submitting the Program Switch Application Form.
+**Change of Specialization/Program:** Students who wish to change their streams of study or switch to a different Master’s program (excluding MDiv) from another Master’s program can do so by submitting the [Program Switch Application Form](https://carey.populiweb.com/router/admissions/onlineapplications/index?application_form=36435).
 
-**Apply for Graduation:** All Carey students must apply for graduation prior to receiving official transcripts and diplomas by submitting an Graduation Application Form. This notifies the Registrar's Office of your intention to graduate and allows us to conduct an audit of your program history to verify your eligibility.
+**Apply for Graduation:** All Carey students must apply for graduation prior to receiving official transcripts and diplomas by submitting an [Graduation Application Form](https://carey.populiweb.com/router/admissions/onlineapplications/index?application_form=35654). This notifies the Registrar's Office of your intention to graduate and allows us to conduct an audit of your program history to verify your eligibility.
 
 Letter of Permission (TBC)
