@@ -2146,7 +2146,45 @@ Plagiarism takes a variety of forms, and it comes in different degrees of severi
 
 3. Severe plagiarism involves presentation of an entire essay or project as the student’s own work when in fact it was produced by another. Severe plagiarism automatically results in a failing grade for the course. A written reprimand will be given, with a copy kept in the student’s file. A repeated offense will result in expulsion from the seminary. 
 
-Where faculty identify clear cases of substantial or severe plagiarism, they will keep written documentation of the offending materials and provide a copy of relevant information to the Office of the Registrar. Records of institutional action and follow-up will also be maintained in the student’s file.
+Where faculty identify clear cases of substantial or severe plagiarism, they will keep written documentation of the offending materials and provide a copy of relevant information to the Office of the Registrar. Records of institutional action and follow-up will also be maintained in the student’s file. For any cases of plagiarism reported by faculty to the Registrar’s Office, penalties will follow the chart below.
+
+<table>
+<colgroup>
+<col style="text-align:left;">
+<col style="text-align:left;">
+<col style="text-align:left;">
+<col style="text-align:left;">
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;"> Kind of Plagiarism </th>
+	<th style="text-align:left;"> Consequences for the First Offense </th>
+	<th style="text-align:left;"> Consequences for the Second Offense </th>
+	<th style="text-align:left;"> Consequences for the Third Offense </th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;"> <strong>Substantial Plagiarism</strong> </td>
+	<td style="text-align:left;"> Failure of the Assignment<br>&nbsp;<br> Academic Probation </td>
+	<td style="text-align:left;"> Failure of the Assignment and the Course <br>&nbsp;<br>Academic Probation or Suspension </td>
+	<td style="text-align:left;"> Failure of the Assignment and the Course<br>&nbsp;<br>Expulsion from Seminary </td>
+</tr>
+<tr>
+	<td style="text-align:left;"> <strong>Severe Plagiarism</strong> </td>
+	<td style="text-align:left;"> Failure of Assignment and of the Course<br>&nbsp;<br>Academic Probation or Suspension </td>
+	<td style="text-align:left;"> Failure of the Assignment and the Course<br>&nbsp;<br>Expulsion from the Seminary </td>
+	<td style="text-align:left;"> N/A </td>
+</tr>
+<tr>
+	<td style="text-align:left;"> </td><td colspan="4"> <strong>Note:</strong> It is recommended that the first case of severe plagiarism be equally weighted to a case of substantial plagiarism in calculating the consequences of second and third offenses of substantial plagiarism. In other words, one case of substantial plagiarism and one case of severe plagiarism may result in academic probation or suspension, but not expulsion. </td>
+</tr>
+</tbody>
+</table>
+
+
 ## <a name="research-ethics"></a>Research Ethics
 All research involving data-gathering from human subjects (through surveys, interviews, etc.) for Carey courses and programs must conform to the current Carey policy on research ethics, which is available from the Registrar’s Office and will be distributed at new student orientation. This is particularly important for the DMin program, but has implications for other students whose research interests may potentially intersect with current Canadian privacy legislation and related academic policies at Carey, UBC, and in the Canadian higher education community.
 ## <a name="academic-appeals"></a>Academic Appeals
