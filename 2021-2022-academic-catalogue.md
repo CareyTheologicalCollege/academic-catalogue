@@ -2102,7 +2102,8 @@ A high standard of academic integrity is expected of all Carey Theological Colle
 
 - Using unauthorized aids of any sort in examinations, completing work in unauthorized collaboration with others, or the unauthorized recording and use of class lectures are all examples of breaches in academic integrity.
 
-Penalty for a lack of academic integrity may include a failing grade in the assignment, examination or course, depending on the severity of the offense. All students are responsible for knowing and practicing academic integrity. 
+Penalty for a lack of academic integrity may include a failing grade in the assignment, examination or course, depending on the severity of the offense. All students are responsible for knowing and practicing academic integrity.
+
 ## <a name="plagiarism"></a>Plagiarism
 A more detailed statement of policy and procedures relating to plagiarism is available from the Office of the Registrar. The most pertinent elements have been replicated here. For more information on academic integrity and plagiarism in the wider UBC context, see also http://learningcommons.ubc.ca/resource-guides/avoid-plagiarism/.
 
@@ -2117,6 +2118,7 @@ Plagiarism takes a variety of forms, and it comes in different degrees of severi
 3. Severe plagiarism involves presentation of an entire essay or project as the student’s own work when in fact it was produced by another.
 
 Where faculty identify clear cases of substantial or severe plagiarism, they will keep written documentation of the offending materials and provide a copy of relevant information to the Office of the Registrar. Records of institutional action and follow-up will also be maintained in the student’s file. For any cases of plagiarism reported by faculty to the Registrar’s Office, penalties will follow the chart below.
+
 
 <table>
 <colgroup>
