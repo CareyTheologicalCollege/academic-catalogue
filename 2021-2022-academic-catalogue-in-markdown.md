@@ -51,7 +51,7 @@ Table of Contents
         2. [Full Time Student Designation](#full-time-student-designation)
         3. [Inactive Students & Leave of Absence](#inactive-students--leave-of-absence)
         4. [Unclassified and Visiting Students](#unclassified-and-visiting-students)
-        5. [Occasional Student Status](#occasional-student-status)
+        5. [Undeclared Student Status](#undeclared-student-status)
         6. [Mature Student Status](#mature-student-status)
         7. [Continuing Education Credit Registration (CBWC)](#continuing-education-credit-registration-cbwc)
         8. [International Students](#international-students)
@@ -1742,36 +1742,6 @@ Carey Theological college offers the rolling admission, students may apply for a
 </tr>
 </tbody>
 </table>
-
-
-
-<td>
-<p><span style="font-weight: 400;">Sept 1320, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Dec 2027, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Mar 14, 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Jun 13, 2021</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Sep 12, 2022</span></p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p><span style="font-weight: 400;">Admission response Acceptance letters sent out via email to all successful applicants</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">TBD</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">TBD</span></p>
-</td>
-
 
 ## <a name="language-requirements-for-admission"></a>Language Requirements for Admissions
 
