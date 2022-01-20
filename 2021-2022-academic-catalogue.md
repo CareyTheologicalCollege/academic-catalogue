@@ -3,7 +3,7 @@
 
 Version: 3.0
 
-Date: Nov 27, 2021
+Date: Jan 14, 2022
 
 Table of Contents
 1. [Who We Are](#who-we-are)    
@@ -575,7 +575,7 @@ Students who wish to be placed with Canadian Baptists of Western Canada churches
 <p><span style="font-weight: 400;">APPL 801</span></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Supervised-Ministry / Peer-Learning for Ministry</span></p>
+<p><span style="font-weight: 400;">Guided Peer-Learning for Ministry 1</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">This course is part of the field education requirement designed for students who are engaged in active ministry. Students will engage in critical theological reflection on real life issues pertaining to their particular ministry contexts. An experienced pastoral mentor or faculty member will walk alongside the students in this peer learning journey.</span></p>
@@ -586,7 +586,7 @@ Students who wish to be placed with Canadian Baptists of Western Canada churches
 <p><span style="font-weight: 400;">APPL 802</span></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Theological Integration Project for Mission &amp; Ministry</span></p>
+<p><span style="font-weight: 400;">Guided Peer-Learning for Ministry 2</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">In this course you will design and develop a major project in a subject area that serves your interests and ministry needs. This project will be a summative exercise appropriate to your degree program, integrating relevant research, biblical and theological reflection, critical thinking and problem-solving, contextual application, and effective presentation. This course is normally  taken in the final year of your Masters Degree at Carey.</span></p>
@@ -1862,9 +1862,9 @@ Students who wish to apply courses from another institution toward a Carey progr
 There is a fee for processing a Letter of Permission for transfer credits. See Schedule of Fees.
 Carey course offerings are published in advance so that students may plan their course load to fulfill the requirements of their program. Students should note the maximum number of transfer credits that are acceptable.
 
-Maximum combined shared/transferred credits from another accredited seminary or religious institution that can be applied to a Carey degree program: DMin: 9;  MDiv: 36;  MACM, MPM, MASF: 24; Diploma: 6.
+Maximum combined shared/transferred credits from another accredited seminary or religious institution that can be applied to a Carey degree program: ADP: 6;  MDiv: 36;  MACM, MPM, MASF: 24; Diploma: 6.
 
-Maximum combined shared/transferred credits earned at Carey that can be applied to a Carey degree program: DMin: 18 MDiv: 48;  MACM, MPM, MASF: 30; Diploma: 15.  
+Maximum combined shared/transferred credits earned at Carey that can be applied to a Carey degree program: ADP: 12 MDiv: 48;  MACM, MPM, MASF: 30; Diploma: 15.  
 ### <a name="shared-credit"></a>Shared Credit
 Where a student has completed a graduate academic program at another accredited seminary or religious institution, and a particular course taken as part of that program can be shown to have specific relevance to one’s master’s program at Carey, shared credits may be awarded. Shared credits function similarly to transfer credits; however, because they are applied simultaneously to two different degrees, accreditation standards place stricter limits on the number of shared credits that can be applied. 
 
@@ -1878,13 +1878,13 @@ Please note that credits granted through Advanced Standing assessment are equiva
 
 Students are not permitted to register in courses for which they have been granted Advanced Standing with Credit.
 
-Maximum Advanced Standing credits: DMin: 9; MDiv: 24;  MACM, MPM, MASF: 15; Diploma: 6
+Maximum Advanced Standing credits: ADP: 6; MDiv: 24;  MACM, MPM, MASF: 15; Diploma: 6
 ### <a name="exemption"></a>Exemption
 Exemption is when a student is not required to enrol in a required course based on extensive relevant experience. An exemption does not reduce the overall number of credits required for the program. The required credits must be replaced with an alternative course; typically from a course in the same discipline or upon approval by the Office of the Registrar.
 
 Students are not permitted to register in courses for which they have been granted Exemptions.
 
-Exemptions are treated the same as Advanced Standing with Credit in regards to the total number of combined Exemptions and Advanced Standing with which Credit must not exceed: DMin: 9; MDiv: 24;  MACM, MPM, MASF: 15; Diploma: 6.
+Exemptions are treated the same as Advanced Standing with Credit in regards to the total number of combined Exemptions and Advanced Standing with which Credit must not exceed: ADP: 6; MDiv: 24;  MACM, MPM, MASF: 15; Diploma: 6.
 
 # <a name="course-registration"></a>Course Registration
 Students are advised to register a minimum of one month prior to the beginning of the term. Some courses require reading or work to be posted or submitted on the first week online, so students are advised to check the course syllabi for all the course requirements. It should be noted that both the required and elective courses can be changed by Senate decision without public notice.
