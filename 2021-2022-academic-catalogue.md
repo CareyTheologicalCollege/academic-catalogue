@@ -470,7 +470,7 @@ The Occasional Student Program enables a student to take up to three courses (ma
 
 ### <a name="students-from-canadian-baptists-of-western-canada-cbwc-churches-anticipating-professional-ministry"></a>Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Ministry
 Students who wish to be placed with Canadian Baptists of Western Canada churches or its ministries, or who wish to apply to Canadian Baptist Ministries, should identify themselves on the application form. The Office of the Registrar will provide further and current information regarding the process toward recognition as a ‘Ministerial Candidate’ (as well as validation for assistance from student aid funds).
-## <a name="course-description"></a>Course Descriptions
+## <a name="course-descriptions"></a>Course Descriptions
 
 <table>
 <tbody>
