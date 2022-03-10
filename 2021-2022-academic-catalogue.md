@@ -151,7 +151,7 @@ We accept wholeheartedly the revelation of God given in the scriptures of the Ol
 <li>The church as set forth in the New Testament and understood historically by the Baptist community.</li>
 <li>The expectation of the personal, visible return of the Lord Jesus Christ, our participation in the resurrection, and the hope of eternal life.</li>
 </ol>
-(Cf. the CBWC Statement of Faith, https://cbwc.ca/about/#statement-of-faith) 
+(Cf. <a href="https://cbwc.ca/about/#statement-of-faith">the CBWC Statement of Faith</a>) 
     <h3><a name="faculty"></a>Faculty</h3>
 <p>Simply called “Faculty” in the Carey Hall Act (1959), <strong>Core Faculty</strong> are responsible for instruction, program and curriculum development, student formation, research and publication, and service to the college and to the larger church. Core Faculty hold the ranks of Instructor, Assistant Professor, Associate Professor or (Full) Professor. They provide academic leadership for the College.</p>
 
