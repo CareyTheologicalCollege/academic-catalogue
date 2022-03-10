@@ -141,44 +141,37 @@ ATS Commission contact information is:
 Carey is affiliated with the University of British Columbia (www.ubc.ca) and has access to many of UBC’s facilities. Affiliation with UBC means that certain criteria must be met by Carey Theological College, but it does not mandate any scrutiny or approval of course offerings by the UBC Senate. Carey’s programs are subject to continuous approval of the Carey Senate.</div>
     <h3><a name="what-we-believe"></a>What We Believe</h3>
 We accept wholeheartedly the revelation of God given in the scriptures of the Old and New Testaments and confess the faith therein set forth. We here explicitly assert the doctrines which we regard as crucial to the understanding and proclamation of the Gospel and to practical Christian living:
-
-1. The sovereignty, love, and grace of God, the Father, the Son and Holy Spirit in creation, providence, revelation, redemption and final judgment.
-
-2. The divine inspiration of Holy Scripture and its entire trustworthiness and supreme authority in all matters of faith and conduct.
-
-3. The value of each human being as created by God. The universal sinfulness of humankind since the fall, which alienates all from God and subjects all to condemnation.
-
-4. The full deity and humanity of the Lord Jesus Christ, the incarnate Son of God, whose substitutionary sacrifice is the sole ground of redemption from the guilt, penalty and power of sin.
-
-5. The justification of the sinner by the grace of God through faith alone in Christ crucified and risen from the dead.
-
-6. The illuminating, regenerating, indwelling and sanctifying work of God, the Holy Spirit, in the believer.
-
-7. The church as set forth in the New Testament and understood historically by the Baptist community.
-
-8. The expectation of the personal, visible return of the Lord Jesus Christ, our participation in the resurrection, and the hope of eternal life.
-
+<ol>
+<li>The sovereignty, love, and grace of God, the Father, the Son and Holy Spirit in creation, providence, revelation, redemption and final judgment.</li>
+<li>The divine inspiration of Holy Scripture and its entire trustworthiness and supreme authority in all matters of faith and conduct.</li>
+<li>The value of each human being as created by God. The universal sinfulness of humankind since the fall, which alienates all from God and subjects all to condemnation.</li>
+<li>The full deity and humanity of the Lord Jesus Christ, the incarnate Son of God, whose substitutionary sacrifice is the sole ground of redemption from the guilt, penalty and power of sin.</li>
+<li>The justification of the sinner by the grace of God through faith alone in Christ crucified and risen from the dead.</li>
+<li>The illuminating, regenerating, indwelling and sanctifying work of God, the Holy Spirit, in the believer.</li>
+<li>The church as set forth in the New Testament and understood historically by the Baptist community.</li>
+<li>The expectation of the personal, visible return of the Lord Jesus Christ, our participation in the resurrection, and the hope of eternal life.</li>
+</ol>
 (Cf. the CBWC Statement of Faith, https://cbwc.ca/about/#statement-of-faith) 
     <h3><a name="faculty"></a>Faculty</h3>
-Simply called “Faculty” in the Carey Hall Act (1959), **Core Faculty** are responsible for instruction, program and curriculum development, student formation, research and publication, and service to the college and to the larger church. Core Faculty hold the ranks of Instructor, Assistant Professor, Associate Professor or (Full) Professor. They provide academic leadership for the College.
+<p>Simply called “Faculty” in the Carey Hall Act (1959), <strong>Core Faculty</strong> are responsible for instruction, program and curriculum development, student formation, research and publication, and service to the college and to the larger church. Core Faculty hold the ranks of Instructor, Assistant Professor, Associate Professor or (Full) Professor. They provide academic leadership for the College.</p>
 
-Unlike Core Faculty, **Special Faculty** do participate variously in components of the academic life  of Carey Theological College, but they do not share in the overall responsibility for  instruction, program and curriculum development, student formation, research and  publication, and service to the College and to the wider church. Special faculty are not members of Senate or voting members of faculty committees. 
+<p>Unlike Core Faculty, <strong>Special Faculty</strong> do participate variously in components of the academic life  of Carey Theological College, but they do not share in the overall responsibility for  instruction, program and curriculum development, student formation, research and  publication, and service to the College and to the wider church. Special faculty are not members of Senate or voting members of faculty committees.</p>
 
-The Special Faculty position of **Professors of Practice** is reserved for practitioners in relevant  fields in ministry with a minimum of 20 years of professional experience related to the field of  teaching and being widely recognized by one’s peers.
+<p>The Special Faculty position of <strong>Professors of Practice</strong> is reserved for practitioners in relevant  fields in ministry with a minimum of 20 years of professional experience related to the field of  teaching and being widely recognized by one’s peers.</p>
 
-**Adjunct Faculty** are Special Faculty who are invited to teach or co-teach regularly in subject  areas or courses that supplement the expertise of the Carey Core Faculty. They may be  responsible for academic activities related to the ongoing educational programming of the  College, such as teaching, student supervision, mentorship, or any combination of the above.
+<p><strong>Adjunct Faculty</strong> are Special Faculty who are invited to teach or co-teach regularly in subject  areas or courses that supplement the expertise of the Carey Core Faculty. They may be  responsible for academic activities related to the ongoing educational programming of the  College, such as teaching, student supervision, mentorship, or any combination of the above.</p>
  
-The Special Faculty position of **Visiting Instructor** may be offered to faculty members from  other theological education institutions who join the teaching community of Carey Theological  College for a limited period during their sabbatical or leave.
+<p>The Special Faculty position of <strong>Visiting Instructor</strong> may be offered to faculty members from  other theological education institutions who join the teaching community of Carey Theological  College for a limited period during their sabbatical or leave.</p>
 
-**Sessional Instructors** are Special Faculty who have been hired to teach a specific course or courses within the academic curriculum.
+<p><strong>Sessional Instructors</strong> are Special Faculty who have been hired to teach a specific course or courses within the academic curriculum.</p>
 
-The Special Faculty position of **Affiliate Faculty** is granted to a person who has a track record  for teaching and research and may maintain a record of academic, pastoral or missionary service through their involvement at other institutions. Affiliate Faculty may support the teaching mission of Carey Theological College through targeted research projects, the creation of Carey learning resources for students and churches, student supervision for guided studies, capstone projects, or doctoral thesis projects.
+<p>The Special Faculty position of <strong>Affiliate Faculty</strong> is granted to a person who has a track record for teaching and research and may maintain a record of academic, pastoral or missionary service through their involvement at other institutions. Affiliate Faculty may support the teaching mission of Carey Theological College through targeted research projects, the creation of Carey learning resources for students and churches, student supervision for guided studies, capstone projects, or doctoral thesis projects.</p>
 
-Upon recommendation of the Core Faculty, the President, the Chair of the Board of  Administration and the Senate, an appointment to the position of **Professor Emeritus** may be made by the Board of a retiring faculty member having a lengthy and meritorious record of service to Carey and demonstrating an ongoing commitment to the educational mission and strategic direction of the College.
+<p>Upon recommendation of the Core Faculty, the President, the Chair of the Board of  Administration and the Senate, an appointment to the position of <strong>Professor Emeritus</strong> may be made by the Board of a retiring faculty member having a lengthy and meritorious record of service to Carey and demonstrating an ongoing commitment to the educational mission and strategic direction of the College.</p>
 
-The position of **Visiting Scholar or Research Fellow** may be offered to current or retired faculty  members from other theological education institutions or independent Christian researchers who are invited to contribute to Carey’s targeted institutional research and development  projects.
+<p>The position of <strong>Visiting Scholar or Research Fellow</strong> may be offered to current or retired faculty  members from other theological education institutions or independent Christian researchers who are invited to contribute to Carey’s targeted institutional research and development  projects.</p>
 
-**Courtesy Faculty** are Special Faculty who serve on a volunteer basis and may participate in teaching, research, and student formation.
+<p><strong>Courtesy Faculty</strong> are Special Faculty who serve on a volunteer basis and may participate in teaching, research, and student formation.</p>
 
 For a list of our active faculty, please visit our website (https://carey-edu.ca/about/faculty/)</div>
 # <a name="carey-theological-college-academic-programs"></a>Carey Theological College Academic Programs
