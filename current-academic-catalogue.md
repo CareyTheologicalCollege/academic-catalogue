@@ -4,7 +4,7 @@
 Version: 3.0
 
 Date: Jan 14, 2022
-Small bit
+
 Another small bit
 Last small bit
 Table of Contents
