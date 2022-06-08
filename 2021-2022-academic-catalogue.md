@@ -1,7 +1,7 @@
 # 2021/2022
 # Academic Catalogue
 
-Version: 3.0
+Version: 3.1
 
 Date: Jan 14, 2022
 
