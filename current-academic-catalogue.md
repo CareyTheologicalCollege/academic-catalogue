@@ -4,8 +4,7 @@
 Version: 3.0
 
 Date: Jan 14, 2022
-Small bits are back
-Last small bit
+
 Table of Contents
 1. [Who We Are](#who-we-are)    
     1. [Our Vision](#our-vision)
