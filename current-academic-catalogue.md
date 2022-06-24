@@ -1736,7 +1736,7 @@ Carey Theological college offers the rolling admission, students may apply for a
 </tbody>
 </table>
 
-## <a name="language-requirements-for-admission"></a>Language Requirements for Admissions
+## <a name="language-requirements-for-admissions"></a>Language Requirements for Admissions
 
 English, Cantonese, Mandarin and Spanish (CETI program) are the primary languages of instruction at Carey Theological College.
 
