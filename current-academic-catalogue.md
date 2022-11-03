@@ -1,9 +1,9 @@
-# 2021/2022
+# Carey Theological College
 # Academic Catalogue
 
-Version: 3.0
+Version: 4.0
 
-Date: Jan 14, 2022
+Date: Sept 8, 2022
 
 Table of Contents
 1. [Who We Are](#who-we-are)    
@@ -25,7 +25,7 @@ Table of Contents
         4. [Diploma Program Specific Requirements](#diploma-program-specific-requirements)
         5. [Accelerated Bachelor’s and Master’s Program Specific Requirements](#accelerated-bachelors-and-masters-program-specific-requirements)
         6. [Occasional Student Program Specific Requirements](#occasional-student-program-specific-requirements)
-        7. [Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Ministry](#students-from-canadian-baptists-of-western-canada-cbwc-churches-anticipating-professional-ministry)
+        7. [Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Student Ministry](#students-from-canadian-baptists-of-western-canada-cbwc-churches-anticipating-professional-student-ministry)
     4. [Course Descriptions](#course-descriptions)
 3. [Graduation Requirements](#graduation-requirements)    
     1. [Additional Graduation Requirements for Doctor of Ministry](#additional-graduation-requirements-for-doctor-of-ministry)
@@ -276,7 +276,7 @@ Carey offers degree programs at the masters and doctoral level, as well as diplo
 <tr>
 <td></td>
 <td>
-<p><span style="font-weight: 400;">MASF – Master of Arts in Spiritual Formation: a degree focusing on spiritual growth and leadership nurtures personal spiritual formation, provides skills and tools to lead others in spiritual formation.</span></p>
+<p><span style="font-weight: 400;">Master of Arts in Spiritual Formation (MASF): a degree focusing on spiritual growth and leadership nurtures personal spiritual formation, provides skills and tools to lead others in spiritual formation.</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">48</span></p>
@@ -408,15 +408,17 @@ Carey’s learning outcomes are common for all programs and degrees but the exte
 
 The common learning outcomes include the following:
 
-1. Articulate the foundational biblical content of both Old and New Testaments, including their original cultural and historical context.
+1. Biblical Knowledge. **Graduates demonstrate knowledge of biblical texts in relation to their historical, literary, and canonical contexts.**
 
-2. Articulate the effective application of evangelical hermeneutical tools to the Old and New Testaments, producing effective preaching and teaching for the church in its multigenerational context and multicultural mission.
+2. Biblical Interpretation. **Graduates exercise hermeneutical skill in the interpretation of the Bible for Christian discipleship, ministry, and mission.**
 
-3. Articulate the major doctrines of the Christian faith (content), including their biblical basis, historical context, denominational significance and cultural relevance today.
+3. **Historical and Theological Knowledge. Graduates demonstrate knowledge of major doctrines of Christian theology and major developments in the history of Christianity in their relevant contexts.**
 
-4. Identify sustainable spiritual practices and character qualities for Christian ministry in areas such as spiritual formation, evangelism, administration, teaching, counselling and worship for service in the Canadian Baptist (or equivalent) tradition.
+4. Historical and Theological Application. **Graduates demonstrate methodological and interpretive skill in the application of theology and history for Christian discipleship, mission, and ministry.**
 
-5. Demonstrate ministry competency and their application through self understanding, interpersonal skills, community leadership, and an articulation of Christian leadership vocation and ethic in the Canadian Baptist (or equivalent) tradition.
+5. Formation. **Graduates identify and develop practices that cultivate life with God, love of neighbor, personal wellness, and joy in vocation.**
+
+6. Ministry & Witness. **Graduates demonstrate skills to build up the body of Christ for ministry and witness in a complex world.**
 
 ## <a name="archiving-student-assignments-for-assessment-purposes"></a>Archiving Student Assignments for Assessment Purposes
 All ATS-accredited schools must perform an annual assessment of our educational effectiveness. This includes evaluating the success of our student body in accomplishing program learning outcomes, by reviewing a selection of assignments submitted by students.
@@ -461,7 +463,7 @@ The Occasional Student Program is intended for potential students to “test the
 
 The Occasional Student Program enables a student to take up to three courses (maximum two courses per term).  Students must demonstrate the ability to maintain their academic performance by achieving a B- (2.7 GPA) during their status as an Occasional Student.
 
-### <a name="students-from-canadian-baptists-of-western-canada-cbwc-churches-anticipating-professional-ministry"></a>Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Ministry
+### <a name="students-from-canadian-baptists-of-western-canada-cbwc-churches-anticipating-professional-student-ministry"></a>Students from Canadian Baptists of Western Canada (CBWC) Churches Anticipating Professional Student Ministry
 Students who wish to be placed with Canadian Baptists of Western Canada churches or its ministries, or who wish to apply to Canadian Baptist Ministries, should identify themselves on the application form. The Office of the Registrar will provide further and current information regarding the process toward recognition as a ‘Ministerial Candidate’ (as well as validation for assistance from student aid funds).
 ## <a name="course-descriptions"></a>Course Descriptions
 
@@ -785,6 +787,17 @@ Students who wish to be placed with Canadian Baptists of Western Canada churches
 </tr>
 <tr>
 <td>
+<p><span style="font-weight: 400;">HIST 653/953</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Augustinian Spirituality</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Three core values of Augustinian spirituality are unity, truth, and love. Students will learn from Augustine's life and works how to discover a deeper relationship with God and a more authentic understanding and practice of these theological values in their personal and church life.</span></p>
+</td>
+</tr>
+<tr>
+<td>
 <p><span style="font-weight: 400;">HIST 660/960</span></p>
 </td>
 <td>
@@ -803,6 +816,17 @@ Students who wish to be placed with Canadian Baptists of Western Canada churches
 </td>
 <td>
 <p><span style="font-weight: 400;">This course will explore the history of Chinese immigrant congregations in Canada, including discussion of racial discrimination, transnationalism, satellite households, intergenerational dynamics and the intersection of Chinese and Western value systems. Students are given the opportunity to reflect theologically on the Chinese Christian story and articulate ministry implications for their families and communities.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">HIST 662/962</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Chinese Christian Spirituality</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;"><em>Special topic in History on Chinese Christian Spirituality. Further Description to be confirmed by Senate in 2023.</em></span></p>
 </td>
 </tr>
 <tr>
@@ -1391,7 +1415,7 @@ As an institution that offers programs fully online, Carey Theological College d
 
 Carey Theological College makes a variety of awards and benefits available to students to help reduce the financial burden of study. These include competitive scholarships, need-based bursaries, bursaries and tuition discounts associated with institutional partnership relationships, and opportunities for study-related work in the form of Teaching Assistantships.  Teaching Assistantships are only available to students with valid work permits in Canada.
 
-Please visit https://carey-edu.ca/student-services/ for eligibility criteria and detailed information.
+Please visit https://carey-edu.ca/student-services/tuition-and-financial-aid-fall-2021/ for eligibility criteria and detailed information.
 
 In addition to the financial awards managed directly by Carey, students may be eligible for a range of awards and other forms of funding provided by external organizations. For example, students who serve with the Canadian Baptists of Western Canada are advised that several forms of student aid funding are available through the Canadian Baptists of Western Canada Foundation. Application for these is made directly to the Foundation.  Students are reminded that College staff will not be aware of all the forms of funding that may be available; each student is encouraged to explore widely for possible assistance with study.
 ## <a name="student-awards"></a>Student Awards 
@@ -1656,85 +1680,13 @@ All Advanced Diploma and DMin students are expected to be involved in ministry. 
 ## <a name="general-admission-requirements-and-process"></a>General Admission Requirements and Process
 Before initiating the admissions process with Carey it is the student’s responsibility to familiarize themselves with the requirements and policies pertaining to their program of interest (see the program information under Carey Academic Programs, above), and also with Carey’s statement of faith and community expectations. These statements reflect Carey’s core theological and community values from which personal and academic integrity stem. In applying to study at Carey, students indicate their willingness to respect and uphold the common values and related practices of the Carey academic community. Students are not required to sign the specific Carey statement of faith, but all students will need to affirm personal Christian faith as part of the application process and respect the faith commitments of the Carey community as expressed in Carey’s statement.
 ## <a name="key-admission-dates"></a>Key Admission Dates
-Carey Theological college offers the rolling admission, students may apply for admission and financial assistance any time of the year.  It is advised that potential students begin the process of applying early to allow sufficient time for writing essay responses and receipt of reference letters. All applicants will be reviewed monthly by the admission committee and be notified of the result. 
+Carey Theological college offers the rolling admission, students may apply for admission and financial assistance any time of the year.  It is advised that potential students begin the process of applying early to allow sufficient time for writing essay responses and receipt of reference letters. All applicants will be reviewed monthly by the admission committee and be notified of the result.
 
+**General application and Financial Aid Deadline:** The last day of every month.
 
-<table>
-<colgroup>
-<col style="text-align:left;">
-<col style="text-align:center;">
-<col style="text-align:center;">
-<col style="text-align:center;">
-<col style="text-align:center;">
-<col style="text-align:center;">
-</colgroup>
+**Application Review Date by Committee:** Within the 1st week of every month. If it is the weekend, the committee will meet on the Friday prior to the 15th.
 
-<thead>
-<tr>
-	<th style="text-align:left;"> </th>
-	<th style="text-align:center;"> Fall 2021 </th>
-	<th style="text-align:center;"> Winter 2022 </th>
-	<th style="text-align:center;"> Spring 2022 </th>
-	<th style="text-align:center;"> Summer 2022 </th>
-	<th style="text-align:center;"> Fall 2022 </th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td style="text-align:left;"> General application and Financial Aid Deadline </td>
-	<td style="text-align:center;" colspan="5"> The last day of every month </td>
-</tr>
-<tr>
-	<td style="text-align:left;"> Application Review Date </td>
-	<td style="text-align:center;" colspan="5"> Within the 1st week of every month. <br/>If it is the weekend, the committee will meet on the Friday prior to the 15th.</td>
-</tr>
-<tr>
-	<td style="text-align:left;"> Term admissions application and financial aid deadline </td>
-	<td style="text-align:center;"> August 27, 2021 </td>
-	<td style="text-align:center;"> Dec 3, 2021 </td>
-	<td style="text-align:center;"> Feb 28, 2022 </td>
-	<td style="text-align:center;"> May 27, 2022 </td>
-	<td style="text-align:center;"> Aug 26, 2022 </td>
-</tr>
-<tr>
-	<td style="text-align:left;"> Financial aid deadline </td>
-	<td style="text-align:center;"> Sept 13, 2021 </td>
-	<td style="text-align:center;"> Dec 20, 2021 </td>
-	<td style="text-align:center;"> Mar 14, 2022 </td>
-	<td style="text-align:center;"> Jun 13, 2021 </td>
-	<td style="text-align:center;"> Sep 12, 2022 </td>
-</tr>
-<tr>
-	<td style="text-align:left;"> Admission response sent out via email to all applicants </td>
-	<td style="text-align:center;" colspan="5"> Send by the next business day after review date </td>
-</tr>
-<tr>
-	<td style="text-align:left;"> Start of term </td>
-	<td style="text-align:center;"> Sept 27, 2021 </td>
-	<td style="text-align:center;"> Jan 3, 2022 </td>
-	<td style="text-align:center;"> Mar 28, 2022 </td>
-	<td style="text-align:center;"> Jun 27, 2022 </td>
-	<td style="text-align:center;"> Sep 26, 2022 </td>
-</tr>
-<tr>
-	<td style="text-align:left;"> End of term </td>
-	<td style="text-align:center;"> Dec 3, 2021 </td>
-	<td style="text-align:center;"> Mar 11, 2022 </td>
-	<td style="text-align:center;"> Jun 10, 2022 </td>
-	<td style="text-align:center;"> Sep 02, 2022 </td>
-	<td style="text-align:center;"> Dec 02, 2022 </td>
-</tr>
-<tr>
-	<td style="text-align:left;"> Grades to appear in Populi </td>
-	<td style="text-align:center;"> Dec 17, 2021 </td>
-	<td style="text-align:center;"> Mar 25, 2022 </td>
-	<td style="text-align:center;"> Jun 24, 2022 </td>
-	<td style="text-align:center;"> Sep 16, 2022 </td>
-	<td style="text-align:center;"> Dec 16, 2022 </td>
-</tr>
-</tbody>
-</table>
+**Admission response sent out via email to all applicants:** Send by the next business day after review date.
 
 ## <a name="language-requirements-for-admissions"></a>Language Requirements for Admissions
 
