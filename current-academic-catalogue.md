@@ -1680,85 +1680,13 @@ All Advanced Diploma and DMin students are expected to be involved in ministry. 
 ## <a name="general-admission-requirements-and-process"></a>General Admission Requirements and Process
 Before initiating the admissions process with Carey it is the student’s responsibility to familiarize themselves with the requirements and policies pertaining to their program of interest (see the program information under Carey Academic Programs, above), and also with Carey’s statement of faith and community expectations. These statements reflect Carey’s core theological and community values from which personal and academic integrity stem. In applying to study at Carey, students indicate their willingness to respect and uphold the common values and related practices of the Carey academic community. Students are not required to sign the specific Carey statement of faith, but all students will need to affirm personal Christian faith as part of the application process and respect the faith commitments of the Carey community as expressed in Carey’s statement.
 ## <a name="key-admission-dates"></a>Key Admission Dates
-Carey Theological college offers the rolling admission, students may apply for admission and financial assistance any time of the year.  It is advised that potential students begin the process of applying early to allow sufficient time for writing essay responses and receipt of reference letters. All applicants will be reviewed monthly by the admission committee and be notified of the result. 
+Carey Theological college offers the rolling admission, students may apply for admission and financial assistance any time of the year.  It is advised that potential students begin the process of applying early to allow sufficient time for writing essay responses and receipt of reference letters. All applicants will be reviewed monthly by the admission committee and be notified of the result.
 
+**General application and Financial Aid Deadline:** The last day of every month.
 
-<table>
-<colgroup>
-<col style="text-align:left;">
-<col style="text-align:center;">
-<col style="text-align:center;">
-<col style="text-align:center;">
-<col style="text-align:center;">
-<col style="text-align:center;">
-</colgroup>
+**Application Review Date by Committee:** Within the 1st week of every month. If it is the weekend, the committee will meet on the Friday prior to the 15th.
 
-<thead>
-<tr>
-	<th style="text-align:left;"> </th>
-	<th style="text-align:center;"> Fall 2021 </th>
-	<th style="text-align:center;"> Winter 2022 </th>
-	<th style="text-align:center;"> Spring 2022 </th>
-	<th style="text-align:center;"> Summer 2022 </th>
-	<th style="text-align:center;"> Fall 2022 </th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td style="text-align:left;"> General application and Financial Aid Deadline </td>
-	<td style="text-align:center;" colspan="5"> The last day of every month </td>
-</tr>
-<tr>
-	<td style="text-align:left;"> Application Review Date </td>
-	<td style="text-align:center;" colspan="5"> Within the 1st week of every month. <br/>If it is the weekend, the committee will meet on the Friday prior to the 15th.</td>
-</tr>
-<tr>
-	<td style="text-align:left;"> Term admissions application and financial aid deadline </td>
-	<td style="text-align:center;"> August 27, 2021 </td>
-	<td style="text-align:center;"> Dec 3, 2021 </td>
-	<td style="text-align:center;"> Feb 28, 2022 </td>
-	<td style="text-align:center;"> May 27, 2022 </td>
-	<td style="text-align:center;"> Aug 26, 2022 </td>
-</tr>
-<tr>
-	<td style="text-align:left;"> Financial aid deadline </td>
-	<td style="text-align:center;"> Sept 13, 2021 </td>
-	<td style="text-align:center;"> Dec 20, 2021 </td>
-	<td style="text-align:center;"> Mar 14, 2022 </td>
-	<td style="text-align:center;"> Jun 13, 2021 </td>
-	<td style="text-align:center;"> Sep 12, 2022 </td>
-</tr>
-<tr>
-	<td style="text-align:left;"> Admission response sent out via email to all applicants </td>
-	<td style="text-align:center;" colspan="5"> Send by the next business day after review date </td>
-</tr>
-<tr>
-	<td style="text-align:left;"> Start of term </td>
-	<td style="text-align:center;"> Sept 27, 2021 </td>
-	<td style="text-align:center;"> Jan 3, 2022 </td>
-	<td style="text-align:center;"> Mar 28, 2022 </td>
-	<td style="text-align:center;"> Jun 27, 2022 </td>
-	<td style="text-align:center;"> Sep 26, 2022 </td>
-</tr>
-<tr>
-	<td style="text-align:left;"> End of term </td>
-	<td style="text-align:center;"> Dec 3, 2021 </td>
-	<td style="text-align:center;"> Mar 11, 2022 </td>
-	<td style="text-align:center;"> Jun 10, 2022 </td>
-	<td style="text-align:center;"> Sep 02, 2022 </td>
-	<td style="text-align:center;"> Dec 02, 2022 </td>
-</tr>
-<tr>
-	<td style="text-align:left;"> Grades to appear in Populi </td>
-	<td style="text-align:center;"> Dec 17, 2021 </td>
-	<td style="text-align:center;"> Mar 25, 2022 </td>
-	<td style="text-align:center;"> Jun 24, 2022 </td>
-	<td style="text-align:center;"> Sep 16, 2022 </td>
-	<td style="text-align:center;"> Dec 16, 2022 </td>
-</tr>
-</tbody>
-</table>
+**Admission response sent out via email to all applicants:** Send by the next business day after review date.
 
 ## <a name="language-requirements-for-admissions"></a>Language Requirements for Admissions
 
