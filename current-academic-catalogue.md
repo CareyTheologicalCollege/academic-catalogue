@@ -826,7 +826,7 @@ Students who wish to be placed with Canadian Baptists of Western Canada churches
 <p><span style="font-weight: 400;">Chinese Christian Spirituality</span></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Special topic in History on Chinese Christian Spirituality. Further Description to be confirmed by Senate in 2023.</span></p>
+<p><span style="font-weight: 400;"><em>Special topic in History on Chinese Christian Spirituality. Further Description to be confirmed by Senate in 2023.</em></span></p>
 </td>
 </tr>
 <tr>
