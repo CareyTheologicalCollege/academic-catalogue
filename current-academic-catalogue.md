@@ -1,9 +1,9 @@
 # Carey Theological College
 # Academic Catalogue
 
-Version: 4.0
+Version: 4.1
 
-Date: Sept 8, 2022
+Date: Mar 15, 2022
 
 Table of Contents
 1. [Who We Are](#who-we-are)    
@@ -2032,7 +2032,9 @@ To register for courses, login to Carey Populi at https://carey.populiweb.com/ a
 ## <a name="grade-changes"></a>Grade Changes
 It is the student’s responsibility to appeal any error in grades and to bring it to the instructor’s attention within two months following the issued grade. Grade changes are allowable for computational recording errors and must be corrected no later than the last day of classes of the next full term.
 ## <a name="extensions"></a>Extensions
-Extensions for course work will only be granted in exceptional circumstances. If a student requests an extension that will prevent the professor from submitting the final grade within 30 days following the final assignment, the student must file a formal petition with the Registrar for the extension. On approval, the Registrar will establish extension deadlines which are final. The student may receive a grade reduction of up to one-third of the final mark for work submitted under these extension guidelines.
+Extensions for course work will only be granted in exceptional circumstances. Extensions are subject to faculty discretion. The student may receive a grade reduction for work submitted under these extension guidelines.
+All assignment extensions must be arranged and approved in writing between the student and faculty prior to the original due date.  Students are advised to keep a written record of the communication since the Registrar’s Office will only recognize written correspondence in the event of a dispute.
+Final grades posted at the grade submission deadline (i.e. two weeks after the end of the term) are based on work completed. A student whose assignment(s) will be graded after the deadline will receive the grade corresponding to their work at that time, which in many cases may be an “F.” A grade change will be posted after the assignment is submitted and evaluated.
 ## <a name="academic-probation"></a>Academic Probation
 In each program of study, Carey Theological College sets standards for the competencies students are expected to achieve. Satisfactory academic performance (D.Min.: B, M.Div.: B-; MACM: B-) is a necessary prerequisite for a student to continue their program of studies. Should a student achieve final grades below the minimum standard in three courses, or fail to complete those courses within the specified timelines, or should the student’s GPA fall below graduation requirements, the student will be placed on academic probation. In such cases, the student will be placed under the supervision of the Office of the Registrar, which may recommend one of several alternatives including remedial work upon approval of the professor(s) of the course(s) that caused the drop in GPA, retaking courses or taking additional courses with or without an extension of time to complete the program to raise the GPA to an acceptable level, or withdrawal from studies. Students are expected to rectify their academic probation status within one year.
 ## <a name="repeated-courses"></a>Repeated Courses
