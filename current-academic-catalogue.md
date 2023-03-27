@@ -431,7 +431,7 @@ Carey’s programs are designed to enable students to enter as a diploma, master
 
 ### <a name="program-requirements-chart"></a>Program Requirements Chart
 
-![Program Requirement Chart](https://docs.google.com/document/d/12bTGbDWyRXoQ2Jfl4qjl2ZkVPN2sFYCqgI2qNeiKNfg/edit)
+![Program Requirement Chart](https://drive.google.com/file/d/1ppNDZchaEdhD-j2-CYzQqxNqqB0Ysp8e/view?usp=drivesdk)
 
 
 ### <a name="doctor-of-ministry-and-advanced-diploma-program-specific-requirements"></a>Doctor of Ministry and Advanced Diploma Program Specific Requirements
