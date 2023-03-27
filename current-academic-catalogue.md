@@ -432,7 +432,7 @@ Carey’s programs are designed to enable students to enter as a diploma, master
 ### <a name="program-requirements-chart"></a>Program Requirements Chart
 
 <img src="https://drive.google.com/file/d/1wJk2brdxOBxZKPcl_KTObnOotL1gYAEv/view?usp=share_link">
-<!--- Test --->
+<!--- I've been trying to get this image to show up, but something doesn't like something else. We need a better way to include the chart. Maybe embed the sheet? --->
 
 
 ### <a name="doctor-of-ministry-and-advanced-diploma-program-specific-requirements"></a>Doctor of Ministry and Advanced Diploma Program Specific Requirements
