@@ -1,9 +1,9 @@
 # Carey Theological College
 # Academic Catalogue
 
-Version: 4.1
+Version: 4.2
 
-Date: Mar 15, 2022
+Date: Sept 14, 2023
 
 Table of Contents
 1. [Who We Are](#who-we-are)    
@@ -55,7 +55,8 @@ Table of Contents
         6. [Mature Student Status](#mature-student-status)
         7. [Continuing Education Credit Registration (CBWC)](#continuing-education-credit-registration-cbwc)
         8. [International Students](#international-students)
-    6. [Transfer Credits, Shared Credits, Advanced Standing and Exemptions](#transfer-credits-shared-credits-advanced-standing-and-exemptions)    
+    6. [General Master's Degree Program Policies](#general-masters-degree-program-policies)
+    7. [Transfer Credits, Shared Credits, Advanced Standing and Exemptions](#transfer-credits-shared-credits-advanced-standing-and-exemptions)    
         1. [Transfer Credits](#transfer-credits)
         2. [Shared Credit](#shared-credit)
         3. [Advanced Standing with Credit](#advanced-standing-with-credit)
@@ -1132,7 +1133,7 @@ Students may apply for graduation every semester to receive official transcripts
 
 <u>Doctoral Thesis Project:</u> The intent of the doctoral thesis project is to demonstrate advanced competence in the field of ministry and to contribute knowledge to the better understanding of ministry. The integrative method practiced in the theological reflection courses is brought to bear upon an area of ministry in which the DMin student is actively engaged. The Doctoral Thesis Project normally features an articulated ministry problem or question, a Doctoral Thesis Project plan of research and investigation, and theological reflection on the project and evaluation of the DMin student’s own leadership. The candidate is required to present this doctoral thesis project in a form which allows for its circulation among a wider audience and/or academic community. Anyone wishing to use formats other than a thesis style must seek approval from the Research Ethics & Thesis Committee. The thesis shall be examined by a committee of three: the supervisor, a second reader (internal; usually a Core Faculty member), and an external reader. Successful completion of the examination is an essential element in completion of the thesis project.
 
-Upon successful completion of the thesis defense, DMin students are required to provide the Office of the Registrar with 2 bound copies of the finalized thesis for inclusion in the Carey thesis archives. 
+Upon successful completion of the thesis defense, DMin students are required to provide the Office of the Registrar (through email) with a digital PDF copy of the finalised thesis which should include a cover page, abstract, signatures from supervisors, and a table of contents. For further details and help with creating the cover page and abstract, DMin students can consult this [article.](https://careyedu.freshdesk.com/a/solutions/articles/44002395054) 
 
 DMin students who wish to obtain their own doctoral gowns must arrange to purchase or rent them in time for the graduation ceremony. Gown guidelines are available from the Registrar.
 
@@ -1265,9 +1266,7 @@ Students may apply for graduation every semester to receive official transcripts
 * DMin students who wish to obtain their own doctoral gowns must arrange to purchase or rent them in time for the graduation ceremony. Gown guidelines are available from the Registrar.
 
 ## <a name="additional-graduation-requirements-for-masters-program"></a>Additional Graduation Requirements for Master’s Programs
-<u>Theological Integration Project for Mission & Ministry:</u> Each student enrolled in a master’s degree program at Carey is required to create and maintain a student portfolio to chart the growth in specific competency areas in one’s program of study where the culmination of evidence of the competencies will be demonstrated through the theological integration project. Students are required to do an oral presentation of their project prior to graduation.
-
-All students are required to complete the supervised ministry/peer learning course, which includes mentorship and practicum involvement. Please note: students who desire to include CPE (Clinical Pastoral Education) credits in their program may do so as elective/specialization courses. An individual who wishes to incorporate CPE into the practicum portion of the Capstone courses must receive approval and make arrangements with the supervising faculty member and the Office of the Registrar. 
+<u>Guided Peer Learning for Ministry (APPL 801 and APPL 802):</u> Students enrolled in a master’s degree program at Carey are required to take APPL 801 and APPL 802 which are designed to fulfil the field education or practicum requirements and to bring a strong closure to the degree programs in professional ministry.  Note that students who take APPL 801 and APPL 802 under one degree must take APPL 802 again if they transfer to or pursue a different degree.  Therefore, If students want to  transfer from one degree program to another (eg. MASF to MDiv), it is recommended that you receive the approval for such a transfer prior to taking APPL 801 and 802.
 
 # <a name="financial-information"></a>Financial Information
 ## <a name="tuition-and-fees"></a>Tuition and Fees
@@ -1782,6 +1781,8 @@ Accreditation regulations require that Carey limit the number of Mature Students
 Carey courses may be audited by individuals who are not registered as for-credit students in order to fulfill the continuing education requirement for ministers credentialed by the Canadian Baptists of Western Canada. 
 ### <a name="international-students"></a>International Students
 As an online institution, Carey does not meet the requirements under Canada Immigation Services that allow prospective students to acquire a student visa.
+## <a name="general-masters-degree-program-policies"></a>General Master's Degree Program Policies
+No more than 25% of the degree program credits (18 credits for M.Div., 12 credits for MACM) may be covered through advanced standing with credit, no more than 50% (36 credits for M.Div., 24 credits for MACM) may be achieved through shared or transfer credits or a combination of transfer and advanced standing credits from another accredited seminary or religious institution, and no more than 62% (45 credits for M.Div., 30 credits for MACM) may be achieved through shared credit from another Carey program. In other words, to receive a Carey masters degree a student must successfully complete at least ½ of the degree in the form of Carey courses if coming from another accredited seminary or religious institution.
 ## <a name="transfer-credits-shared-credits-advanced-standing-and-exemptions"></a>Transfer Credits, Shared Credits, Advanced Standing and Exemptions
 Students with previous theological training from a recognized institution may be eligible to receive some credit toward their program of study at Carey, through credit transfer, shared credit, or advanced standing. 
 
