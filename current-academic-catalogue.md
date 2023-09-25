@@ -432,7 +432,9 @@ Master of Divinity (M.Div.): the standard seminary program for preparing pastora
 
 Aside from the base ten and six electives, M. Div. students take the following courses:
 <table>
-<tr>APPL 620/920</tr>
+<tr>
+<td>APPL 620/920</td>
+</tr>
 <tr>Pastoral Care in Today's Church</tr>
 <tr>The course will survey the broad biblical, theological and practical foundations critical to the task of pastoral ministry, and will provide you with skills to apply what you learn in ministry and community settings.</tr>
 <tr>APPL 602/902</tr>
