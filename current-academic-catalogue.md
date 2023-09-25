@@ -461,13 +461,13 @@ Aside from the base ten and six electives, M. Div. students take the following c
 <tr><td>This course will help students to gain an understanding of the philosophical, biblical, and theological bases for personal and social morality, and to develop competence in thoughtful moral decision-making in a Christian framework. A number of selected contemporary ethical issues will be discussed.</td></tr>
 </table>
 
-**<u>M. Div. Degree Program Learning Outcomes</u>**
-1. [Biblical Knowledge]. Graduates will have a working knowledge of Scripture in its historical, literary, and canonical contexts. 
-2. [Biblical Interpretation]. Graduates will show proficiency in biblical interpretation for preaching the word, serving the church, developing moral vision, and other elements central to faithful pastoral vocation. 
-3. [Historical & Theological Knowledge] Graduates will have a working knowledge of Christian theology and history to draw upon for the work of Christian ministry. 
-4. [Historical & Theological Application]. Graduates will be able to engage with Christian history and theology for the advancement of Christian discipleship, ministry, and mission. 
-5. [Formation]. Graduates will identify and develop practices that cultivate life with God, love of neighbor, personal wellness, resilience, and joy in vocation.
-6. [Ministry & Witness]. Graduates will demonstrate essential skills for Christian ministry and witness in a complex world (including pastoral care, discipleship, church administration, and worship planning). 
+**M. Div. Degree Program Learning Outcomes**
+1. **[Biblical Knowledge]** Graduates will have a working knowledge of Scripture in its historical, literary, and canonical contexts. 
+2. **[Biblical Interpretation]** Graduates will show proficiency in biblical interpretation for preaching the word, serving the church, developing moral vision, and other elements central to faithful pastoral vocation. 
+3. **[Historical & Theological Knowledge]** Graduates will have a working knowledge of Christian theology and history to draw upon for the work of Christian ministry. 
+4. **[Historical & Theological Application]** Graduates will be able to engage with Christian history and theology for the advancement of Christian discipleship, ministry, and mission. 
+5. **[Formation]** Graduates will identify and develop practices that cultivate life with God, love of neighbor, personal wellness, resilience, and joy in vocation.
+6. **[Ministry & Witness]** Graduates will demonstrate essential skills for Christian ministry and witness in a complex world (including pastoral care, discipleship, church administration, and worship planning). 
 
 
 ### <a name="dplo-mpm"></a>Degree Program Learning Outcomes: Master of Pastoral Ministry
@@ -492,15 +492,13 @@ Aside from the base ten and one elective, MPM students take the following course
 <tr><td>This course will draw upon biblical theology, Christian ethics, and current leadership theory and practice, to help students reflect upon and deliberate leadership skills in their own context.</td></tr>
 </table>
 
-**<u>MPM Degree Program Learning Outcomes (DPLO’s)</u>**
-
-[Biblical Knowledge]. Graduates will have a working knowledge of Scripture in its historical, literary, and canonical contexts. 
-[Biblical Interpretation]. Graduates will show competency in biblical interpretation for preaching the word, serving the church, developing moral vision, and other elements central to faithful pastoral vocation. 
-[Historical & Theological Knowledge] Graduates will have fundamental knowledge of Christian theology and history to draw upon for the work of pastoral ministry. 
-[Historical & Theological Application]. Graduates will be able to engage with Christian history and theology for pastoral ministry including preaching, discipleship and mission. 
-[Formation]. Graduates will identify and develop practices that cultivate life with God, love of neighbor, personal wellness, resilience, and joy in vocation.
-[Ministry & Witness]. Graduates will demonstrate core skills for Christian ministry and witness in a complex world (including pastoral care, discipleship, church administration, and worship planning). 
-
+**MPM Degree Program Learning Outcomes (DPLO’s)**
+1. **[Biblical Knowledge]** Graduates will have a working knowledge of Scripture in its historical, literary, and canonical contexts. 
+2. **[Biblical Interpretation]** Graduates will show competency in biblical interpretation for preaching the word, serving the church, developing moral vision, and other elements central to faithful pastoral vocation. 
+3. **[Historical & Theological Knowledge]** Graduates will have fundamental knowledge of Christian theology and history to draw upon for the work of pastoral ministry. 
+4. **[Historical & Theological Application]** Graduates will be able to engage with Christian history and theology for pastoral ministry including preaching, discipleship and mission. 
+5. **[Formation]** Graduates will identify and develop practices that cultivate life with God, love of neighbor, personal wellness, resilience, and joy in vocation.
+6. **[Ministry & Witness]** Graduates will demonstrate core skills for Christian ministry and witness in a complex world (including pastoral care, discipleship, church administration, and worship planning). 
 
 ### <a name="dplo-masf"></a>Degree Program Learning Outcomes: Master of Arts in Spiritual Formation
 
