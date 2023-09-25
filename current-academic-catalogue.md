@@ -650,6 +650,7 @@ On completion of the Advanced Diploma, all D.Min. students take DMN 901 in prepa
 4. **[Historical & Theological Application]**  Graduates will demonstrate and model excellence in the integration of theology and historical understanding with their ministry-related research.
 5. **[Formation]**  Graduates will identify and develop practices that sustain personal and spiritual wellness, perseverance, perspective, and joy while balancing vocation and doctoral research.
 6. **[Ministry & Witness]**  Graduates will refine, model, and promote strategic skills for Christian ministry in their contexts and areas of research focus.
+
 Note: because the Advanced Diploma is linked with the D.Min. program, and because ATS does not accredit or review diploma programs, only one set of program outcomes has been supplied for the Advanced Diploma and the D.Min. Given the scope of the doctoral thesis, it is understood that all the program outcomes should be developed and evidenced in conjunction with DMN 901 and 902. They will be addressed in prior coursework as well, though the fluidity of the program makes it impossible to build a rigid map between outcomes and a fixed set of classes.
 
 
