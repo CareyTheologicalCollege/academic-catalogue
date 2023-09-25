@@ -431,6 +431,7 @@ Master of Divinity (M.Div.): the standard seminary program for preparing pastora
 (source: https://docs.google.com/document/d/1hydd01iDO5A7Ej2VvRymPiOBHYctG2iEodvN-JA7efY/edit#, p. 10)
 
 Aside from the base ten and six electives, M. Div. students take the following courses:
+
 <table>
 <tr>
 <td>APPL 620/920</td>
