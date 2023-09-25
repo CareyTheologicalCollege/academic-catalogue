@@ -17,6 +17,11 @@ Table of Contents
 2. [Carey Theological College Academic Programs](#carey-theological-college-academic-programs)    
     1. [Academic Programs](#academic-programs)
     2. [Learning Outcomes](#learning-outcomes)
+        1. [Degree Program Learning Outcomes: MDIV](#dplo-mdiv)
+        2. [Degree Program Learning Outcomes: MPM](#dplo-mpm)
+        3. [Degree Program Learning Outcomes: MASF](#dplo-masf)
+        4. [Degree Program Learning Outcomes: MACM](#dplo-macm)
+        5. [Degree Program Learning Outcomes: DMIN](#dplo-dmin)
     3. [Program Requirements](#program-requirements)    
         1. [Program Requirements Chart](#program-requirements-chart)
         2. [Doctor of Ministry and Advanced Diploma Program Specific Requirements](#doctor-of-ministry-and-advanced-diploma-program-specific-requirements)
@@ -420,6 +425,46 @@ The common learning outcomes include the following:
 5. Formation. **Graduates identify and develop practices that cultivate life with God, love of neighbor, personal wellness, and joy in vocation.**
 
 6. Ministry & Witness. **Graduates demonstrate skills to build up the body of Christ for ministry and witness in a complex world.**
+
+### <a name="dplo-mdiv"></a>Degree Program Learning Outcomes: MDIV
+Master of Divinity (M.Div.): the standard seminary program for preparing pastoral leaders, provides a thorough foundation of biblical, theological, and ministry studies for pastoral leadership. 
+(source: https://docs.google.com/document/d/1hydd01iDO5A7Ej2VvRymPiOBHYctG2iEodvN-JA7efY/edit#, p. 10)
+
+Aside from the base ten and six electives, M. Div. students take the following courses:
+<table>
+<tr>APPL 620/920</tr>
+<tr>Pastoral Care in Today's Church</tr>
+<tr>The course will survey the broad biblical, theological and practical foundations critical to the task of pastoral ministry, and will provide you with skills to apply what you learn in ministry and community settings.</tr>
+<tr>APPL 602/902</tr>
+<tr>Advanced Preaching & Communication in a Digital Age</tr>
+<tr>This course is designed to provide the student with essential tools for crafting and delivering expository sermons to the contemporary church.</tr>
+<tr>APPL 641/941</tr>
+<tr>Discipleship & Education</tr>
+<tr>This course is a guide for re-imagining the educational mission of the church. Traditional and contemporary educational practices will be assessed biblically and theologically as they apply to Christian formation.</tr>
+<tr>APPL 601/901</tr>
+<tr>Interpersonal skills & conflict resolution</tr>
+<tr>This course will help students to develop the “soft skills” of interpersonal management, emotional intelligence, conflict resolution, and leading teams.</tr>
+<tr>APPL 600/900</tr>
+<tr>Leadership & Administration</tr>
+<tr>This course will draw upon biblical theology, Christian ethics, and current leadership theory and practice, to help students reflect upon and deliberate leadership skills in their own context.</tr>
+<tr>APPL 660/960</tr>
+<tr>Spiritual Formation: Theology & Praxis</tr>
+<tr>This course lays a foundation to the theological understanding of spiritual formation through a variety of practices including scriptural reflection, journaling, retreat, art activities and acts of mercy.</tr>
+<tr>BIBL 600/900</tr>
+<tr>Biblical Interpretation: Theory & Craft</tr>
+<tr>This course supplies a foundation for lifelong study, interpretation, and application of the Christian Scriptures, particularly for vocations of Christian ministry. It includes an overview of principles of biblical interpretation and exposure to resources available to aid interpretation.</tr>
+<tr>THEO 600/900</tr>
+<tr>Christian Ethics</tr>
+<tr>This course will help students to gain an understanding of the philosophical, biblical, and theological bases for personal and social morality, and to develop competence in thoughtful moral decision-making in a Christian framework. A number of selected contemporary ethical issues will be discussed.</tr>
+</table>
+
+### <a name="dplo-mpm"></a>Degree Program Learning Outcomes: MPM
+
+### <a name="dplo-masf"></a>Degree Program Learning Outcomes: MASF
+
+### <a name="dplo-macm"></a>Degree Program Learning Outcomes: MACM
+
+### <a name="dplo-dmin"></a>Degree Program Learning Outcomes: DMIN
 
 ## <a name="archiving-student-assignments-for-assessment-purposes"></a>Archiving Student Assignments for Assessment Purposes
 All ATS-accredited schools must perform an annual assessment of our educational effectiveness. This includes evaluating the success of our student body in accomplishing program learning outcomes, by reviewing a selection of assignments submitted by students.
