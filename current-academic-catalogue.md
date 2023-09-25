@@ -501,10 +501,154 @@ Aside from the base ten and one elective, MPM students take the following course
 6. **[Ministry & Witness]** Graduates will demonstrate core skills for Christian ministry and witness in a complex world (including pastoral care, discipleship, church administration, and worship planning). 
 
 ### <a name="dplo-masf"></a>Degree Program Learning Outcomes: Master of Arts in Spiritual Formation
+Master of Arts in Spiritual Formation: a degree focusing on spiritual growth and leadership nurtures personal spiritual formation, provides skills and tools to lead others in spiritual formation.
+
+It requires the students to successfully complete 48 credits (so 16 courses) with a minimum GPA of 2.70 for graduation.
+
+Aside from the base ten and one elective, MPM students take the following courses: 
+<table>
+<tr><td>APPL 660/960</td></tr>
+<tr><td>Spiritual Formation: Theology & Praxis</td></tr>
+<tr><td>This course lays a foundation to the theological understanding of spiritual formation through a variety of practices including scriptural reflection, journaling, retreat, art activities and acts of mercy.</td></tr>
+<tr><td>APPL 661/961</td></tr>
+<tr><td>Awakening the Inward Journey</td></tr>
+<tr><td>Christian discipleship involves the practice of personal spiritual practices that deepen the believer’s life with God. This course examines the biblical basis of spiritual formation and how it has been practiced in Christian history, with the goal of encouraging spiritual disciplines and rhythms which can sustain a lifetime of Christian service.</td></tr>
+<tr><td>APPL 664/964</td></tr>
+<tr><td>Leading Spiritual Formation</td></tr>
+<tr><td>This course provides guidance on how to design, implement, assess and reflect on spiritual formation initiatives. The focus of this course will be to lead spiritual formation ministries in a congregational context.</td></tr>
+<tr><td>APPL 666/966</td></tr>
+<tr><td>Spiritual Formation and the Church</td></tr>
+<tr><td>Spiritual formation begins with the transforming grace of Jesus Christ in individual lives expressed in one’s love and relationship with one another. This course will explore the meaning and expressions of spiritual formation in the context of Christian community biblically, historically and theologically as well as helping students to develop practical skills for spiritual listening and mentoring for nurturing mature spiritual friendships specifically in the context of the church.</td></tr>
+<tr><td>APPL 667/967</td></tr>
+<tr><td>Spiritual Formation Through the Arts</td></tr>
+<tr><td>This course explores the arts as a discipline and expression for spiritual formation for individuals and for the Church. Students will be given opportunities to reflect theologically and look afresh at the intersection between the biblical salvation narrative and their personal spiritual journey through the practice of arts. Students will also have the opportunity to design art projects for worship and community formation.</td></tr>
+</table>
+
+**MASF Degree Program Learning Outcomes (DPLO)**
+1. **[Biblical Knowledge]** Graduates will have a working knowledge of Scripture in its historical, literary, and canonical contexts. 
+2. **[Biblical Interpretation]** Graduates will show proficiency in biblical interpretation for serving the church, developing moral vision, and other elements central to faithful Christian vocation. 
+3. **[Historical & Theological Knowledge]** Graduates will have a working knowledge of Christian theology and history to draw upon for the work of spiritual formation ministry. 
+4. **[Historical & Theological Application]** Graduates will be able to engage Christian history and theology as they pertain to Christian spiritual traditions for the advancement of spiritual formation, discipleship, and ministry. 
+5. **[Formation]** Graduates will identify and develop practices that cultivate love of God and neighbor, facilitating ongoing spiritual formation and transformation in others and self.
+6. **[Ministry & Witness]** Graduates will demonstrate essential skills for Christian ministry and witness in a complex world (including spiritual formation, pastoral care, and discipleship). 
 
 ### <a name="dplo-macm"></a>Degree Program Learning Outcomes: Master of Arts in Christian Ministry
+Master of Arts in Christian Ministry (MACM): a theological-integration degree for Christian leaders, offers theological training with a focus on integration for relevance in specific ministry contexts. Specializations are available for various ministry contexts and areas of focus.
+
+MACM students must complete Carey’s base ten and 6 electives.
+
+**MACM Degree Program Learning Outcomes (DPLO)**
+1. **[Biblical Knowledge]** Graduates will have a working knowledge of Scripture in its historical, literary, and canonical contexts. 
+2. **[Biblical Interpretation]** Graduates will show competency in biblical interpretation for preaching the word, serving the church, developing moral vision, and other elements central to faithful vocation. 
+3. **[Historical & Theological Knowledge]** Graduates will have a working knowledge of Christian theology and history to draw upon for the work of Christian ministry. 
+4. **[Historical & Theological Application]** Graduates will be able to engage Christian history and theology for the advancement of Christian discipleship, ministry, and mission. 
+5. **[Formation]** Graduates will identify and develop practices that cultivate life with God, love of neighbor, personal wellness, resilience, and joy in vocation.
+6. **[Ministry & Witness]** Graduates will demonstrate skills for Christian ministry and witness in a complex world. 
 
 ### <a name="dplo-dmin"></a>Degree Program Learning Outcomes: Doctor of Ministry
+Doctor of Ministry (D.Min.): an advanced degree for experienced pastoral leaders, designed to enhance leadership skills and theological reflection. (source: https://docs.google.com/document/d/1hydd01iDO5A7Ej2VvRymPiOBHYctG2iEodvN-JA7efY/edit#, p. 10)
+The D.Min. program builds on the coursework for the Advanced Diploma, which involves taking doctoral-level versions of advanced electives in one of three areas of focus: Biblical Preaching, Ministry Leadership, and Spiritual Formation. A student’s actual program depends on course availability and selection. Typical courses identified in the Academic Catalog as relevant to the D.Min. include the following:
+**Biblical Preaching**
+<table>
+<tr><td>BIBL 900</td>
+<td>Biblical Interpretation: Theory & Craft</td>
+<td>This course supplies a foundation for lifelong study, interpretation, and application of the Christian Scriptures, particularly for vocations of Christian ministry. It includes an overview of principles of biblical interpretation and exposure to resources available to aid interpretation.</td></tr>
+<tr><td>BIBL 930-965</td>
+<td>OT Bible electives</td>
+<td>An in-depth examination of one Old Testament book or selection of Old Testament texts organized according to theme or interpretive method.</td></tr>
+<tr><td>BIBL 966-986</td>
+<td>NT Bible electives</td>
+<td>An in-depth examination of one New Testament book or selection of New Testament texts organized according to theme or interpretive method.</td></tr>
+<tr><td>BIBL 999</td>
+<td>Special Topics in Bible</td>
+<td>An in-depth examination of one biblical book or selection of biblical texts organized according to theme or interpretive method.</td></tr>
+</table>
+Ministry Leadership
+
+APPL 920
+Pastoral Care in Today’s Church
+The course will survey the broad biblical, theological and practical foundations critical to the task of pastoral ministry, and will provide you with skills to apply what you learn in ministry and community settings.
+APPL 902
+Advanced Preaching & Communication in a Digital Age
+This course is designed to provide the student with essential tools for crafting and delivering expository sermons to the contemporary church.
+APPL 941
+Discipleship and Education
+This course is a guide for re-imagining the educational mission of the church. Traditional and contemporary educational practices will be assessed biblically and theologically as they apply to Christian formation.
+APPL 901
+Interpersonal Skills & Conflict Management
+This course will help students to develop the “soft skills” of interpersonal management, emotional intelligence, conflict resolution, and leading teams. 
+APPL 900
+Leadership & Administration
+This course will draw upon biblical theology, Christian ethics, and current leadership theory and practice, to help students reflect upon and deliberate leadership skills in their own context. 
+APPL 960
+Spiritual Formation: Theology & Praxis
+This course lays a foundation to the theological understanding of spiritual formation through a variety of practices including scriptural reflection, journaling, retreat, art activities and acts of mercy. 
+APPL 942
+Worship: Theology & Praxis
+This course examines the biblical, theological and historical foundations of Christian worship and evaluates some of its contemporary expressions. Students will gain competency in taking a leadership role in Sunday services, baptisms and the Lord’s Supper. 
+APPL 921
+Pastoral Counseling
+This course helps students to understand and implement the methods and practices of pastoral counselling.
+APPL 940
+Congregational & Community Formation
+This course examines adult Christian education in view of the shifting ways that adults understand truth, religious belief, commitment and community.
+APPL 922
+Pastoral Life: Calling, Identity, Ethics
+The purpose of this course is to assist students in discerning their call to vocational pastoral ministry and to explore with them the essential spiritual, familial, personality, emotional and character issues that enable a lifetime of faithful and enjoyable Christian service.
+APPL 943
+Mission & Evangelism
+This is an in-depth biblical, theological, and historical exploration of the nature of the Church, the Gospel and our participation in the all-encompassing mission of God in the world.
+APPL 899
+Special Topics in Applied Ministry
+ 
+
+
+Spiritual Formation
+
+APPL 960
+Spiritual Formation: Theology & Praxis
+This course lays a foundation to the theological understanding of spiritual formation through a variety of practices including scriptural reflection, journaling, retreat, art activities and acts of mercy. 
+APPL 961
+Awakening to the Inward Journey
+Christian discipleship involves the practice of personal spiritual practices that deepen the believer’s life with God. This course examines the biblical basis of spiritual formation and how it has been practiced in Christian history, with the goal of encouraging spiritual disciplines and rhythms which can sustain a lifetime of Christian service.
+APPL 962
+Living in the Outward Journey
+This course explores a biblical and theological foundation for Christian living as an outward movement of the Spirit, including practices of personal and community discernment which lead to ministry and service opportunities in the church and its witness to the world. 
+APPL 963
+Spiritual Direction
+This course is designed to give the student an overview of the gift of spiritual direction in the church. Emphasis will be placed on providing a theological and historical context for this ministry, understanding the scope of spiritual direction, and relating this gift to ministry within the body of Christ.
+APPL 964
+Leading Spiritual Formation
+This course provides guidance on how to design, implement, assess and reflect on spiritual formation initiatives. The focus of this course will be to lead spiritual formation ministries in a congregational context.
+APPL 965
+Spiritual Practices
+This course surveys the development and theological foundation of spiritual practices in the congregation from both the biblical tradition and Christian history. Students will have the opportunity to engage with and reflect upon spiritual practices for personal and congregational growth.
+APPL 966
+Spiritual Formation and the Church
+Spiritual formation begins with the transforming grace of Jesus Christ in individual lives expressed in one’s love and relationship with one another. This course will explore the meaning and expressions of spiritual formation in the context of Christian community biblically, historically and theologically as well as helping students to develop practical skills for spiritual listening and mentoring for nurturing mature spiritual friendships specifically in the context of the church. 
+APPL 967
+Spirituality through the Arts
+This course explores the arts as a discipline and expression for spiritual formation for individuals and for the Church. Students will be given opportunities to reflect theologically and look afresh at the intersection between the biblical salvation narrative and their personal spiritual journey through the practice of arts. Students will also have the opportunity to design art projects for worship and community formation.
+
+
+On completion of the Advanced Diploma, all D.Min. students take DMN 901 in preparation for research and the writing of their doctoral thesis. 
+DMN 901
+Research Writing and Proposal
+This course is designed to help students prepare to research, write, and defend their Doctor of Ministry thesis project—and more broadly, to engage effectively in the ministry of Christian scholarship. We will consider the role of scholarship in the context of church ministry, and will discuss practical principles, resources, and techniques that may assist students as they plan and pursue their own doctoral project. Students will construct and submit a viable project proposal as part of the course. 
+DMN 902
+Thesis Project
+A DMin project is a professional project that integrates theological reflection, scholarly research, and practical ministry. The project offers students the opportunity to integrate practice and theory through the engagement of specific projects within the context of the student’s ministerial practice, and to produce a written reflection which draws on relevant scholarly literature to interpret it. The final product will contribute to the enhancement of ministry in both one’s own ministry context and the larger church. 
+
+
+D.Min. Degree Program Learning Outcomes
+[Biblical Knowledge]  Graduates will demonstrate that their ministry leadership strategies and practices are built on a substantial foundation of biblical knowledge.
+[Biblical Interpretation]  Graduates will demonstrate and model advanced hermeneutical skills as they apply Scripture in their research and development of projects pertaining to their areas of ministry focus.
+[Historical & Theological Knowledge]  Graduates will demonstrate that their ministry leadership strategies and practices are thoughtfully grounded in a foundation of theological knowledge and understanding of Christian history.
+[Historical & Theological Application]  Graduates will demonstrate and model excellence in the integration of theology and historical understanding with their ministry-related research.
+[Formation]  Graduates will identify and develop practices that sustain personal and spiritual wellness, perseverance, perspective, and joy while balancing vocation and doctoral research.
+[Ministry & Witness]  Graduates will refine, model, and promote strategic skills for Christian ministry in their contexts and areas of research focus.
+Note: because the Advanced Diploma is linked with the D.Min. program, and because ATS does not accredit or review diploma programs, only one set of program outcomes has been supplied for the Advanced Diploma and the D.Min. Given the scope of the doctoral thesis, it is understood that all the program outcomes should be developed and evidenced in conjunction with DMN 901 and 902. They will be addressed in prior coursework as well, though the fluidity of the program makes it impossible to build a rigid map between outcomes and a fixed set of classes.
+
 
 ## <a name="archiving-student-assignments-for-assessment-purposes"></a>Archiving Student Assignments for Assessment Purposes
 All ATS-accredited schools must perform an annual assessment of our educational effectiveness. This includes evaluating the success of our student body in accomplishing program learning outcomes, by reviewing a selection of assignments submitted by students.
