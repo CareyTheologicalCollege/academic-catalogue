@@ -461,6 +461,13 @@ Aside from the base ten and six electives, M. Div. students take the following c
 <tr><td>This course will help students to gain an understanding of the philosophical, biblical, and theological bases for personal and social morality, and to develop competence in thoughtful moral decision-making in a Christian framework. A number of selected contemporary ethical issues will be discussed.</td></tr>
 </table>
 
+*Strategies* 
+* Distinctive emphases and language in Degree Program Learning Outcomes (DPLOs) derive from required curriculum for that degree, rather than from general ideas about what we want students to get. 
+* Each Learning Outcome must still be measurable, concrete, and singular. 
+* Each Learning Outcome should correspond to its respective Institutional Learning Outcomes (ILOs), which are numbered 1–6. 
+* The DPLOs can be slightly longer than the ILOs, but should still be a single sentence. 
+
+
 ### <a name="dplo-mpm"></a>Degree Program Learning Outcomes: MPM
 
 ### <a name="dplo-masf"></a>Degree Program Learning Outcomes: MASF
