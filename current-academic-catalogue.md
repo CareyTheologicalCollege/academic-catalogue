@@ -653,7 +653,6 @@ On completion of the Advanced Diploma, all D.Min. students take DMN 901 in prepa
 
 Note: because the Advanced Diploma is linked with the D.Min. program, and because ATS does not accredit or review diploma programs, only one set of program outcomes has been supplied for the Advanced Diploma and the D.Min. Given the scope of the doctoral thesis, it is understood that all the program outcomes should be developed and evidenced in conjunction with DMN 901 and 902. They will be addressed in prior coursework as well, though the fluidity of the program makes it impossible to build a rigid map between outcomes and a fixed set of classes.
 
-
 ## <a name="archiving-student-assignments-for-assessment-purposes"></a>Archiving Student Assignments for Assessment Purposes
 All ATS-accredited schools must perform an annual assessment of our educational effectiveness. This includes evaluating the success of our student body in accomplishing program learning outcomes, by reviewing a selection of assignments submitted by students.
 
@@ -2017,23 +2016,24 @@ As an online institution, Carey does not meet the requirements under Canada Immi
 ## <a name="general-masters-degree-program-policies"></a>General Master's Degree Program Policies
 No more than 25% of the degree program credits (18 credits for M.Div., 12 credits for MACM) may be covered through advanced standing with credit, no more than 50% (36 credits for M.Div., 24 credits for MACM) may be achieved through shared or transfer credits or a combination of transfer and advanced standing credits from another accredited seminary or religious institution, and no more than 62% (45 credits for M.Div., 30 credits for MACM) may be achieved through shared credit from another Carey program. In other words, to receive a Carey masters degree a student must successfully complete at least ½ of the degree in the form of Carey courses if coming from another accredited seminary or religious institution.
 ## <a name="transfer-credits-shared-credits-advanced-standing-and-exemptions"></a>Transfer Credits, Shared Credits, Advanced Standing and Exemptions
-Students with previous theological training from a recognized institution may be eligible to receive some credit toward their program of study at Carey, through credit transfer, shared credit, or advanced standing. 
+Students with previous theological training from a recognized institution or extensive relevant experience may be eligible to receive up to ⅔ of the  credits toward their program of study at Carey, through transfer credits, shared credits, and ⅓ of the credits as  advanced standing or exemptions. 
 
 Several general principles apply in each case: 
 
-- Prior study which is to be applied toward Carey programs must have been taken for-credit at an accredited or comparable institution
+* Prior study which is to be applied toward Carey programs must have been taken for-credit at an accredited or comparable institution
 
-- Credits to be applied must have been earned within the past 10 years
+* Credits to be applied must have been earned within the past 10 years
 
-- Transfer, shared credit, and advanced standing credits are only applicable to Diploma, Master’s, Advanced Diploma and Doctoral degree programs. 
+* Transfer, shared credit, and advanced standing credits and exemptions are only applicable to Diploma, Master’s, Advanced Diploma and Doctoral degree programs. 
 
-- A maximum number of shared, transfer, or advanced standing credits may be applied to any Carey degree program, as outlined below
+* A maximum number of shared, transfer, or advanced standing credits may be applied to any Carey degree program, as outlined below
 
-- To receive any Carey degree, a student must take a minimum of 1 year of study in courses earned at Carey; the College’s normal practice is to allow no more than ⅔ of the credits toward a degree to be met through a combination of externally shared, transfer, and advanced standing credits
+* To receive any Carey degree, a student must take a minimum of ⅓ of the total credits of a degree in courses earned at Carey; the College’s normal practice is to allow no more than ⅔ of the credits toward a degree to be met through a combination of externally shared, transfer, and advanced standing credits
 
-- Externally shared, transfer, and advanced standing credits are applied to a student’s Carey program on a pass/fail basis and are not included in GPA calculation 
+* Externally shared, transfer, and advanced standing credits are applied to a student’s Carey program on a pass/fail basis and are not included in GPA calculation 
 
-Assessment of shared/transfer credit and advanced standing is normally done in conjunction with admission, though the two decisions are made independently. You will be asked to signal your desire for an assessment of shared/transfer credit and/or advanced standing as part of your admission process. The Admissions Committee reserves the right to decide on the total number of transfer, shared, and advanced standing credits granted to a student toward the requirements of a particular academic program.
+Assessment of shared/transfer credit, advanced standing and exemptions is normally done in conjunction by the Office of the Registrar after the admissions process. You will be asked to signal your desire for an assessment of shared/transfer credit, advanced standing and/or exemptions by filling out the A6d. Transfer/Shared Credits, Advanced Standing and Exemptions Application Form.  The Office of the Registrar reserves the right to decide on the total number of transfer, shared, and advanced standing credits granted to a student toward the requirements of a particular academic program.
+
 ### <a name="transfer-credits"></a>Transfer Credits
 Where a student has completed graduate-level coursework but not an academic program at another accredited seminary or academic institution prior to applying at Carey, and a particular graduate course taken in that setting can be shown to have relevance to his/her master’s program at Carey, the course may be applied as transfer credit.  Transfer of prior course credits must be processed at the time of admission. 
 
