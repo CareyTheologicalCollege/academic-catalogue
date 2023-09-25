@@ -548,6 +548,7 @@ MACM students must complete Carey’s base ten and 6 electives.
 ### <a name="dplo-dmin"></a>Degree Program Learning Outcomes: Doctor of Ministry
 Doctor of Ministry (D.Min.): an advanced degree for experienced pastoral leaders, designed to enhance leadership skills and theological reflection. (source: https://docs.google.com/document/d/1hydd01iDO5A7Ej2VvRymPiOBHYctG2iEodvN-JA7efY/edit#, p. 10)
 The D.Min. program builds on the coursework for the Advanced Diploma, which involves taking doctoral-level versions of advanced electives in one of three areas of focus: Biblical Preaching, Ministry Leadership, and Spiritual Formation. A student’s actual program depends on course availability and selection. Typical courses identified in the Academic Catalog as relevant to the D.Min. include the following:
+
 **Biblical Preaching**
 <table>
 <tr><td>BIBL 900</td>
@@ -563,90 +564,92 @@ The D.Min. program builds on the coursework for the Advanced Diploma, which invo
 <td>Special Topics in Bible</td>
 <td>An in-depth examination of one biblical book or selection of biblical texts organized according to theme or interpretive method.</td></tr>
 </table>
-Ministry Leadership
 
-APPL 920
-Pastoral Care in Today’s Church
-The course will survey the broad biblical, theological and practical foundations critical to the task of pastoral ministry, and will provide you with skills to apply what you learn in ministry and community settings.
-APPL 902
-Advanced Preaching & Communication in a Digital Age
-This course is designed to provide the student with essential tools for crafting and delivering expository sermons to the contemporary church.
-APPL 941
-Discipleship and Education
-This course is a guide for re-imagining the educational mission of the church. Traditional and contemporary educational practices will be assessed biblically and theologically as they apply to Christian formation.
-APPL 901
-Interpersonal Skills & Conflict Management
-This course will help students to develop the “soft skills” of interpersonal management, emotional intelligence, conflict resolution, and leading teams. 
-APPL 900
-Leadership & Administration
-This course will draw upon biblical theology, Christian ethics, and current leadership theory and practice, to help students reflect upon and deliberate leadership skills in their own context. 
-APPL 960
-Spiritual Formation: Theology & Praxis
-This course lays a foundation to the theological understanding of spiritual formation through a variety of practices including scriptural reflection, journaling, retreat, art activities and acts of mercy. 
-APPL 942
-Worship: Theology & Praxis
-This course examines the biblical, theological and historical foundations of Christian worship and evaluates some of its contemporary expressions. Students will gain competency in taking a leadership role in Sunday services, baptisms and the Lord’s Supper. 
-APPL 921
-Pastoral Counseling
-This course helps students to understand and implement the methods and practices of pastoral counselling.
-APPL 940
-Congregational & Community Formation
-This course examines adult Christian education in view of the shifting ways that adults understand truth, religious belief, commitment and community.
-APPL 922
-Pastoral Life: Calling, Identity, Ethics
-The purpose of this course is to assist students in discerning their call to vocational pastoral ministry and to explore with them the essential spiritual, familial, personality, emotional and character issues that enable a lifetime of faithful and enjoyable Christian service.
-APPL 943
-Mission & Evangelism
-This is an in-depth biblical, theological, and historical exploration of the nature of the Church, the Gospel and our participation in the all-encompassing mission of God in the world.
-APPL 899
-Special Topics in Applied Ministry
- 
+**Ministry Leadership**
+<table>
+<tr><td>APPL 920</td>
+<td>Pastoral Care in Today’s Church</td>
+<td>The course will survey the broad biblical, theological and practical foundations critical to the task of pastoral ministry, and will provide you with skills to apply what you learn in ministry and community settings.</td></tr>
+<tr><td>APPL 902</td>
+<td>Advanced Preaching & Communication in a Digital Age</td>
+<td>This course is designed to provide the student with essential tools for crafting and delivering expository sermons to the contemporary church.</td></tr>
+<tr><td>APPL 941</td>
+<td>Discipleship and Education</td>
+<td>This course is a guide for re-imagining the educational mission of the church. Traditional and contemporary educational practices will be assessed biblically and theologically as they apply to Christian formation.</td></tr>
+<tr><td>APPL 901</td>
+<td>Interpersonal Skills & Conflict Management</td>
+<td>This course will help students to develop the “soft skills” of interpersonal management, emotional intelligence, conflict resolution, and leading teams.</td></tr>
+<tr><td>APPL 900</td>
+<td>Leadership & Administration</td>
+<td>This course will draw upon biblical theology, Christian ethics, and current leadership theory and practice, to help students reflect upon and deliberate leadership skills in their own context.</td></tr>
+<tr><td>APPL 960</td>
+<td>Spiritual Formation: Theology & Praxis</td>
+<td>This course lays a foundation to the theological understanding of spiritual formation through a variety of practices including scriptural reflection, journaling, retreat, art activities and acts of mercy.</td></tr>
+<tr><td>APPL 942</td>
+<td>Worship: Theology & Praxis</td>
+<td>This course examines the biblical, theological and historical foundations of Christian worship and evaluates some of its contemporary expressions. Students will gain competency in taking a leadership role in Sunday services, baptisms and the Lord’s Supper.</td></tr>
+<tr><td>APPL 921</td>
+<td>Pastoral Counseling</td>
+<td>This course helps students to understand and implement the methods and practices of pastoral counselling.</td></tr>
+<tr><td>APPL 940</td>
+<td>Congregational & Community Formation</td>
+<td>This course examines adult Christian education in view of the shifting ways that adults understand truth, religious belief, commitment and community.</td></tr>
+<tr><td>APPL 922</td>
+<td>Pastoral Life: Calling, Identity, Ethics</td>
+<td>The purpose of this course is to assist students in discerning their call to vocational pastoral ministry and to explore with them the essential spiritual, familial, personality, emotional and character issues that enable a lifetime of faithful and enjoyable Christian service.</td></tr>
+<tr><td>APPL 943</td>
+<td>Mission & Evangelism</td>
+<td>This is an in-depth biblical, theological, and historical exploration of the nature of the Church, the Gospel and our participation in the all-encompassing mission of God in the world.</td></tr>
+<tr><td>APPL 899</td>
+<td>Special Topics in Applied Ministry</td></tr>
+</table>
 
-
-Spiritual Formation
-
-APPL 960
-Spiritual Formation: Theology & Praxis
-This course lays a foundation to the theological understanding of spiritual formation through a variety of practices including scriptural reflection, journaling, retreat, art activities and acts of mercy. 
-APPL 961
-Awakening to the Inward Journey
-Christian discipleship involves the practice of personal spiritual practices that deepen the believer’s life with God. This course examines the biblical basis of spiritual formation and how it has been practiced in Christian history, with the goal of encouraging spiritual disciplines and rhythms which can sustain a lifetime of Christian service.
-APPL 962
-Living in the Outward Journey
-This course explores a biblical and theological foundation for Christian living as an outward movement of the Spirit, including practices of personal and community discernment which lead to ministry and service opportunities in the church and its witness to the world. 
-APPL 963
-Spiritual Direction
-This course is designed to give the student an overview of the gift of spiritual direction in the church. Emphasis will be placed on providing a theological and historical context for this ministry, understanding the scope of spiritual direction, and relating this gift to ministry within the body of Christ.
-APPL 964
-Leading Spiritual Formation
-This course provides guidance on how to design, implement, assess and reflect on spiritual formation initiatives. The focus of this course will be to lead spiritual formation ministries in a congregational context.
-APPL 965
-Spiritual Practices
-This course surveys the development and theological foundation of spiritual practices in the congregation from both the biblical tradition and Christian history. Students will have the opportunity to engage with and reflect upon spiritual practices for personal and congregational growth.
-APPL 966
-Spiritual Formation and the Church
-Spiritual formation begins with the transforming grace of Jesus Christ in individual lives expressed in one’s love and relationship with one another. This course will explore the meaning and expressions of spiritual formation in the context of Christian community biblically, historically and theologically as well as helping students to develop practical skills for spiritual listening and mentoring for nurturing mature spiritual friendships specifically in the context of the church. 
-APPL 967
-Spirituality through the Arts
-This course explores the arts as a discipline and expression for spiritual formation for individuals and for the Church. Students will be given opportunities to reflect theologically and look afresh at the intersection between the biblical salvation narrative and their personal spiritual journey through the practice of arts. Students will also have the opportunity to design art projects for worship and community formation.
-
+**Spiritual Formation**
+<table>
+<tr><td>APPL 960</td>
+<td>Spiritual Formation: Theology & Praxis</td>
+<td>This course lays a foundation to the theological understanding of spiritual formation through a variety of practices including scriptural reflection, journaling, retreat, art activities and acts of mercy.</td></tr>
+<tr><td>APPL 961</td>
+<td>Awakening to the Inward Journey</td>
+<td>Christian discipleship involves the practice of personal spiritual practices that deepen the believer’s life with God. This course examines the biblical basis of spiritual formation and how it has been practiced in Christian history, with the goal of encouraging spiritual disciplines and rhythms which can sustain a lifetime of Christian service.</td></tr>
+<tr><td>APPL 962</td>
+<td>Living in the Outward Journey</td>
+<td>This course explores a biblical and theological foundation for Christian living as an outward movement of the Spirit, including practices of personal and community discernment which lead to ministry and service opportunities in the church and its witness to the world.</td></tr>
+<tr><td>APPL 963</td>
+<td>Spiritual Direction</td>
+<td>This course is designed to give the student an overview of the gift of spiritual direction in the church. Emphasis will be placed on providing a theological and historical context for this ministry, understanding the scope of spiritual direction, and relating this gift to ministry within the body of Christ.</td></tr>
+<tr><td>APPL 964</td>
+<td>Leading Spiritual Formation</td>
+<td>This course provides guidance on how to design, implement, assess and reflect on spiritual formation initiatives. The focus of this course will be to lead spiritual formation ministries in a congregational context.</td></tr>
+<tr><td>APPL 965</td>
+<td>Spiritual Practices</td>
+<td>This course surveys the development and theological foundation of spiritual practices in the congregation from both the biblical tradition and Christian history. Students will have the opportunity to engage with and reflect upon spiritual practices for personal and congregational growth.</td></tr>
+<tr><td>APPL 966</td>
+<td>Spiritual Formation and the Church</td>
+<td>Spiritual formation begins with the transforming grace of Jesus Christ in individual lives expressed in one’s love and relationship with one another. This course will explore the meaning and expressions of spiritual formation in the context of Christian community biblically, historically and theologically as well as helping students to develop practical skills for spiritual listening and mentoring for nurturing mature spiritual friendships specifically in the context of the church.</td></tr>
+<tr><td>APPL 967</td>
+<td>Spirituality through the Arts</td>
+<td>This course explores the arts as a discipline and expression for spiritual formation for individuals and for the Church. Students will be given opportunities to reflect theologically and look afresh at the intersection between the biblical salvation narrative and their personal spiritual journey through the practice of arts. Students will also have the opportunity to design art projects for worship and community formation.</td></tr>
+</table>
 
 On completion of the Advanced Diploma, all D.Min. students take DMN 901 in preparation for research and the writing of their doctoral thesis. 
-DMN 901
-Research Writing and Proposal
-This course is designed to help students prepare to research, write, and defend their Doctor of Ministry thesis project—and more broadly, to engage effectively in the ministry of Christian scholarship. We will consider the role of scholarship in the context of church ministry, and will discuss practical principles, resources, and techniques that may assist students as they plan and pursue their own doctoral project. Students will construct and submit a viable project proposal as part of the course. 
-DMN 902
-Thesis Project
-A DMin project is a professional project that integrates theological reflection, scholarly research, and practical ministry. The project offers students the opportunity to integrate practice and theory through the engagement of specific projects within the context of the student’s ministerial practice, and to produce a written reflection which draws on relevant scholarly literature to interpret it. The final product will contribute to the enhancement of ministry in both one’s own ministry context and the larger church. 
 
+<table>
+<tr><td>DMN 901</td>
+<td>Research Writing and Proposal</td>
+<td>This course is designed to help students prepare to research, write, and defend their Doctor of Ministry thesis project—and more broadly, to engage effectively in the ministry of Christian scholarship. We will consider the role of scholarship in the context of church ministry, and will discuss practical principles, resources, and techniques that may assist students as they plan and pursue their own doctoral project. Students will construct and submit a viable project proposal as part of the course.</td></tr>
+<tr><td>DMN 902</td>
+<td>Thesis Project</td>
+<td>A DMin project is a professional project that integrates theological reflection, scholarly research, and practical ministry. The project offers students the opportunity to integrate practice and theory through the engagement of specific projects within the context of the student’s ministerial practice, and to produce a written reflection which draws on relevant scholarly literature to interpret it. The final product will contribute to the enhancement of ministry in both one’s own ministry context and the larger church.</td></tr>
+</table>
 
-D.Min. Degree Program Learning Outcomes
-[Biblical Knowledge]  Graduates will demonstrate that their ministry leadership strategies and practices are built on a substantial foundation of biblical knowledge.
-[Biblical Interpretation]  Graduates will demonstrate and model advanced hermeneutical skills as they apply Scripture in their research and development of projects pertaining to their areas of ministry focus.
-[Historical & Theological Knowledge]  Graduates will demonstrate that their ministry leadership strategies and practices are thoughtfully grounded in a foundation of theological knowledge and understanding of Christian history.
-[Historical & Theological Application]  Graduates will demonstrate and model excellence in the integration of theology and historical understanding with their ministry-related research.
-[Formation]  Graduates will identify and develop practices that sustain personal and spiritual wellness, perseverance, perspective, and joy while balancing vocation and doctoral research.
-[Ministry & Witness]  Graduates will refine, model, and promote strategic skills for Christian ministry in their contexts and areas of research focus.
+**D.Min. Degree Program Learning Outcomes**
+1. **[Biblical Knowledge]**  Graduates will demonstrate that their ministry leadership strategies and practices are built on a substantial foundation of biblical knowledge.
+2. **[Biblical Interpretation]**  Graduates will demonstrate and model advanced hermeneutical skills as they apply Scripture in their research and development of projects pertaining to their areas of ministry focus.
+3. **[Historical & Theological Knowledge]**  Graduates will demonstrate that their ministry leadership strategies and practices are thoughtfully grounded in a foundation of theological knowledge and understanding of Christian history.
+4. **[Historical & Theological Application]**  Graduates will demonstrate and model excellence in the integration of theology and historical understanding with their ministry-related research.
+5. **[Formation]**  Graduates will identify and develop practices that sustain personal and spiritual wellness, perseverance, perspective, and joy while balancing vocation and doctoral research.
+6. **[Ministry & Witness]**  Graduates will refine, model, and promote strategic skills for Christian ministry in their contexts and areas of research focus.
 Note: because the Advanced Diploma is linked with the D.Min. program, and because ATS does not accredit or review diploma programs, only one set of program outcomes has been supplied for the Advanced Diploma and the D.Min. Given the scope of the doctoral thesis, it is understood that all the program outcomes should be developed and evidenced in conjunction with DMN 901 and 902. They will be addressed in prior coursework as well, though the fluidity of the program makes it impossible to build a rigid map between outcomes and a fixed set of classes.
 
 
