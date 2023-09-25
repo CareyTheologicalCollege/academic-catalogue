@@ -436,29 +436,29 @@ Aside from the base ten and six electives, M. Div. students take the following c
 <tr>
 <td>APPL 620/920</td>
 </tr>
-<tr>Pastoral Care in Today's Church</tr>
-<tr>The course will survey the broad biblical, theological and practical foundations critical to the task of pastoral ministry, and will provide you with skills to apply what you learn in ministry and community settings.</tr>
-<tr>APPL 602/902</tr>
-<tr>Advanced Preaching & Communication in a Digital Age</tr>
-<tr>This course is designed to provide the student with essential tools for crafting and delivering expository sermons to the contemporary church.</tr>
-<tr>APPL 641/941</tr>
-<tr>Discipleship & Education</tr>
-<tr>This course is a guide for re-imagining the educational mission of the church. Traditional and contemporary educational practices will be assessed biblically and theologically as they apply to Christian formation.</tr>
-<tr>APPL 601/901</tr>
-<tr>Interpersonal skills & conflict resolution</tr>
-<tr>This course will help students to develop the “soft skills” of interpersonal management, emotional intelligence, conflict resolution, and leading teams.</tr>
-<tr>APPL 600/900</tr>
-<tr>Leadership & Administration</tr>
-<tr>This course will draw upon biblical theology, Christian ethics, and current leadership theory and practice, to help students reflect upon and deliberate leadership skills in their own context.</tr>
-<tr>APPL 660/960</tr>
-<tr>Spiritual Formation: Theology & Praxis</tr>
-<tr>This course lays a foundation to the theological understanding of spiritual formation through a variety of practices including scriptural reflection, journaling, retreat, art activities and acts of mercy.</tr>
-<tr>BIBL 600/900</tr>
-<tr>Biblical Interpretation: Theory & Craft</tr>
-<tr>This course supplies a foundation for lifelong study, interpretation, and application of the Christian Scriptures, particularly for vocations of Christian ministry. It includes an overview of principles of biblical interpretation and exposure to resources available to aid interpretation.</tr>
-<tr>THEO 600/900</tr>
-<tr>Christian Ethics</tr>
-<tr>This course will help students to gain an understanding of the philosophical, biblical, and theological bases for personal and social morality, and to develop competence in thoughtful moral decision-making in a Christian framework. A number of selected contemporary ethical issues will be discussed.</tr>
+<tr><td>Pastoral Care in Today's Church</td></tr>
+<tr><td>The course will survey the broad biblical, theological and practical foundations critical to the task of pastoral ministry, and will provide you with skills to apply what you learn in ministry and community settings.</td></tr>
+<tr><td>APPL 602/902</td></tr>
+<tr><td>Advanced Preaching & Communication in a Digital Age</td></tr>
+<tr><td>This course is designed to provide the student with essential tools for crafting and delivering expository sermons to the contemporary church.</td></tr>
+<tr><td>APPL 641/941</td></tr>
+<tr><td>Discipleship & Education</td></tr>
+<tr><td>This course is a guide for re-imagining the educational mission of the church. Traditional and contemporary educational practices will be assessed biblically and theologically as they apply to Christian formation.</td></tr>
+<tr><td>APPL 601/901</td></tr>
+<tr><td>Interpersonal skills & conflict resolution</td></tr>
+<tr><td>This course will help students to develop the “soft skills” of interpersonal management, emotional intelligence, conflict resolution, and leading teams.</td></tr>
+<tr><td>APPL 600/900</td></tr>
+<tr><td>Leadership & Administration</td></tr>
+<tr><td>This course will draw upon biblical theology, Christian ethics, and current leadership theory and practice, to help students reflect upon and deliberate leadership skills in their own context.</td></tr>
+<tr><td>APPL 660/960</td></tr>
+<tr><td>Spiritual Formation: Theology & Praxis</td></tr>
+<tr><td>This course lays a foundation to the theological understanding of spiritual formation through a variety of practices including scriptural reflection, journaling, retreat, art activities and acts of mercy.</td></tr>
+<tr><td>BIBL 600/900</td></tr>
+<tr><td>Biblical Interpretation: Theory & Craft</td></tr>
+<tr><td>This course supplies a foundation for lifelong study, interpretation, and application of the Christian Scriptures, particularly for vocations of Christian ministry. It includes an overview of principles of biblical interpretation and exposure to resources available to aid interpretation.</td></tr>
+<tr><td>THEO 600/900</td></tr>
+<tr><td>Christian Ethics</td></tr>
+<tr><td>This course will help students to gain an understanding of the philosophical, biblical, and theological bases for personal and social morality, and to develop competence in thoughtful moral decision-making in a Christian framework. A number of selected contemporary ethical issues will be discussed.</td></tr>
 </table>
 
 ### <a name="dplo-mpm"></a>Degree Program Learning Outcomes: MPM
