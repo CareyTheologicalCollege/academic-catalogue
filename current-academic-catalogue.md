@@ -63,9 +63,10 @@ Table of Contents
     6. [General Master's Degree Program Policies](#general-masters-degree-program-policies)
     7. [Transfer Credits, Shared Credits, Advanced Standing and Exemptions](#transfer-credits-shared-credits-advanced-standing-and-exemptions)    
         1. [Transfer Credits](#transfer-credits)
-        2. [Shared Credit](#shared-credit)
-        3. [Advanced Standing with Credit](#advanced-standing-with-credit)
-        4. [Exemption](#exemption)
+        2. [Clinical Pastoral Education](#clinical-pastoral-education)
+        3. [Shared Credit](#shared-credit)
+        4. [Advanced Standing with Credit](#advanced-standing-with-credit)
+        5. [Exemption](#exemption)
 7. [Course Registration](#course-registration)
 8. [Assessment and Grading](#assessment-and-grading)    
     1. [Grading Scale: Diplomas, Masters Programs](#grading-scale-diplomas-masters-programs)
@@ -2042,23 +2043,29 @@ Students who wish to apply courses from another institution toward a Carey progr
 There is a fee for processing a Letter of Permission for transfer credits. See Schedule of Fees.
 Carey course offerings are published in advance so that students may plan their course load to fulfill the requirements of their program. Students should note the maximum number of transfer credits that are acceptable.
 
-Maximum combined shared/transferred credits from another accredited seminary or religious institution that can be applied to a Carey degree program: ADP: 6;  MDiv: 36;  MACM, MPM, MASF: 24; Diploma: 6.
+Maximum combined shared/transferred credits from another accredited seminary or religious institution that can be applied to a Carey degree program: ADP.: 6;  M.Div.: 36;  MACM, MPM, MASF: 24; Diploma in Christian Ministry: 6.  
 
-Maximum combined shared/transferred credits earned at Carey that can be applied to a Carey degree program: ADP: 12 MDiv: 48;  MACM, MPM, MASF: 30; Diploma: 15.  
+Maximum combined shared/transferred credits earned at Carey that can be applied to a Carey Masters degree program: M.Div.: 45;  MACM, MPM, MASF: 30; Diploma in Christian Ministry: 9.
+
+### <a name="clinical-pastoral-education"></a>Clinical Pastoral Education
+All students are required to complete the supervised ministry/peer learning course, which includes mentorship and practicum involvement. Please note: students who desire to include CPE (Clinical Pastoral Education) credits in their program may apply to do so as transfer credits. An individual who wishes to incorporate CPE into the practicum portion of APPL 801 and APPL 802 courses must receive prior approval and make arrangements with the supervising faculty member and the Office of the Registrar. 
+
 ### <a name="shared-credit"></a>Shared Credit
-Where a student has completed a graduate academic program at another accredited seminary or religious institution, and a particular course taken as part of that program can be shown to have specific relevance to one’s master’s program at Carey, shared credits may be awarded. Shared credits function similarly to transfer credits; however, because they are applied simultaneously to two different degrees, accreditation standards place stricter limits on the number of shared credits that can be applied. 
+Where a student has completed a graduate academic program and wishes to earn another degree or if a student is pursuing a dual degree, and a particular course taken as part of that program can be shown to have specific relevance to one’s master’s program at Carey, shared credits may be awarded. 
 
 A minimum grade of B- is required and the course must have been taken within the last 10 years. The number of shared credits granted will be dependent on the discretion of the Admissions Committee, in consultation with ATS guidelines and policies. Shared credits must be processed at the time of admission. 
+
 ### <a name="advanced-standing-with-credit"></a>Advanced Standing with Credit
 Advanced Standing with Credit is the process by which a student’s prior learning through degree program coursework in an accredited undergraduate theological institution is recognized as providing limited equivalency to the requirements of a seminary degree program, allowing a corresponding reduction in graduate credits required for graduation. It is a way of acknowledging that some students enter seminary with an extensive background in theological study that overlaps to some degree with what is covered in the seminary program, in a manner that would not be true of the typical seminary student who lacks that background. (A parallel process is occasionally applied for students with Th.M. credits or two theological master’s degrees who seek Advanced Standing toward the D.Min.) 
 
-When assessing Advanced Standing with Credit, the Office of the Registrar will review a student’s undergraduate transcripts, identifying areas of correspondence with core classes required in the Carey program. Credit will be granted for the relevant Carey courses based on assessed equivalency. Advanced standing may not be awarded for required electives. No more than 33% of credits required for the Carey program may be covered through Advanced Standing. Normally Advanced Standing is granted only to students who have completed a theological undergraduate degree whose program focus is similar to that of the Carey degree, where there is a clear specialization (50-60+ credits) in the area where Advanced Standing is sought. Ministry experience cannot be used to substitute for academic credits.
+When assessing Advanced Standing with Credit, the Office of the Registrar will review a student’s transcripts, identifying areas of correspondence with core classes required in the Carey program. Credit will be granted for the relevant Carey courses based on assessed equivalency. Advanced standing may not be awarded for required electives. No more than 33% of credits required for the Carey program may be covered through Advanced Standing. Normally Advanced Standing is granted only to students who have completed a theological undergraduate degree whose program focus is similar to that of the Carey degree, where there is a clear specialization (50-60+ credits) in the area where Advanced Standing is sought. Ministry experience cannot be used to substitute for academic credits.
 
 Please note that credits granted through Advanced Standing assessment are equivalency credits, meaning they are non-transferrable, and can only be used in the context of the relevant Carey degree program. 
 
 Students are not permitted to register in courses for which they have been granted Advanced Standing with Credit.
 
 Maximum Advanced Standing credits: ADP: 6; MDiv: 24;  MACM, MPM, MASF: 15; Diploma: 6
+
 ### <a name="exemption"></a>Exemption
 Exemption is when a student is not required to enrol in a required course based on extensive relevant experience. An exemption does not reduce the overall number of credits required for the program. The required credits must be replaced with an alternative course; typically from a course in the same discipline or upon approval by the Office of the Registrar.
 
