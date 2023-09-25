@@ -426,7 +426,7 @@ The common learning outcomes include the following:
 
 6. Ministry & Witness. **Graduates demonstrate skills to build up the body of Christ for ministry and witness in a complex world.**
 
-### <a name="dplo-mdiv"></a>Degree Program Learning Outcomes: MDIV
+### <a name="dplo-mdiv"></a>Degree Program Learning Outcomes: Master of Divinity
 Master of Divinity (M.Div.): the standard seminary program for preparing pastoral leaders, provides a thorough foundation of biblical, theological, and ministry studies for pastoral leadership. 
 (source: https://docs.google.com/document/d/1hydd01iDO5A7Ej2VvRymPiOBHYctG2iEodvN-JA7efY/edit#, p. 10)
 
@@ -461,20 +461,52 @@ Aside from the base ten and six electives, M. Div. students take the following c
 <tr><td>This course will help students to gain an understanding of the philosophical, biblical, and theological bases for personal and social morality, and to develop competence in thoughtful moral decision-making in a Christian framework. A number of selected contemporary ethical issues will be discussed.</td></tr>
 </table>
 
-*Strategies* 
-* Distinctive emphases and language in Degree Program Learning Outcomes (DPLOs) derive from required curriculum for that degree, rather than from general ideas about what we want students to get. 
-* Each Learning Outcome must still be measurable, concrete, and singular. 
-* Each Learning Outcome should correspond to its respective Institutional Learning Outcomes (ILOs), which are numbered 1–6. 
-* The DPLOs can be slightly longer than the ILOs, but should still be a single sentence. 
+**<u>M. Div. Degree Program Learning Outcomes</u>**
+1. [Biblical Knowledge]. Graduates will have a working knowledge of Scripture in its historical, literary, and canonical contexts. 
+2. [Biblical Interpretation]. Graduates will show proficiency in biblical interpretation for preaching the word, serving the church, developing moral vision, and other elements central to faithful pastoral vocation. 
+3. [Historical & Theological Knowledge] Graduates will have a working knowledge of Christian theology and history to draw upon for the work of Christian ministry. 
+4. [Historical & Theological Application]. Graduates will be able to engage with Christian history and theology for the advancement of Christian discipleship, ministry, and mission. 
+5. [Formation]. Graduates will identify and develop practices that cultivate life with God, love of neighbor, personal wellness, resilience, and joy in vocation.
+6. [Ministry & Witness]. Graduates will demonstrate essential skills for Christian ministry and witness in a complex world (including pastoral care, discipleship, church administration, and worship planning). 
 
 
-### <a name="dplo-mpm"></a>Degree Program Learning Outcomes: MPM
+### <a name="dplo-mpm"></a>Degree Program Learning Outcomes: Master of Pastoral Ministry
+Master of Pastoral Ministry (MPM): a compressed pastoral training degree covers essential biblical, theological, ministry subjects, to make ministry training accessible.  It requires the students to successfully complete 48 credits (so 16 courses) with a minimum GPA of 2.70 for graduation (Academic Catalogue, p.10 and p.24). In addition, the program requirement for the MPM degree can be found here.
 
-### <a name="dplo-masf"></a>Degree Program Learning Outcomes: MASF
+Aside from the base ten and one elective, MPM students take the following courses: 
+<table>
+<tr><td>APPL 620/920</td></tr>
+<tr><td>Pastoral Care in Today's Church</td></tr>
+<tr><td>The course will survey the broad biblical, theological and practical foundations critical to the task of pastoral ministry, and will provide you with skills to apply what you learn in ministry and community settings.</td></tr>
+<tr><td>APPL 602/902</td></tr>
+<tr><td>Advanced Preaching & Communication in a Digital Age</td></tr>
+<tr><td>This course is designed to provide the student with essential tools for crafting and delivering expository sermons to the contemporary church.</td></tr>
+<tr><td>APPL 641/941</td></tr>
+<tr><td>Discipleship & Education</td></tr>
+<tr><td>This course is a guide for re-imagining the educational mission of the church. Traditional and contemporary educational practices will be assessed biblically and theologically as they apply to Christian formation.</td></tr>
+<tr><td>APPL 601/901</td></tr>
+<tr><td>Interpersonal skills & conflict resolution</td></tr>
+<tr><td>This course will help students to develop the “soft skills” of interpersonal management, emotional intelligence, conflict resolution, and leading teams. </td></tr>
+<tr><td>APPL 600/900</td></tr>
+<tr><td>Leadership & Administration</td></tr>
+<tr><td>This course will draw upon biblical theology, Christian ethics, and current leadership theory and practice, to help students reflect upon and deliberate leadership skills in their own context.</td></tr>
+</table>
 
-### <a name="dplo-macm"></a>Degree Program Learning Outcomes: MACM
+**<u>MPM Degree Program Learning Outcomes (DPLO’s)</u>**
 
-### <a name="dplo-dmin"></a>Degree Program Learning Outcomes: DMIN
+[Biblical Knowledge]. Graduates will have a working knowledge of Scripture in its historical, literary, and canonical contexts. 
+[Biblical Interpretation]. Graduates will show competency in biblical interpretation for preaching the word, serving the church, developing moral vision, and other elements central to faithful pastoral vocation. 
+[Historical & Theological Knowledge] Graduates will have fundamental knowledge of Christian theology and history to draw upon for the work of pastoral ministry. 
+[Historical & Theological Application]. Graduates will be able to engage with Christian history and theology for pastoral ministry including preaching, discipleship and mission. 
+[Formation]. Graduates will identify and develop practices that cultivate life with God, love of neighbor, personal wellness, resilience, and joy in vocation.
+[Ministry & Witness]. Graduates will demonstrate core skills for Christian ministry and witness in a complex world (including pastoral care, discipleship, church administration, and worship planning). 
+
+
+### <a name="dplo-masf"></a>Degree Program Learning Outcomes: Master of Arts in Spiritual Formation
+
+### <a name="dplo-macm"></a>Degree Program Learning Outcomes: Master of Arts in Christian Ministry
+
+### <a name="dplo-dmin"></a>Degree Program Learning Outcomes: Doctor of Ministry
 
 ## <a name="archiving-student-assignments-for-assessment-purposes"></a>Archiving Student Assignments for Assessment Purposes
 All ATS-accredited schools must perform an annual assessment of our educational effectiveness. This includes evaluating the success of our student body in accomplishing program learning outcomes, by reviewing a selection of assignments submitted by students.
